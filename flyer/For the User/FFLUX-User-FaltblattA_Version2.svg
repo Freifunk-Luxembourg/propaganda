@@ -14,7 +14,7 @@
    viewBox="0 0 841.88977 595.27561"
    id="svg6811"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="FFLUX-User-FaltblattA.svg"
+   sodipodi:docname="FFLUX-User-FaltblattA_Version2.svg"
    inkscape:export-filename="/home/andi/Pictures/Freifunk/flyerB.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -44,8 +44,8 @@
      id="namedview9283"
      showgrid="false"
      inkscape:zoom="1.0000001"
-     inkscape:cx="489.04441"
-     inkscape:cy="809.88635"
+     inkscape:cx="648.22372"
+     inkscape:cy="679.55284"
      inkscape:window-x="0"
      inkscape:window-y="31"
      inkscape:window-maximized="0"
@@ -1327,7 +1327,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.99999905px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#1f558d">Weitere Informationen </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#1f558d;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762000000203%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#e20078;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
        x="619.37927"
        y="-189.48132"
        id="text12951"
@@ -1336,11 +1336,11 @@
          id="tspan12953"
          x="619.37927"
          y="-189.48132"
-         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:AlternateGothic2 BT;-inkscape-font-specification:AlternateGothic2 BT Condensed">Freifunk</tspan><tspan
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;text-align:center;line-height:89.99999762000000203%;writing-mode:lr-tb;text-anchor:middle;fill:#e20078;fill-opacity:1;font-family:AlternateGothic2 BT;-inkscape-font-specification:AlternateGothic2 BT Condensed">Freifunk</tspan><tspan
          sodipodi:role="line"
          x="619.37927"
          y="-124.68132"
-         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;fill:#1f558d;fill-opacity:1;font-family:AlternateGothic2 BT;-inkscape-font-specification:AlternateGothic2 BT Condensed"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;text-align:center;line-height:89.99999762000000203%;writing-mode:lr-tb;text-anchor:middle;fill:#fab313;fill-opacity:1;font-family:AlternateGothic2 BT;-inkscape-font-specification:AlternateGothic2 BT Condensed"
          id="tspan12955">Lëtzebuerg</tspan></text>
     <text
        sodipodi:linespacing="125%"
@@ -1543,7 +1543,7 @@
     </text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.44485283px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#e20078;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.44485282999999853px;line-height:125%;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#e20078;fill-opacity:1;stroke:none"
        x="821.16278"
        y="-20.273457"
        id="text3461"
@@ -1553,9 +1553,11 @@
          id="tspan3463"
          x="821.16278"
          y="-20.273457"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:80.00000778px;font-family:'AlternateGothic2 BT';-inkscape-font-specification:'AlternateGothic2 BT Condensed';text-align:center;text-anchor:middle;fill:#e20078;fill-opacity:1">freifunk<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:80.00000778px;font-family:'AlternateGothic2 BT';-inkscape-font-specification:'AlternateGothic2 BT Condensed';text-align:center;text-anchor:middle;fill:#1f558d"
-   id="tspan3467">.lu</tspan></tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:80.00000778000000423px;font-family:AlternateGothic2 BT;-inkscape-font-specification:AlternateGothic2 BT Condensed;text-align:center;text-anchor:middle;fill:#e20078;fill-opacity:1">freifunk<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:80.00000778000000423px;font-family:AlternateGothic2 BT;-inkscape-font-specification:AlternateGothic2 BT Condensed;text-align:center;text-anchor:middle;fill:#e20078;fill-opacity:1"
+   id="tspan3467"><tspan
+   style="fill:#fab313;fill-opacity:1"
+   id="tspan4349">.</tspan>lu</tspan></tspan></text>
     <g
        transform="translate(316.58856,54.12901)"
        style="display:inline"
@@ -2576,7 +2578,7 @@
            height="80.999992"
            x="640.99994"
            y="120.09454" /></flowRegion><flowPara
-         id="flowPara3586"></flowPara></flowRoot>  </g>
+         id="flowPara3586" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
