@@ -45,8 +45,8 @@
      inkscape:cy="351.98656"
      inkscape:window-x="0"
      inkscape:window-y="20"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="g10494"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10444"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -2010,12 +2010,12 @@
          id="flowPara6372" /></flowRoot>    <rect
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:89.99999762%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#fab313;stroke-width:5.66929245;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5970"
-       width="839.05505"
-       height="595.27557"
-       x="1.4173462"
-       y="-311.81058"
-       rx="0.04102616"
-       ry="0.51782811" />
+       width="836.22046"
+       height="589.60638"
+       x="2.8346462"
+       y="-308.97598"
+       rx="0.040887561"
+       ry="0.51289654" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot35475"
@@ -3602,14 +3602,14 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.40000057px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e20078;fill-opacity:1;stroke:none"
          x="139.05379"
-         y="255.68813"
+         y="261.35742"
          id="text12371"
          sodipodi:linespacing="125%"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#e20078;fill-opacity:1"
            sodipodi:role="line"
            id="tspan12373"
            x="139.05379"
-           y="255.68813">&quot;Public WiFi, done right!&quot;</tspan></text>
+           y="261.35742">&quot;Public WiFi, done right!&quot;</tspan></text>
       <flowRoot
          transform="matrix(1.0131622,0,0,1.0954315,-31.573801,-852.06947)"
          style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

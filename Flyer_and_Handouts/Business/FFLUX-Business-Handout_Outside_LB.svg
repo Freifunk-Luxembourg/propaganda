@@ -14,7 +14,7 @@
    viewBox="0 0 841.88977 595.27561"
    id="svg6811"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="FFLUX-Business-Handout_A_LB.svg"
+   sodipodi:docname="FFLUX-Business-Handout_Outside_LB.svg"
    inkscape:export-filename="/home/andi/Pictures/Freifunk/flyerB.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -42,15 +42,15 @@
      inkscape:window-width="1920"
      inkscape:window-height="1040"
      id="namedview9283"
-     showgrid="false"
-     inkscape:zoom="1.6621095"
-     inkscape:cx="343.63426"
-     inkscape:cy="306.20354"
+     showgrid="true"
+     inkscape:zoom="1.3813039"
+     inkscape:cx="592.37462"
+     inkscape:cy="276.42692"
      inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="0"
-     inkscape:current-layer="Hauptebene"
-     showguides="true"
+     inkscape:current-layer="layer1"
+     showguides="false"
      inkscape:guide-bbox="true">
     <sodipodi:guide
        orientation="1,0"
@@ -72,6 +72,12 @@
        orientation="0,1"
        position="-51.618794,747.6378"
        id="guide3484" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid8924"
+       units="mm"
+       spacingx="420.94489"
+       spacingy="297.63781" />
   </sodipodi:namedview>
   <defs
      id="defs6813">
@@ -1163,6 +1169,10 @@
     </font>
   </defs>
   <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Helper" />
+  <g
      id="Hauptebene"
      inkscape:label="Hauptebene"
      inkscape:groupmode="layer"
@@ -1170,338 +1180,152 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-size:14.40000056999999956px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e20078;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.40000057px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e20078;fill-opacity:1;stroke:none"
        x="127.969"
-       y="-64.321442"
+       y="-48.71104"
        id="text3868-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3870-6"
          x="127.969"
-         y="-64.321442"
-         style="font-size:15.99999904999999956px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#e20078;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill-opacity:1">Weider Informatiounen</tspan></text>
+         y="-48.71104"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.99999905px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#e20078;fill-opacity:1">Weider Informatiounen</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762000000203%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#e20078;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
-       x="619.37927"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:89.99999762%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#e20078;fill-opacity:1;stroke:none"
+       x="629.06183"
        y="-189.48132"
        id="text12951"
        sodipodi:linespacing="89.999998%"><tspan
          sodipodi:role="line"
          id="tspan12953"
-         x="619.37927"
+         x="629.06183"
          y="-189.48132"
-         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;text-align:center;line-height:89.99999762000000203%;writing-mode:lr-tb;text-anchor:middle;fill:#e20078;fill-opacity:1;font-family:AlternateGothic2 BT;-inkscape-font-specification:AlternateGothic2 BT Condensed">Freifunk</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:72px;line-height:89.99999762%;font-family:'AlternateGothic2 BT';-inkscape-font-specification:'AlternateGothic2 BT Condensed';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#e20078;fill-opacity:1">Freifunk</tspan><tspan
          sodipodi:role="line"
-         x="619.37927"
-         y="-124.68132"
-         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;text-align:center;line-height:89.99999762000000203%;writing-mode:lr-tb;text-anchor:middle;fill:#fab313;fill-opacity:1;font-family:AlternateGothic2 BT;-inkscape-font-specification:AlternateGothic2 BT Condensed"
+         x="629.06183"
+         y="-124.68133"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:72px;line-height:89.99999762%;font-family:'AlternateGothic2 BT';-inkscape-font-specification:'AlternateGothic2 BT Condensed';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#fab313;fill-opacity:1"
          id="tspan12955">Lëtzebuerg</tspan></text>
     <text
        sodipodi:linespacing="125%"
-       id="text12195"
-       y="-267.93265"
-       x="28.360476"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.60000038px;line-height:125%;font-family:'Domestic Manners';-inkscape-font-specification:'Domestic Manners Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e20078;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan12381"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.99999905px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono Bold';text-align:center;text-anchor:middle;fill:#000000"
-         y="-267.93265"
-         x="28.360476"
-         sodipodi:role="line" /><tspan
-         id="tspan12240"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.00000095px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#e20078"
-         y="-252.49167"
-         x="28.360476"
-         sodipodi:role="line">Ass mäin eegent, Privat Netzwierk sécher?</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.00000095px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#000000"
-         y="-239.99167"
-         x="28.360476"
-         sodipodi:role="line"
-         id="tspan14316">Jo! Den Trafic aus dem Freifunk-Netz ass komplett vum</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.00000095px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#000000"
-         y="-227.49167"
-         x="28.360476"
-         sodipodi:role="line"
-         id="tspan3584">privaten Netz a senge Computeren getrennt.</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.00000095px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#000000"
-         y="-214.99167"
-         x="28.360476"
-         sodipodi:role="line"
-         id="tspan14320" /><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.00000095px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#e20078"
-         y="-202.49167"
-         x="28.360476"
-         sodipodi:role="line"
-         id="tspan14401">Ännert sech d'Vitesse vu mengem Uschloss?</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.00000095px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#000000"
-         y="-189.99167"
-         x="28.360476"
-         sodipodi:role="line"
-         id="tspan14334">Nee! Den Freifunk-Router notzt nëmmen een Deel vun der</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.00000095px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#000000"
-         y="-177.49167"
-         x="28.360476"
-         sodipodi:role="line"
-         id="tspan3593">disponibeler Bandbreet. Du selwer bestëmms, wei vill s du</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.00000095px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#000000"
-         y="-164.99167"
-         x="28.360476"
-         sodipodi:role="line"
-         id="tspan3595">fir d'Freifunk Netz wëlls zur Verfügung stellen.</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.00000095px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#000000"
-         y="-152.49167"
-         x="28.360476"
-         sodipodi:role="line"
-         id="tspan12871" /><tspan
-         id="tspan12365"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.00000095px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#e20078"
-         y="-139.99165"
-         x="28.360476"
-         sodipodi:role="line">Wéi eng Käschte kommen op mech duer?</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.00000095px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#000000"
-         y="-127.49166"
-         x="28.360476"
-         sodipodi:role="line"
-         id="tspan4373">Dat hänkt vun der gréisst an dem Besoin vun ärem Établissement of.</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.00000095px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#000000"
-         y="-114.99166"
-         x="28.360476"
-         sodipodi:role="line"
-         id="tspan4383">Zesummen kucken mir fir eng ideal an ugepassten Solutioun fir iech ze fannen.</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.00000095px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#000000"
-         y="-102.49165"
-         x="28.360476"
-         sodipodi:role="line"
-         id="tspan4391">Op alle Fall muss een just d'Routeren selwer bezuelen an een klengen Obulus</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.00000095px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#000000"
-         y="-89.991653"
-         x="28.360476"
-         sodipodi:role="line"
-         id="tspan4393">fir den Entretien deen mir maachen. </tspan></text>
-    <text
-       sodipodi:linespacing="125%"
        id="text14304"
-       y="-270.44702"
-       x="151.82899"
-       style="font-size:14.40000056999999956px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e20078;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       y="-270.4472"
+       x="160.22194"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.40000057px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e20078;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="-270.44702"
-         x="151.82899"
+         y="-270.4472"
+         x="160.22194"
          id="tspan14306"
          sodipodi:role="line"
-         style="font-size:15.99999904999999956px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#e20078;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill-opacity:1">Heefeg Froen </tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.99999905px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#e20078;fill-opacity:1">Heefeg Froen </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e20078;fill-opacity:1;stroke:none;font-family:Domestic Manners;-inkscape-font-specification:Liberation Mono"
-       x="28.360476"
-       y="-58.332508"
-       id="text14411"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="28.360476"
-         y="-58.332508"
-         style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
-         id="tspan14413" /><tspan
-         sodipodi:role="line"
-         x="28.360476"
-         y="-45.012222"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e20078;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
-         id="tspan14514">Websäit:</tspan><tspan
-         sodipodi:role="line"
-         x="28.360476"
-         y="-32.512222"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
-         id="tspan6022">Mir benotzen d'Infrastruktur vun den Lëtzebuerger Freifunker: </tspan><tspan
-         sodipodi:role="line"
-         x="28.360476"
-         y="-20.012222"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
-         id="tspan4411">   freifunk.lu</tspan><tspan
-         id="tspan14421"
-         sodipodi:role="line"
-         x="28.360476"
-         y="-7.5122218"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium" /><tspan
-         sodipodi:role="line"
-         x="28.360476"
-         y="4.9877782"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e20078;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
-         id="tspan14457">Kaart a Statistiken:</tspan><tspan
-         id="tspan14427"
-         sodipodi:role="line"
-         x="28.360476"
-         y="17.487778"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">   map.freifunk.lu</tspan><tspan
-         sodipodi:role="line"
-         x="28.360476"
-         y="29.987778"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
-         id="tspan3601">   stats.freifunk.lu</tspan><tspan
-         id="tspan14431"
-         sodipodi:role="line"
-         x="28.360476"
-         y="42.487778"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium" /><tspan
-         sodipodi:role="line"
-         x="28.360476"
-         y="54.987778"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e20078;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
-         id="tspan14435">Email-Kontakt:</tspan><tspan
-         sodipodi:role="line"
-         x="28.360476"
-         y="67.487778"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
-         id="tspan14437">   freifunk@c3l.lu</tspan><tspan
-         sodipodi:role="line"
-         x="28.360476"
-         y="79.987778"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
-         id="tspan14485" /><tspan
-         sodipodi:role="line"
-         x="28.360476"
-         y="92.487778"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e20078;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
-         id="tspan14496">Freifunker-Treffen:</tspan><tspan
-         sodipodi:role="line"
-         x="28.360476"
-         y="104.98778"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
-         id="tspan4425">All Méinden um 20:00 Auer am eegenen Hackerspace &quot;ChaosStuff&quot;.</tspan><tspan
-         sodipodi:role="line"
-         x="28.360476"
-         y="117.48778"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
-         id="tspan3610">Hei kann een diskutéieren, Router ariichten, Froe stellen a beäntweren.</tspan><tspan
-         sodipodi:role="line"
-         x="28.360476"
-         y="129.98778"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
-         id="tspan3614">Méi op: www.chaosstuff.lu</tspan><tspan
-         sodipodi:role="line"
-         x="28.360476"
-         y="142.48778"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
-         id="tspan4406" /><tspan
-         sodipodi:role="line"
-         x="28.360476"
-         y="154.98778"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e20078;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
-         id="tspan4408">Bedreiwer:</tspan><tspan
-         sodipodi:role="line"
-         x="28.360476"
-         y="167.48778"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
-         id="tspan4412">Freifunk Lëtzebuerg gëtt vu Fräiwëllegen bedriwwen. D'Initiativ gëtt awer</tspan><tspan
-         sodipodi:role="line"
-         x="28.360476"
-         y="179.98778"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
-         id="tspan4416">vun der Chaos Computer Club Lëtzebuerg A.S.B.L. betreit a geleet.</tspan></text>
-    <text
-       y="244.25714"
-       x="147.34183"
-       style="font-size:6.11684036000000031px;font-weight:bold;fill:#000000;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold;fill-opacity:1"
-       id="text4452"
-       transform="scale(1.0024699,0.99753618)">
-      <tspan
-         y="244.25714"
-         id="tspan4454"
-         sodipodi:role="line"
-         x="147.34183"
-         style="font-size:22.83620452999999983px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;writing-mode:lr-tb;fill:#e20078;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">Fräie WLAN elo!</tspan>
-    </text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.44485282999999853px;line-height:125%;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#e20078;fill-opacity:1;stroke:none"
-       x="821.16278"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.44485283px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#e20078;fill-opacity:1;stroke:none"
+       x="842.58673"
        y="-20.273457"
        id="text3461"
        sodipodi:linespacing="125%"
        transform="scale(0.75089388,1.3317461)"><tspan
          sodipodi:role="line"
          id="tspan3463"
-         x="821.16278"
+         x="842.58673"
          y="-20.273457"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:80.00000778000000423px;font-family:AlternateGothic2 BT;-inkscape-font-specification:AlternateGothic2 BT Condensed;text-align:center;text-anchor:middle;fill:#e20078;fill-opacity:1">freifunk<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:80.00000778000000423px;font-family:AlternateGothic2 BT;-inkscape-font-specification:AlternateGothic2 BT Condensed;text-align:center;text-anchor:middle;fill:#e20078;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:80.00000763px;font-family:'AlternateGothic2 BT';-inkscape-font-specification:'AlternateGothic2 BT Condensed';text-align:center;text-anchor:middle;fill:#e20078;fill-opacity:1">freifunk<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:80.00000763px;font-family:'AlternateGothic2 BT';-inkscape-font-specification:'AlternateGothic2 BT Condensed';text-align:center;text-anchor:middle;fill:#e20078;fill-opacity:1"
    id="tspan3467"><tspan
    style="fill:#fab313;fill-opacity:1"
    id="tspan4349">.</tspan>lu</tspan></tspan></text>
     <g
-       transform="matrix(0.11729998,0,0,-0.11672268,60.862765,286.87502)"
-       id="g4560">
+       id="g23628">
+      <text
+         transform="scale(1.0024699,0.99753618)"
+         id="text4452"
+         style="font-weight:bold;font-size:6.11684036px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';fill:#000000;fill-opacity:1"
+         x="147.34183"
+         y="257.08881">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.83620453px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';writing-mode:lr-tb;fill:#e20078;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="147.34183"
+           sodipodi:role="line"
+           id="tspan4454"
+           y="257.08881">Fräie WLAN elo!</tspan>
+      </text>
       <g
-         id="g4468"
-         transform="matrix(1.415686,0,0,1.415686,273.43452,711.23987)">
-        <path
-           d="m 0,0 c 71.23,5.129 144.114,-21.52 194.947,-71.712 6.66,-6.858 5.792,-18.854 -1.231,-25.137 -6.461,-7.609 -19.379,-7.743 -26.039,-0.332 -43.496,41.868 -104.893,64.509 -165.19,60.004 -50.082,-3.224 -98.605,-24.795 -134.947,-59.352 -3.23,-3.303 -7.365,-6.013 -12.115,-6.248 -11.906,-1.396 -22.918,11.05 -20.348,22.691 0.723,4.184 3.406,7.664 6.482,10.449 C -115.89,-28.895 -58.766,-3.874 0,0"
-           style="fill:#e61668;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path4470"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="g4472"
-         transform="matrix(1.415686,0,0,1.415686,270.90171,623.67615)">
-        <path
-           d="m 0,0 c 54.57,5.938 111.235,-14.18 149.85,-53.172 6.036,-6.893 5.283,-18.164 -1.42,-24.359 -6.115,-7.485 -18.432,-8.32 -25.366,-1.536 -24.728,24.376 -58.154,39.848 -92.82,42.386 -42.088,3.49 -85.094,-12.479 -115.062,-42.138 -6.912,-7.304 -19.788,-6.473 -26.011,1.296 -6.701,6.329 -7.26,17.905 -0.819,24.61 C -81.945,-23.192 -41.779,-4.285 0,0"
-           style="fill:#e61668;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path4474"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="g4476"
-         transform="matrix(1.415686,0,0,1.415686,282.38477,537.43681)">
-        <path
-           d="m 0,0 c 34.437,3.42 70.043,-9.77 93.999,-34.708 6.567,-6.827 5.807,-18.583 -1.107,-24.904 -6.271,-7.573 -18.854,-8.087 -25.677,-0.983 -13.51,13.867 -32.219,22.629 -51.585,23.683 -21.985,1.568 -44.234,-7.116 -59.848,-22.567 -3.839,-4.315 -9.541,-6.96 -15.374,-6.281 -13.56,0.955 -22.968,19.048 -13.629,29.902 C -54.37,-15.41 -27.585,-2.743 0,0"
-           style="fill:#e61668;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path4478"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="g4484"
-         transform="matrix(1.415686,0,0,1.415686,220.08765,349.8066)">
-        <path
-           d="M 0,0 C 0.062,-30.737 24.921,-55.61 55.67,-55.659 86.408,-55.61 111.264,-30.737 111.327,0 111.264,30.734 86.408,55.603 55.67,55.67 24.921,55.603 0.062,30.734 0,0 m -12.83,0 c 0.008,37.833 30.66,68.486 68.5,68.494 C 93.497,68.486 124.149,37.833 124.157,0 124.149,-37.831 93.497,-68.495 55.67,-68.495 c -37.84,0 -68.492,30.664 -68.5,68.495"
-           style="fill:#e61668;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path4486"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="g4488"
-         transform="matrix(1.415686,0,0,1.415686,233.54771,349.80108)">
-        <path
-           d="M 0,0 C 0.041,-25.489 20.663,-46.105 46.151,-46.148 71.64,-46.105 92.257,-25.489 92.308,0 92.257,25.488 71.64,46.117 46.151,46.165 20.663,46.117 0.041,25.488 0,0 m -2.568,0 c 0,26.912 21.809,48.729 48.719,48.729 C 73.064,48.729 94.867,26.912 94.874,0 94.867,-26.905 73.064,-48.719 46.151,-48.719 19.241,-48.719 -2.568,-26.905 -2.568,0"
-           style="fill:#e61668;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path4490"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="g4492"
-         transform="matrix(1.415686,0,0,1.415686,126.04971,317.65495)">
-        <path
-           d="M 0,0 C 0.038,-23.943 19.406,-43.303 43.34,-43.353 67.283,-43.303 86.648,-23.943 86.689,0 86.648,23.943 67.283,43.303 43.34,43.346 19.406,43.303 0.038,23.943 0,0 m -2.567,0 c 0,25.363 20.553,45.917 45.907,45.917 C 68.707,45.917 89.25,25.363 89.256,0 89.25,-25.359 68.707,-45.908 43.34,-45.908 17.986,-45.908 -2.567,-25.358 -2.567,0"
-           style="fill:#e61668;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path4494"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="g4496"
-         transform="matrix(1.415686,0,0,1.415686,268.42143,331.50772)">
-        <path
-           d="m 0,0 17.128,19.57 18.091,0 -12.52,-13.178 25.3,0 0,-12.776 -24.073,0 12.109,-11.704 -18.501,0 L 0,0 z"
-           style="fill:#ffcd00;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path4498"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="g4500"
-         transform="matrix(1.415686,0,0,1.415686,173.61195,316.62094)">
-        <path
-           d="m 0,0 -11.058,0 7.24,6.996 -14.394,0 0,7.641 15.125,0 -7.483,7.884 10.819,0 L 10.485,10.813 0,0 z"
-           style="fill:#ffcd00;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path4502"
-           inkscape:connector-curvature="0" />
+         id="g4560"
+         transform="matrix(0.11729998,0,0,-0.11672268,60.862765,299.67502)">
+        <g
+           transform="matrix(1.415686,0,0,1.415686,273.43452,711.23987)"
+           id="g4468">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4470"
+             style="fill:#e61668;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0,0 c 71.23,5.129 144.114,-21.52 194.947,-71.712 6.66,-6.858 5.792,-18.854 -1.231,-25.137 -6.461,-7.609 -19.379,-7.743 -26.039,-0.332 -43.496,41.868 -104.893,64.509 -165.19,60.004 -50.082,-3.224 -98.605,-24.795 -134.947,-59.352 -3.23,-3.303 -7.365,-6.013 -12.115,-6.248 -11.906,-1.396 -22.918,11.05 -20.348,22.691 0.723,4.184 3.406,7.664 6.482,10.449 C -115.89,-28.895 -58.766,-3.874 0,0" />
+        </g>
+        <g
+           transform="matrix(1.415686,0,0,1.415686,270.90171,623.67615)"
+           id="g4472">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4474"
+             style="fill:#e61668;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0,0 c 54.57,5.938 111.235,-14.18 149.85,-53.172 6.036,-6.893 5.283,-18.164 -1.42,-24.359 -6.115,-7.485 -18.432,-8.32 -25.366,-1.536 -24.728,24.376 -58.154,39.848 -92.82,42.386 -42.088,3.49 -85.094,-12.479 -115.062,-42.138 -6.912,-7.304 -19.788,-6.473 -26.011,1.296 -6.701,6.329 -7.26,17.905 -0.819,24.61 C -81.945,-23.192 -41.779,-4.285 0,0" />
+        </g>
+        <g
+           transform="matrix(1.415686,0,0,1.415686,282.38477,537.43681)"
+           id="g4476">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4478"
+             style="fill:#e61668;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0,0 c 34.437,3.42 70.043,-9.77 93.999,-34.708 6.567,-6.827 5.807,-18.583 -1.107,-24.904 -6.271,-7.573 -18.854,-8.087 -25.677,-0.983 -13.51,13.867 -32.219,22.629 -51.585,23.683 -21.985,1.568 -44.234,-7.116 -59.848,-22.567 -3.839,-4.315 -9.541,-6.96 -15.374,-6.281 -13.56,0.955 -22.968,19.048 -13.629,29.902 C -54.37,-15.41 -27.585,-2.743 0,0" />
+        </g>
+        <g
+           transform="matrix(1.415686,0,0,1.415686,220.08765,349.8066)"
+           id="g4484">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4486"
+             style="fill:#e61668;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 0,0 C 0.062,-30.737 24.921,-55.61 55.67,-55.659 86.408,-55.61 111.264,-30.737 111.327,0 111.264,30.734 86.408,55.603 55.67,55.67 24.921,55.603 0.062,30.734 0,0 m -12.83,0 c 0.008,37.833 30.66,68.486 68.5,68.494 C 93.497,68.486 124.149,37.833 124.157,0 124.149,-37.831 93.497,-68.495 55.67,-68.495 c -37.84,0 -68.492,30.664 -68.5,68.495" />
+        </g>
+        <g
+           transform="matrix(1.415686,0,0,1.415686,233.54771,349.80108)"
+           id="g4488">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4490"
+             style="fill:#e61668;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 0,0 C 0.041,-25.489 20.663,-46.105 46.151,-46.148 71.64,-46.105 92.257,-25.489 92.308,0 92.257,25.488 71.64,46.117 46.151,46.165 20.663,46.117 0.041,25.488 0,0 m -2.568,0 c 0,26.912 21.809,48.729 48.719,48.729 C 73.064,48.729 94.867,26.912 94.874,0 94.867,-26.905 73.064,-48.719 46.151,-48.719 19.241,-48.719 -2.568,-26.905 -2.568,0" />
+        </g>
+        <g
+           transform="matrix(1.415686,0,0,1.415686,126.04971,317.65495)"
+           id="g4492">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4494"
+             style="fill:#e61668;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 0,0 C 0.038,-23.943 19.406,-43.303 43.34,-43.353 67.283,-43.303 86.648,-23.943 86.689,0 86.648,23.943 67.283,43.303 43.34,43.346 19.406,43.303 0.038,23.943 0,0 m -2.567,0 c 0,25.363 20.553,45.917 45.907,45.917 C 68.707,45.917 89.25,25.363 89.256,0 89.25,-25.359 68.707,-45.908 43.34,-45.908 17.986,-45.908 -2.567,-25.358 -2.567,0" />
+        </g>
+        <g
+           transform="matrix(1.415686,0,0,1.415686,268.42143,331.50772)"
+           id="g4496">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4498"
+             style="fill:#ffcd00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0,0 17.128,19.57 18.091,0 -12.52,-13.178 25.3,0 0,-12.776 -24.073,0 12.109,-11.704 -18.501,0 L 0,0 Z" />
+        </g>
+        <g
+           transform="matrix(1.415686,0,0,1.415686,173.61195,316.62094)"
+           id="g4500">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4502"
+             style="fill:#ffcd00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0,0 -11.058,0 7.24,6.996 -14.394,0 0,7.641 15.125,0 -7.483,7.884 10.819,0 L 10.485,10.813 0,0 Z" />
+        </g>
       </g>
     </g>
     <flowRoot
@@ -1534,14 +1358,246 @@
            height="80.999992"
            x="640.99994"
            y="120.09454" /></flowRegion><flowPara
-         id="flowPara3586" /></flowRoot>  </g>
+         id="flowPara3586" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8772"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.48000145px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-99.385758,-17.362463)"><flowRegion
+         id="flowRegion8774"><rect
+           id="rect8776"
+           width="233.40266"
+           height="78.187012"
+           x="110.60413"
+           y="-241.25664"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#e20078;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara8778">Ass mäin eegent, privat Netzwierk sécher?</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8772-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10000038px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.3656219,0,0,1.3656221,550.03028,-357.64008)"><flowRegion
+         id="flowRegion8774-3"><rect
+           id="rect8776-1"
+           width="291.75333"
+           height="97.733742"
+           x="-394.55475"
+           y="88.192474"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></flowRegion><flowPara
+         id="flowPara8778-9"
+         style="font-size:7.67415953px;text-align:justify;text-anchor:start">Jo! Den Trafic aus dem Freifunk-Netz ass komplett vum privaten Netz a senge Computeren getrennt.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8772-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10000038px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.8,0,0,0.80000015,327.01938,-272.0442)"><flowRegion
+         id="flowRegion8774-5"><rect
+           id="rect8776-0"
+           width="291.75333"
+           height="97.733742"
+           x="-394.55475"
+           y="88.192474"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#e20078;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara8778-94">Ännert sech d'Vitesse vu mengem Uschloss?</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8772-4-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10000038px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.3673415,0,0,1.3673418,550.04919,-300.66293)"><flowRegion
+         id="flowRegion8774-3-6"><rect
+           id="rect8776-1-5"
+           width="291.75333"
+           height="97.733742"
+           x="-394.55475"
+           y="88.192474"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></flowRegion><flowPara
+         id="flowPara8778-9-3"
+         style="font-size:7.66450787px;text-align:justify;text-anchor:start">Nee! Den Freifunk-Router notzt nëmmen een Deel vun der disponibeler Bandbreet. Du selwer bestëmms, wei vill s du fir d'Freifunk Netz wëlls zur Verfügung stellen.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8772-1-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.48000145px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(11.003801,167.55396)"><flowRegion
+         id="flowRegion8774-5-7"><rect
+           id="rect8776-0-4"
+           width="233.40266"
+           height="78.187012"
+           x="-0.083886825"
+           y="-313.11008"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#e20078;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara8778-94-7">Wéi eng Käschte kommen op mech duer?</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8772-4-4-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10000038px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.3677721,0,0,1.3677724,550.33967,-243.13197)"><flowRegion
+         id="flowRegion8774-3-6-4"><rect
+           id="rect8776-1-5-0"
+           width="291.75333"
+           height="97.733742"
+           x="-394.55475"
+           y="88.192474"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></flowRegion><flowPara
+         id="flowPara8778-9-3-4"
+         style="font-size:7.66209507px;text-align:justify;text-anchor:start">Dat hänkt vun der gréisst an dem Besoin vun ärem Établissement of. Zesummen kucken mir fir eng ideal an ugepassten Solutioun fir iech ze fannen. Op alle muss een just d'Routeren selwer bezuelen an een klengen Obulus fir den Entretien deen mir maachen.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8772-4-4-1-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.91781616px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-374.16565,373.18001)"><flowRegion
+         id="flowRegion8774-3-6-4-1"><rect
+           id="rect8776-1-5-0-1"
+           width="399.05206"
+           height="133.67752"
+           x="-0.53456342"
+           y="-312.67041"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></flowRegion><flowPara
+         id="flowPara8778-9-3-4-0"
+         style="font-size:10.48000145px;text-align:justify;text-anchor:start" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8772-4-4-1-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.91781616px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-409.73095,369.70503)"><flowRegion
+         id="flowRegion8774-3-6-4-8"><rect
+           id="rect8776-1-5-0-7"
+           width="399.05206"
+           height="133.67752"
+           x="-0.53456342"
+           y="-312.67041"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></flowRegion><flowPara
+         id="flowPara8778-9-3-4-5"
+         style="font-size:10.48000145px;text-align:justify;text-anchor:start" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8772-4-4-1-32"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.91781616px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(11.664573,425.04471)"><flowRegion
+         id="flowRegion8774-3-6-4-4"><rect
+           id="rect8776-1-5-0-9"
+           width="399.05206"
+           height="133.67752"
+           x="-0.5345611"
+           y="-312.67041"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></flowRegion><flowPara
+         id="flowPara8778-9-3-4-4"
+         style="font-size:10.48000145px;text-align:justify;text-anchor:start">All Méinden um 20:00 Auer treffen sech d'Freifunker am eegenen Hackerspace &quot;ChaosStuff&quot;. Hei kann een diskutéieren, Router ariichten, Froe stellen a beäntweren. Méi op: <flowSpan
+   style="fill:#e20078;fill-opacity:1"
+   id="flowSpan23651">www.chaosstuff.lu</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8772-1-4-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.48000145px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(11.003801,273.42717)"><flowRegion
+         id="flowRegion8774-5-7-7"><rect
+           id="rect8776-0-4-1"
+           width="233.40266"
+           height="78.187012"
+           x="-0.083886825"
+           y="-313.11008"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#e20078;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara8778-94-7-5">Websäit:</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8772-1-4-7-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.48000145px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(10.395961,314.42716)"><flowRegion
+         id="flowRegion8774-5-7-7-7"><rect
+           id="rect8776-0-4-1-1"
+           width="233.40266"
+           height="78.187012"
+           x="-0.083886825"
+           y="-313.11008"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#e20078;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara8778-94-7-5-6">Kaart a Statistiken:</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8772-1-4-7-6-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10000038px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.8,0,0,0.80000015,11.213539,56.098525)"><flowRegion
+         id="flowRegion8774-5-7-7-7-4"><rect
+           id="rect8776-0-4-1-1-9"
+           width="291.75333"
+           height="97.733749"
+           x="-1.1264782"
+           y="-3.1176968"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#e20078;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara8778-94-7-5-6-3">Email-Kontakt:</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8772-1-4-7-6-5-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.48000145px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(11.212367,407.09646)"><flowRegion
+         id="flowRegion8774-5-7-7-7-4-8"><rect
+           id="rect8776-0-4-1-1-9-3"
+           width="233.40266"
+           height="78.187012"
+           x="-0.90090007"
+           y="-314.3045"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#e20078;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara8778-94-7-5-6-3-8">Freifunker-Treffen:</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8772-1-4-7-6-5-5-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10000038px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.8,0,0,0.80000015,11.213539,162.45414)"><flowRegion
+         id="flowRegion8774-5-7-7-7-4-8-4"><rect
+           id="rect8776-0-4-1-1-9-3-8"
+           width="291.75333"
+           height="97.733749"
+           x="-1.127237"
+           y="-3.1165905"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#e20078;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara8778-94-7-5-6-3-8-7">Bedreiwer:</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8772-4-4-1-32-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3972683px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.8,0,0,0.80000015,10.593909,-17.60546)"><flowRegion
+         id="flowRegion8774-3-6-4-4-9"><rect
+           id="rect8776-1-5-0-9-3"
+           width="498.81506"
+           height="167.09688"
+           x="-0.10405608"
+           y="-3.1174297"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></flowRegion><flowPara
+         id="flowPara8778-9-3-4-4-9"
+         style="font-size:13.10000038px;text-align:justify;text-anchor:start">Mir benotzen d'Infrastruktur vun den Lëtzebuerger Freifunker: <flowSpan
+   style="fill:#e20078;fill-opacity:1"
+   id="flowSpan23649">freifunk.lu</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8772-4-4-1-32-5-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3972683px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.8,0,0,0.80000015,10.876869,23.415511)"><flowRegion
+         id="flowRegion8774-3-6-4-4-9-8"><rect
+           id="rect8776-1-5-0-9-3-5"
+           width="498.81506"
+           height="167.09688"
+           x="-0.10405608"
+           y="-3.1174297"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></flowRegion><flowPara
+         id="flowPara8778-9-3-4-4-9-1"
+         style="font-size:13.10000038px;text-align:justify;text-anchor:start">map.freifunk.lu</flowPara><flowPara
+         style="font-size:13.10000038px;text-align:justify;text-anchor:start"
+         id="flowPara23571">stats.freifunk.lu</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8772-4-4-1-32-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.91781616px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(11.140573,492.21332)"><flowRegion
+         id="flowRegion8774-3-6-4-4-5"><rect
+           id="rect8776-1-5-0-9-30"
+           width="399.05206"
+           height="133.67752"
+           x="-0.5345611"
+           y="-312.67041"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></flowRegion><flowPara
+         id="flowPara8778-9-3-4-4-8"
+         style="font-size:10.48000145px;text-align:justify;text-anchor:start">Freifunk Lëtzebuerg gëtt vu Fräiwëllegen bedriwwen. D'Initiativ gëtt awer vun der Chaos Computer Club Lëtzebuerg A.S.B.L. betreit a geleet.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8772-4-4-1-32-5-3-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.91781616px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(10.794778,387.49247)"><flowRegion
+         id="flowRegion8774-3-6-4-4-9-8-9"><rect
+           id="rect8776-1-5-0-9-3-5-4"
+           width="399.05206"
+           height="133.67752"
+           x="-0.41963238"
+           y="-314.30429"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></flowRegion><flowPara
+         style="font-size:10.48000145px;text-align:justify;text-anchor:start"
+         id="flowPara23571-1">freifunk@c3l.lu</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="logo">
     <g
        id="g4425"
-       transform="translate(-40.000001,0)">
+       transform="translate(-31.945926,0)">
       <g
          transform="matrix(1.222063,0,0,1.3185718,-119.53768,-97.709216)"
          id="g4418">
@@ -1550,7 +1606,7 @@
            id="g12">
           <path
              inkscape:connector-curvature="0"
-             d="M 67.45,163.72 A 51.68,51.68 0 1 1 118.91,112 51.63,51.63 0 0 1 67.45,163.72 z m 0,-100.82 A 49.15,49.15 0 1 0 116.39,112 49.1,49.1 0 0 0 67.45,62.9 z"
+             d="M 67.45,163.72 A 51.68,51.68 0 1 1 118.91,112 51.63,51.63 0 0 1 67.45,163.72 Z m 0,-100.82 A 49.15,49.15 0 1 0 116.39,112 49.1,49.1 0 0 0 67.45,62.9 Z"
              style="fill:#dc0468"
              id="path14" />
           <g
@@ -1562,7 +1618,7 @@
                id="path18" />
             <path
                inkscape:connector-curvature="0"
-               d="M 156.81,142 A 55.35,55.35 0 1 1 211.93,86.65 55.3,55.3 0 0 1 156.81,142 z m 0,-108.17 A 52.82,52.82 0 1 0 209.4,86.68 52.77,52.77 0 0 0 156.81,33.85 z"
+               d="M 156.81,142 A 55.35,55.35 0 1 1 211.93,86.65 55.3,55.3 0 0 1 156.81,142 Z m 0,-108.17 A 52.82,52.82 0 1 0 209.4,86.68 52.77,52.77 0 0 0 156.81,33.85 Z"
                style="fill:#dc0468"
                id="path20" />
           </g>
@@ -2152,11 +2208,11 @@
     <rect
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:89.99999762%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#fab313;stroke-width:5.66929245;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5970"
-       width="839.05505"
-       height="595.27557"
-       x="1.4173462"
-       y="3.8459362e-05"
-       rx="0.04102616"
-       ry="0.51782811" />
+       width="836.22046"
+       height="589.60638"
+       x="2.8346462"
+       y="2.8346171"
+       rx="0.040887561"
+       ry="0.51289654" />
   </g>
 </svg>
