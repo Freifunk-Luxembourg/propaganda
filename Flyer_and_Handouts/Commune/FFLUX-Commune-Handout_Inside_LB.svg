@@ -12,10 +12,10 @@
    sodipodi:docname="FFLUX-Commune-Handout_Inside_LB.svg"
    inkscape:version="0.91 r13725"
    id="svg6811"
-   viewBox="0 0 841.88977 595.27561"
+   viewBox="0 0 853.22835 606.61419"
    version="1.1"
-   height="210mm"
-   width="297mm">
+   height="214mm"
+   width="301mm">
   <sodipodi:namedview
      units="mm"
      inkscape:snap-global="true"
@@ -25,9 +25,9 @@
      inkscape:window-maximized="1"
      inkscape:window-y="20"
      inkscape:window-x="0"
-     inkscape:cy="382.81823"
-     inkscape:cx="573.24882"
-     inkscape:zoom="1.1167936"
+     inkscape:cy="465.75229"
+     inkscape:cx="371.37541"
+     inkscape:zoom="0.78969233"
      showgrid="true"
      id="namedview9283"
      inkscape:window-height="1040"
@@ -1928,7 +1928,7 @@
   </defs>
   <g
      style="display:inline"
-     transform="translate(0,311.81061)"
+     transform="translate(0,323.14919)"
      inkscape:groupmode="layer"
      inkscape:label="Hauptebene"
      id="Hauptebene">
@@ -2080,7 +2080,7 @@
            y="64.261604"
            style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:justify;text-anchor:start" /></flowRegion><flowPara
          id="flowPara47843-6" /></flowRoot>    <g
-       transform="matrix(0.80000003,0,0,0.80000003,-7.5603017,-306.66097)"
+       transform="matrix(0.80000003,0,0,0.80000003,-2.071741,-307.78297)"
        id="g60011"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none">
       <g
@@ -2207,7 +2207,7 @@
            id="flowPara52790"
            style="font-size:10.92935085px;fill:#e20078;fill-opacity:1">* Dir sidd net dofir verantwortlech wat een aneren iwwert ären Freifunk Router mécht.</flowPara></flowRoot>    </g>
     <g
-       transform="translate(8.4724548,2.4295471e-5)"
+       transform="translate(13.961016,-1.1219801)"
        id="g60106">
       <g
          inkscape:transform-center-y="0.4813161"
@@ -4091,18 +4091,19 @@
          transform="matrix(0.95763132,0,0,0.95905197,900.79269,-337.37495)"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="text12147"
-         xml:space="preserve"><tspan
+         xml:space="preserve"
+         sodipodi:linespacing="125%"><tspan
            id="tspan12149"
-           sodipodi:role="line" /></text>
+           sodipodi:role="line"
+           x="-501.15341"
+           y="82.261604" /></text>
     </g>
     <rect
-       ry="0.51289654"
-       rx="0.040887561"
-       y="-308.97598"
-       x="2.8346524"
-       height="589.60638"
-       width="836.22046"
+       y="-317.47992"
+       x="5.6692882"
+       height="595.2757"
+       width="841.88977"
        id="rect5970"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:89.99999762%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#e20078;stroke-width:5.66929245;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:89.99999762%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#e20078;stroke-width:11.33858395;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
 </svg>

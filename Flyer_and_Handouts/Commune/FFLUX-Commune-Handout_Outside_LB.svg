@@ -9,10 +9,10 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="297mm"
-   height="210mm"
+   width="301mm"
+   height="214mm"
    version="1.1"
-   viewBox="0 0 841.88977 595.27561"
+   viewBox="0 0 853.22835 606.61419"
    id="svg6811"
    inkscape:version="0.91 r13725"
    sodipodi:docname="FFLUX-Commune-Handout_Outside_LB.svg"
@@ -44,13 +44,13 @@
      inkscape:window-height="1040"
      id="namedview9283"
      showgrid="true"
-     inkscape:zoom="0.83105469"
-     inkscape:cx="501.64724"
-     inkscape:cy="300.57519"
+     inkscape:zoom="0.97672928"
+     inkscape:cx="492.89092"
+     inkscape:cy="441.96946"
      inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g18459"
+     inkscape:current-layer="Hauptebene"
      showguides="false"
      inkscape:guide-bbox="true"
      units="mm">
@@ -78,8 +78,8 @@
        type="xygrid"
        id="grid59609"
        units="mm"
-       spacingx="420.94489"
-       spacingy="297.63781" />
+       spacingx="426.61419"
+       spacingy="303.3071" />
   </sodipodi:namedview>
   <defs
      id="defs6813">
@@ -1265,20 +1265,22 @@
        gradientUnits="userSpaceOnUse" />
   </defs>
   <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Helpers" />
+  <g
      id="Hauptebene"
      inkscape:label="Hauptebene"
      inkscape:groupmode="layer"
-     transform="translate(0,311.81061)"
+     transform="translate(0,323.14919)"
      style="display:inline">
     <rect
-       ry="0.51289654"
-       rx="0.040887561"
-       y="-308.97595"
-       x="2.8346462"
-       height="589.60638"
-       width="836.22046"
+       y="-317.47989"
+       x="5.6692882"
+       height="595.27563"
+       width="841.88977"
        id="rect5970"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:89.99999762%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#e20078;stroke-width:5.66929245;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:89.99999762%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#e20078;stroke-width:11.33858299;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4641"
@@ -1390,7 +1392,7 @@
            style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'" /></flowRegion><flowPara
          id="flowPara58665" /></flowRoot>    <g
        id="g59611"
-       transform="translate(-35.955838,-7.5992778e-6)">
+       transform="translate(-29.836462,-4.6089397)">
       <g
          id="g18343"
          transform="translate(0,1.8092242e-5)">
@@ -1641,7 +1643,7 @@
       </g>
     </g>
     <g
-       transform="translate(-27.574784,-272.10862)"
+       transform="translate(-13.314385,-277.7779)"
        id="g59709">
       <g
          id="g18459"
@@ -2396,5 +2398,6 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="logo" />
+     inkscape:label="logo"
+     transform="translate(0,11.338585)" />
 </svg>
