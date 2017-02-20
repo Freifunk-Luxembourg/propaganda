@@ -8,10 +8,10 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="297mm"
-   height="210mm"
+   width="301mm"
+   height="214mm"
    version="1.1"
-   viewBox="0 0 841.88977 595.27561"
+   viewBox="0 0 853.22835 606.61419"
    id="svg6811"
    inkscape:version="0.91 r13725"
    sodipodi:docname="FFLUX-Business-Handout_Inside_LB.svg">
@@ -40,13 +40,13 @@
      inkscape:window-height="1040"
      id="namedview9283"
      showgrid="true"
-     inkscape:zoom="0.97672929"
-     inkscape:cx="551.41113"
-     inkscape:cy="351.98656"
+     inkscape:zoom="0.81171546"
+     inkscape:cx="470.42738"
+     inkscape:cy="352.13398"
      inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g10444"
+     inkscape:current-layer="Hauptebene"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -1861,7 +1861,7 @@
      id="Hauptebene"
      inkscape:label="Hauptebene"
      inkscape:groupmode="layer"
-     transform="translate(0,311.81061)"
+     transform="translate(0,323.14919)"
      style="display:inline">
     <path
        inkscape:connector-curvature="0"
@@ -2008,14 +2008,12 @@
            x="46.669044"
            y="502.97107" /></flowRegion><flowPara
          id="flowPara6372" /></flowRoot>    <rect
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:89.99999762%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#fab313;stroke-width:5.66929245;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:89.99999762%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#fab313;stroke-width:11.33858299;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5970"
-       width="836.22046"
-       height="589.60638"
-       x="2.8346462"
-       y="-308.97598"
-       rx="0.040887561"
-       ry="0.51289654" />
+       width="841.88977"
+       height="595.27563"
+       x="5.6692882"
+       y="-317.47989" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot35475"
@@ -2028,7 +2026,7 @@
            y="272.40469" /></flowRegion><flowPara
          id="flowPara35481" /></flowRoot>    <g
        id="g10494"
-       transform="translate(3.817129,8.2508217)">
+       transform="translate(9.2094043,2.6251578)">
       <text
          sodipodi:linespacing="125%"
          id="text12877"
@@ -3597,7 +3595,7 @@
            id="flowPara10262-3">Fazit: Är Gäscht surfen net mat ärer Identitéit, mä si fir hiert Handele selwer verantwortlech. Dir stellt mat ärem Freifunk-Router nëmmen déi erfuerderlech Infrastruktur fir d'Verbindung mat dem Freifunk-Provider bereet.</flowPara></flowRoot>    </g>
     <g
        id="g10444"
-       transform="translate(-6.2823585,-10.930256)">
+       transform="translate(-0.89008316,-16.55592)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.40000057px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e20078;fill-opacity:1;stroke:none"
