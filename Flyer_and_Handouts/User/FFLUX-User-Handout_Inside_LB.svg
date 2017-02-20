@@ -8,10 +8,10 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="297mm"
-   height="210mm"
+   width="301mm"
+   height="214mm"
    version="1.1"
-   viewBox="0 0 841.88977 595.27561"
+   viewBox="0 0 853.22835 606.61419"
    id="svg6811"
    inkscape:version="0.91 r13725"
    sodipodi:docname="FFLUX-User-Handout_Inside_LB.svg">
@@ -40,9 +40,9 @@
      inkscape:window-height="1040"
      id="namedview9283"
      showgrid="true"
-     inkscape:zoom="1.3125551"
-     inkscape:cx="752.72734"
-     inkscape:cy="456.44908"
+     inkscape:zoom="2.6251102"
+     inkscape:cx="182.1134"
+     inkscape:cy="407.37741"
      inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="1"
@@ -1861,25 +1861,26 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Helpers" />
+     inkscape:label="Helpers"
+     transform="translate(0,11.338585)" />
   <g
      id="Hauptebene"
      inkscape:label="Hauptebene"
      inkscape:groupmode="layer"
-     transform="translate(0,311.81061)"
+     transform="translate(0,323.14919)"
      style="display:inline">
     <text
        sodipodi:linespacing="125%"
        id="text12371"
-       y="-263.73502"
-       x="138.79262"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.40000057px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e20078;fill-opacity:1;stroke:none;"
+       y="-274.38104"
+       x="143.01291"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.40000057px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e20078;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="-263.73502"
-         x="138.79262"
+         y="-274.38104"
+         x="143.01291"
          id="tspan12373"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#e20078;fill-opacity:1;">&quot;Public WiFi, done right&quot;</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#e20078;fill-opacity:1">&quot;Public WiFi, done right&quot;</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path8583"
@@ -1887,24 +1888,24 @@
        style="fill:none;stroke:none" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.40000057px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e20078;fill-opacity:1;stroke:none;"
-       x="169.91785"
-       y="-67.428856"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.40000057px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e20078;fill-opacity:1;stroke:none"
+       x="174.13814"
+       y="-78.074883"
        id="text3868"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3870"
-         x="169.91785"
-         y="-67.428856"><tspan
-           style="font-size:16px;fill:#e20078;fill-opacity:1;"
+         x="174.13814"
+         y="-78.074883"><tspan
+           style="font-size:16px;fill:#e20078;fill-opacity:1"
            id="tspan3872"><tspan
-             style="font-weight:bold;-inkscape-font-specification:'Nimbus Sans L Bold';fill:#e20078;fill-opacity:1;"
+             style="font-weight:bold;-inkscape-font-specification:'Nimbus Sans L Bold';fill:#e20078;fill-opacity:1"
              id="tspan3874"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#e20078;fill-opacity:1;"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#e20078;fill-opacity:1"
                id="tspan5363"> Matmaachen</tspan></tspan></tspan></tspan></text>
     <g
        id="g61331"
-       transform="translate(16.173893,15.703679)">
+       transform="translate(20.394192,5.0576488)">
       <path
          inkscape:connector-curvature="0"
          id="path12799"
@@ -2894,19 +2895,17 @@
            x="37"
            y="185.09448" /></flowRegion><flowPara
          id="flowPara4258" /></flowRoot>    <rect
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#1f558d;stroke-width:5.66929245;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#1f558d;stroke-width:11.33840054;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5970"
-       width="836.22046"
-       height="589.60638"
-       x="2.8346462"
-       y="-308.97598"
-       rx="0.040887561"
-       ry="0.51289654" />
+       width="841.88977"
+       height="595.27563"
+       x="5.6692882"
+       y="-317.47989" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot10814"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.00000095px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(2.1565517,0,0,2.1565517,-33.846545,295.33664)"><flowRegion
+       transform="matrix(2.1565517,0,0,2.1565517,-29.626246,284.69061)"><flowRegion
          id="flowRegion10816"><rect
            id="rect10818"
            width="184.8148"
@@ -2921,7 +2920,7 @@
        xml:space="preserve"
        id="flowRoot10814-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.00000095px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(2.155893,0,0,2.155893,19.44547,513.23369)"><flowRegion
+       transform="matrix(2.155893,0,0,2.155893,23.665769,502.58766)"><flowRegion
          id="flowRegion10816-6"><rect
            id="rect10818-7"
            width="184.8148"
@@ -2936,7 +2935,7 @@
    style="font-size:4.86109495px;fill:#e20078;fill-opacity:1"
    id="flowSpan10851">&quot;luxembourg.freifunk.net&quot;</flowSpan> auswielen a scho surft een am fräien Netz! ET muss een sech néieren registréieren, et musse keng Notzungsbedingungen akzeptéiert ginn a mir protokolléiere keng iwwerdroen Daten.</flowPara></flowRoot>    <g
        id="g12619"
-       transform="translate(-407.9598,251.47516)">
+       transform="translate(-403.7395,240.82913)">
       <g
          id="g12651">
         <rect
@@ -3026,7 +3025,7 @@
     </g>
     <g
        id="g14747"
-       transform="translate(0,3.1531658)">
+       transform="translate(4.2202985,-7.4928644)">
       <g
          transform="matrix(-1,0,0,-1,555.01917,62.044176)"
          id="g10360">
@@ -3118,14 +3117,14 @@
     </g>
     <path
        style="display:inline;fill:none;stroke:#e61668;stroke-width:2.4000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.80000019, 2.4000001;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 69.640212,162.0564 174.230158,0 0,11.78107"
+       d="m 73.860511,151.41037 174.230159,0 0,11.78107"
        id="path11049"
        inkscape:connector-type="orthogonal"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <g
        id="g10244"
-       transform="matrix(-1,0,0,-1,574.19207,330.97422)">
+       transform="matrix(-1,0,0,-1,578.41237,320.32819)">
       <g
          id="g8145"
          transform="translate(349.3152,158.5004)">
@@ -3210,7 +3209,7 @@
     </g>
     <g
        id="g14768"
-       transform="translate(0,1.9099169)">
+       transform="translate(4.2202985,-8.7361133)">
       <g
          transform="matrix(0.76150531,0,0,0.76150531,460.85986,135.02615)"
          id="g10704">
@@ -3372,7 +3371,7 @@
       </g>
     </g>
     <g
-       transform="matrix(1.1486287,0,0,1.1486287,-9.284768,123.12628)"
+       transform="matrix(1.1486287,0,0,1.1486287,-5.0644695,112.48025)"
        inkscape:label="dlink"
        id="layer3">
       <path
@@ -3419,7 +3418,7 @@
          id="path4662-9" />
     </g>
     <g
-       transform="matrix(-0.40247501,0,0,-0.40247501,571.21854,164.48489)"
+       transform="matrix(-0.40247501,0,0,-0.40247501,575.43884,153.83886)"
        id="g11831">
       <g
          transform="translate(489.9082,44.0804)"
@@ -3505,7 +3504,7 @@
     </g>
     <g
        id="g4787-0"
-       transform="matrix(0.03365667,0.03057494,-0.03057494,0.03365667,393.41821,152.41985)"
+       transform="matrix(0.03365667,0.03057494,-0.03057494,0.03365667,397.63851,141.77382)"
        style="display:inline;fill:none;stroke:#e61668"
        inkscape:transform-center-x="4.7811922">
       <path
@@ -3526,7 +3525,7 @@
     </g>
     <g
        style="display:inline;fill:none;stroke:#e61668"
-       transform="matrix(0.02614354,-0.0296302,0.0296302,0.02614354,352.54054,128.57275)"
+       transform="matrix(0.02614354,-0.0296302,0.0296302,0.02614354,356.76084,117.92672)"
        id="g13627">
       <path
          d="m 143.03,381.32 c 0,-39.942 32.38,-72.322 72.322,-72.322"
@@ -3546,7 +3545,7 @@
     </g>
     <g
        style="display:inline;fill:none;stroke:#e61668"
-       transform="matrix(-0.0414928,0.00525542,-0.00525542,-0.0414928,401.0538,148.04241)"
+       transform="matrix(-0.0414928,0.00525542,-0.00525542,-0.0414928,405.2741,137.39638)"
        id="g13635"
        inkscape:transform-center-x="-1.5571164"
        inkscape:transform-center-y="-1.4417727">
@@ -3570,7 +3569,7 @@
        inkscape:transform-center-y="-2.2024155"
        inkscape:transform-center-x="-0.075986142"
        id="g13643"
-       transform="matrix(-0.03074237,0.02835804,-0.02835804,-0.03074237,426.7458,177.39563)"
+       transform="matrix(-0.03074237,0.02835804,-0.02835804,-0.03074237,430.9661,166.7496)"
        style="display:inline;fill:none;stroke:#e61668">
       <path
          inkscape:connector-curvature="0"
@@ -3590,7 +3589,7 @@
     </g>
     <g
        id="g11869"
-       transform="matrix(-0.40247501,0,0,-0.40247501,590.61854,204.18489)">
+       transform="matrix(-0.40247501,0,0,-0.40247501,594.83884,193.53886)">
       <g
          id="g11871"
          transform="translate(489.9082,44.0804)">
@@ -3675,7 +3674,7 @@
     </g>
     <g
        id="g5292"
-       transform="matrix(0.49125764,0,0,0.60576174,-35.876678,273.00457)">
+       transform="matrix(0.49125764,0,0,0.60576174,-31.656379,262.35854)">
       <g
          transform="matrix(-0.40247501,0,0,-0.40247501,1076.0133,-18.090365)"
          id="g5294">
@@ -3803,7 +3802,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.49125764,0,0,0.60576174,-135.87668,241.80457)"
+       transform="matrix(0.49125764,0,0,0.60576174,-131.65638,231.15854)"
        id="g5348">
       <g
          id="g5350"
@@ -3933,7 +3932,7 @@
     </g>
     <g
        id="g5404"
-       transform="matrix(0.49125764,0,0,0.60576174,-69.035648,233.9728)">
+       transform="matrix(0.49125764,0,0,0.60576174,-64.815349,223.32677)">
       <g
          transform="matrix(-0.40247501,0,0,-0.40247501,1076.0133,-18.090365)"
          id="g5406">
@@ -4061,7 +4060,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.49125764,0,0,0.60576174,-89.476678,273.00457)"
+       transform="matrix(0.49125764,0,0,0.60576174,-85.256379,262.35854)"
        id="g5460">
       <g
          id="g5462"
@@ -4193,7 +4192,7 @@
        xml:space="preserve"
        id="flowRoot14634"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1920557px;line-height:125%;font-family:'Ubuntu#';-inkscape-font-specification:'Ubuntu#';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(2.5606156,0,0,2.5606156,723.9439,152.53461)"><flowRegion
+       transform="matrix(2.5606156,0,0,2.5606156,728.1642,141.88858)"><flowRegion
          id="flowRegion14636"><rect
            id="rect14638"
            width="131.92889"
@@ -4208,7 +4207,7 @@
        xml:space="preserve"
        id="flowRoot14634-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.23937988px;line-height:125%;font-family:'Ubuntu#';-inkscape-font-specification:'Ubuntu#';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.63532514,0,0,0.63532526,218.78136,-53.371793)"><flowRegion
+       transform="matrix(0.63532514,0,0,0.63532526,223.00166,-64.017823)"><flowRegion
          id="flowRegion14636-6"><rect
            id="rect14638-2"
            width="290.4003"
@@ -4223,7 +4222,7 @@
        xml:space="preserve"
        id="flowRoot14634-5-2"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.99150658px;line-height:125%;font-family:'Ubuntu#';-inkscape-font-specification:'Ubuntu#';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.79404915,0,0,0.79404915,14.198596,317.99809)"><flowRegion
+       transform="matrix(0.79404915,0,0,0.79404915,18.418895,307.35206)"><flowRegion
          id="flowRegion14636-6-7"><rect
            id="rect14638-2-0"
            width="232.32024"
@@ -4238,7 +4237,7 @@
        xml:space="preserve"
        id="flowRoot14634-5-2-1"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.23937988px;line-height:125%;font-family:'Ubuntu#';-inkscape-font-specification:'Ubuntu#';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.63572584,0,0,0.63572597,218.11425,71.055003)"><flowRegion
+       transform="matrix(0.63572584,0,0,0.63572597,222.33455,60.408973)"><flowRegion
          id="flowRegion14636-6-7-8"><rect
            id="rect14638-2-0-7"
            width="290.4003"
@@ -4253,7 +4252,7 @@
          style="font-size:12.58404064px;text-align:justify;text-anchor:start"
          id="flowPara14743">D'Freifunk-Router bilden ee Mesh-Netz.</flowPara></flowRoot>    <g
        id="g58931"
-       transform="translate(-14.041261,194.53135)">
+       transform="translate(-9.8209625,183.88532)">
       <flowRoot
          transform="matrix(0.8,0,0,0.80000015,446.31783,-469.44047)"
          xml:space="preserve"
@@ -4309,20 +4308,20 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.40000057px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e20078;fill-opacity:1;stroke:none"
-       x="568.61993"
-       y="-107.83607"
+       x="572.84021"
+       y="-118.48209"
        id="text12877"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan12879"
-         x="568.61993"
-         y="-107.83607"
+         x="572.84021"
+         y="-118.48209"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#e20078;fill-opacity:1">Haften ech dofir? </tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot10814-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.56551933px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(432.2839,215.52303)"><flowRegion
+       transform="translate(436.5042,204.877)"><flowRegion
          id="flowRegion10816-2"><rect
            id="rect10818-9"
            width="398.56268"
@@ -4335,7 +4334,7 @@
        xml:space="preserve"
        id="flowRoot10814-5-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.56551933px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(432.34499,505.76543)"><flowRegion
+       transform="translate(436.56529,495.1194)"><flowRegion
          id="flowRegion10816-2-8"><rect
            id="rect10818-9-6"
            width="398.56268"
