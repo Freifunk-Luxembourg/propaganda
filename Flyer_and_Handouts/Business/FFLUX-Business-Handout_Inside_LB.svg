@@ -40,9 +40,9 @@
      inkscape:window-height="1040"
      id="namedview9283"
      showgrid="true"
-     inkscape:zoom="0.81171546"
-     inkscape:cx="470.42738"
-     inkscape:cy="352.13398"
+     inkscape:zoom="0.9540001"
+     inkscape:cx="417.28228"
+     inkscape:cy="354.84568"
      inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="1"
@@ -76,7 +76,9 @@
        id="grid10252"
        spacingx="420.94489"
        spacingy="297.63781"
-       units="mm" />
+       units="mm"
+       originx="5.6692915"
+       originy="5.6692916" />
   </sodipodi:namedview>
   <defs
      id="defs6813">

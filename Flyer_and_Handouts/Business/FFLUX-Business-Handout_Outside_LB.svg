@@ -43,13 +43,13 @@
      inkscape:window-height="1040"
      id="namedview9283"
      showgrid="true"
-     inkscape:zoom="0.67457998"
-     inkscape:cx="367.84972"
-     inkscape:cy="372.536"
+     inkscape:zoom="0.7928263"
+     inkscape:cx="638.38636"
+     inkscape:cy="455.91691"
      inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showguides="false"
      inkscape:guide-bbox="true"
      units="mm">
@@ -78,7 +78,9 @@
        id="grid8924"
        units="mm"
        spacingx="420.94489"
-       spacingy="297.63781" />
+       spacingy="297.63781"
+       originx="5.6692915"
+       originy="5.6692916" />
   </sodipodi:namedview>
   <defs
      id="defs6813">
@@ -1188,55 +1190,55 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.40000057px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e20078;fill-opacity:1;stroke:none"
-       x="166.33635"
+       x="131.68336"
        y="-61.662811"
        id="text3868-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3870-6"
-         x="166.33635"
+         x="131.68336"
          y="-61.662811"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.99999905px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#e20078;fill-opacity:1">Weider Informatiounen</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:89.99999762%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#e20078;fill-opacity:1;stroke:none"
-       x="667.4292"
+       x="634.73114"
        y="-202.98351"
        id="text12951"
        sodipodi:linespacing="89.999998%"><tspan
          sodipodi:role="line"
          id="tspan12953"
-         x="667.4292"
+         x="634.73114"
          y="-202.98351"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:72px;line-height:89.99999762%;font-family:'AlternateGothic2 BT';-inkscape-font-specification:'AlternateGothic2 BT Condensed';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#e20078;fill-opacity:1">Freifunk</tspan><tspan
          sodipodi:role="line"
-         x="667.4292"
-         y="-138.18352"
+         x="634.73114"
+         y="-138.1835"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:72px;line-height:89.99999762%;font-family:'AlternateGothic2 BT';-inkscape-font-specification:'AlternateGothic2 BT Condensed';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#fab313;fill-opacity:1"
          id="tspan12955">Lëtzebuerg</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text14304"
        y="-283.9494"
-       x="198.58929"
+       x="165.89124"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.40000057px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e20078;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="-283.9494"
-         x="198.58929"
+         x="165.89124"
          id="tspan14306"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.99999905px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#e20078;fill-opacity:1">Heefeg Froen </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.44485283px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#e20078;fill-opacity:1;stroke:none"
-       x="893.68231"
+       x="850.13684"
        y="-30.412165"
        id="text3461"
        sodipodi:linespacing="125%"
        transform="scale(0.75089388,1.3317461)"><tspan
          sodipodi:role="line"
          id="tspan3463"
-         x="893.68231"
+         x="850.13684"
          y="-30.412165"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:80.00000763px;font-family:'AlternateGothic2 BT';-inkscape-font-specification:'AlternateGothic2 BT Condensed';text-align:center;text-anchor:middle;fill:#e20078;fill-opacity:1">freifunk<tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:80.00000763px;font-family:'AlternateGothic2 BT';-inkscape-font-specification:'AlternateGothic2 BT Condensed';text-align:center;text-anchor:middle;fill:#e20078;fill-opacity:1"
@@ -1245,7 +1247,7 @@
    id="tspan4349">.</tspan>lu</tspan></tspan></text>
     <g
        id="g23628"
-       transform="translate(38.367354,-13.502184)">
+       transform="translate(27.298277,-13.502184)">
       <text
          transform="scale(1.0024699,0.99753618)"
          id="text4452"
@@ -1370,7 +1372,7 @@
        id="g43002"
        transform="translate(38.367354,-9.1308314)">
       <flowRoot
-         transform="translate(-99.385758,-17.362463)"
+         transform="translate(-32.697415,-17.362463)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.48000145px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot8772"
          xml:space="preserve"><flowRegion
@@ -1382,7 +1384,7 @@
              width="233.40266"
              id="rect8776" /></flowRegion><flowPara
            id="flowPara8778">Ass mäin eegent, privat Netzwierk sécher?</flowPara></flowRoot>      <flowRoot
-         transform="matrix(1.3656219,0,0,1.3656221,550.03028,-363.28511)"
+         transform="matrix(1.3656219,0,0,1.3656221,517.33222,-363.28511)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10000038px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot8772-4"
          xml:space="preserve"><flowRegion
@@ -1397,7 +1399,7 @@
            id="flowPara8778-9">Jo! Den Trafic aus dem Freifunk-Netz ass komplett vum privaten Netz a senge Computeren getrennt.</flowPara></flowRoot>    </g>
     <g
        id="g43012"
-       transform="translate(38.367354,-10.404524)">
+       transform="translate(5.6692875,-10.404524)">
       <flowRoot
          transform="matrix(0.8,0,0,0.80000015,327.01938,-272.0442)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10000038px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1426,7 +1428,7 @@
            id="flowPara8778-9-3">Nee! Den Freifunk-Router notzt nëmmen een Deel vun der disponibeler Bandbreet. Du selwer bestëmms, wei vill s du fir d'Freifunk Netz wëlls zur Verfügung stellen.</flowPara></flowRoot>    </g>
     <g
        id="g43022"
-       transform="translate(38.367354,-11.678152)">
+       transform="translate(5.6692873,-11.678152)">
       <flowRoot
          transform="translate(11.003801,167.55396)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.48000145px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1481,7 +1483,7 @@
          id="flowPara8778-9-3-4-5"
          style="font-size:10.48000145px;text-align:justify;text-anchor:start" /></flowRoot>    <g
        id="g43064"
-       transform="translate(38.367354,-10.954949)">
+       transform="translate(5.4440265,-10.954949)">
       <flowRoot
          transform="translate(11.664573,419.39971)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.91781616px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1512,7 +1514,7 @@
            id="flowPara8778-94-7-5-6-3-8">Freifunker-Treffen:</flowPara></flowRoot>    </g>
     <g
        id="g43032"
-       transform="translate(38.367354,-8.5803715)">
+       transform="translate(31.531301,-8.5803715)">
       <flowRoot
          transform="translate(11.003801,273.42717)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.48000145px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1543,7 +1545,7 @@
    style="fill:#e20078;fill-opacity:1">freifunk.lu</flowSpan></flowPara></flowRoot>    </g>
     <g
        id="g43043"
-       transform="translate(38.367354,-9.8539349)">
+       transform="translate(160.96929,-9.8539349)">
       <flowRoot
          transform="translate(10.395961,314.42716)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.48000145px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1574,7 +1576,7 @@
            style="font-size:13.10000038px;text-align:justify;text-anchor:start">stats.freifunk.lu</flowPara></flowRoot>    </g>
     <g
        id="g43075"
-       transform="translate(38.367354,-12.228573)">
+       transform="translate(5.7060265,-12.228573)">
       <flowRoot
          transform="matrix(0.8,0,0,0.80000015,11.213539,162.45414)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10000038px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1603,7 +1605,7 @@
            id="flowPara8778-9-3-4-4-8">Freifunk Lëtzebuerg gëtt vu Fräiwëllegen bedriwwen. D'Initiativ gëtt awer vun der Chaos Computer Club Lëtzebuerg A.S.B.L. betreit a geleet.</flowPara></flowRoot>    </g>
     <g
        id="g43054"
-       transform="translate(38.367354,-11.127567)">
+       transform="translate(169.25177,-11.127567)">
       <flowRoot
          transform="matrix(0.8,0,0,0.80000015,11.213539,56.098525)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10000038px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1638,7 +1640,7 @@
      transform="translate(0,11.338576)">
     <g
        id="g4425"
-       transform="translate(6.4214279,-13.502184)">
+       transform="translate(-26.276599,-13.502184)">
       <g
          transform="matrix(1.222063,0,0,1.3185718,-119.53768,-97.709216)"
          id="g4418">

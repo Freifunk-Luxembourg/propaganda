@@ -44,9 +44,9 @@
      inkscape:window-height="1040"
      id="namedview9283"
      showgrid="true"
-     inkscape:zoom="0.97672928"
-     inkscape:cx="492.89092"
-     inkscape:cy="441.96946"
+     inkscape:zoom="1.147939"
+     inkscape:cx="501.3011"
+     inkscape:cy="265.56688"
      inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="1"
@@ -78,8 +78,10 @@
        type="xygrid"
        id="grid59609"
        units="mm"
-       spacingx="426.61419"
-       spacingy="303.3071" />
+       spacingx="420.9449"
+       spacingy="297.63781"
+       originx="5.6692915"
+       originy="5.6692916" />
   </sodipodi:namedview>
   <defs
      id="defs6813">

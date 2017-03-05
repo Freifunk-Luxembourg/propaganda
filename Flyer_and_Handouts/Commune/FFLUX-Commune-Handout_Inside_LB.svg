@@ -25,9 +25,9 @@
      inkscape:window-maximized="1"
      inkscape:window-y="20"
      inkscape:window-x="0"
-     inkscape:cy="465.75229"
-     inkscape:cx="371.37541"
-     inkscape:zoom="0.78969233"
+     inkscape:cy="379.88755"
+     inkscape:cx="487.7864"
+     inkscape:zoom="1.1167936"
      showgrid="true"
      id="namedview9283"
      inkscape:window-height="1040"
@@ -61,7 +61,9 @@
        visible="true"
        empspacing="5"
        id="grid11829"
-       type="xygrid" />
+       type="xygrid"
+       originx="5.6692915"
+       originy="5.6692916" />
     <sodipodi:guide
        id="guide11927"
        position="293.03436,-2.7227351"
