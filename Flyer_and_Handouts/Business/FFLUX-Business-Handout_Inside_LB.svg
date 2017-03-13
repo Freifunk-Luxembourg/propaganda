@@ -40,13 +40,13 @@
      inkscape:window-height="1040"
      id="namedview9283"
      showgrid="true"
-     inkscape:zoom="0.9540001"
-     inkscape:cx="417.28228"
-     inkscape:cy="354.84568"
+     inkscape:zoom="2.155427"
+     inkscape:cx="840.03918"
+     inkscape:cy="6.367408"
      inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Hauptebene"
+     inkscape:current-layer="g10494"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -2034,16 +2034,17 @@
          id="text12877"
          y="-38.126968"
          x="480.88165"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.40000057px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e20078;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.40000057px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e20078;fill-opacity:1;stroke:none;"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.40000153px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#e20078;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.40000153px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#e20078;fill-opacity:1;"
            y="-38.126968"
            x="480.88165"
            id="tspan12879"
            sodipodi:role="line">Störerhaftung / Responsabilité de nuisance? </tspan></text>
       <g
          id="g10799"
-         transform="translate(9.5242654,-5.2691738)">
+         transform="translate(9.5242654,-5.2691738)"
+         style="">
         <path
            style="fill:none;stroke:#808080;stroke-width:3.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 683.2,72.26497 79.2,0 2.4,0"
@@ -2062,7 +2063,8 @@
            sodipodi:nodetypes="ccc" />
         <g
            id="g11978"
-           transform="translate(420,7.1999908)">
+           transform="translate(420,7.1999908)"
+           style="">
           <g
              id="layer3-0"
              inkscape:label="dlink"
@@ -2139,10 +2141,12 @@
         <g
            transform="matrix(6.0080159,0,0,2.7820181,540.89138,46.834101)"
            inkscape:label="Layer 1"
-           id="layer1-0">
+           id="layer1-0"
+           style="">
           <g
              transform="translate(-265.14,447.47)"
-             id="g2481">
+             id="g2481"
+             style="">
             <path
                d="m 280.49,-445.61 c -2.2708,0 -4.1099,1.5503 -4.7188,3.625 -0.69323,-0.36383 -1.4445,-0.625 -2.2812,-0.625 -2.76,0 -5,2.24 -5,5 0,0.57893 0.16252,1.1077 0.34375,1.625 -5.4635,4.9579 -0.4573,12.468 5.4688,9.875 0.60884,2.0747 2.4479,3.625 4.7188,3.625 2.2708,0 4.1099,-1.5503 4.7188,-3.625 0.69323,0.36383 1.4445,0.625 2.2812,0.625 1.7005,0 3.2216,-0.82665 4.125,-2.125 2.4104,-0.0839 4.3438,-2.0693 4.3438,-4.5 0,-1.686 -0.97028,-3.1043 -2.3438,-3.875 0.18124,-0.51729 0.34375,-1.0461 0.34375,-1.625 0,-2.76 -2.24,-5 -5,-5 -0.83674,0 -1.588,0.26117 -2.2812,0.625 -0.60884,-2.0747 -2.4479,-3.625 -4.7188,-3.625 z"
                inkscape:connector-curvature="0"
@@ -2158,7 +2162,8 @@
           </g>
           <g
              transform="matrix(0.84311,0,0,0.84311,-228.68,383.13)"
-             id="g3471">
+             id="g3471"
+             style="">
             <path
                d="m 280.34,-441.55 c -3.5794,0 -6.4688,2.9206 -6.4688,6.5 0.56489,7.8655 12.106,7.592 12.969,-0.0312 0,-3.5794 -2.9206,-6.4688 -6.5,-6.4688 z"
                inkscape:connector-curvature="0"
@@ -2174,10 +2179,12 @@
           </g>
           <g
              transform="translate(-272.8,442.94)"
-             id="g6668">
+             id="g6668"
+             style="">
             <g
                transform="translate(8.0064,3.8994)"
-               id="g3439">
+               id="g3439"
+               style="">
               <circle
                  transform="matrix(1.0566,0,0,1.0566,-17.198,24.863)"
                  style="fill:#c4c5c2"
@@ -2195,7 +2202,8 @@
             </g>
             <g
                transform="matrix(1.3252,0,0,1.2778,-94.229,135.81)"
-               id="g3455">
+               id="g3455"
+               style="">
               <circle
                  transform="matrix(1.0566,0,0,1.0566,-17.198,24.863)"
                  style="fill:#c4c5c2"
@@ -2213,7 +2221,8 @@
             </g>
             <g
                transform="translate(7.0653,3.9468)"
-               id="g3463">
+               id="g3463"
+               style="">
               <circle
                  transform="matrix(1.0566,0,0,1.0566,-31.198,24.863)"
                  style="fill:#c4c5c2"
@@ -2231,7 +2240,8 @@
             </g>
             <g
                transform="translate(7.5121,3.3894)"
-               id="g3487">
+               id="g3487"
+               style="">
               <circle
                  transform="matrix(1.0566,0,0,1.0566,-24.198,21.863)"
                  style="fill:#c4c5c2"
@@ -2250,7 +2260,8 @@
           </g>
           <g
              transform="matrix(1.0923,0,0,1.0923,-292.27,488.09)"
-             id="g3479">
+             id="g3479"
+             style="">
             <path
                d="m 280.34,-441.55 c -3.5794,0 -6.4688,2.9206 -6.4688,6.5 0.56489,7.8655 12.106,7.592 12.969,-0.0312 0,-3.5794 -2.9206,-6.4688 -6.5,-6.4688 z"
                inkscape:connector-curvature="0"
@@ -2266,7 +2277,8 @@
           </g>
           <g
              transform="translate(-260.59,450.51)"
-             id="g3431">
+             id="g3431"
+             style="">
             <path
                d="m 280.34,-441.55 c -3.5794,0 -6.4688,2.9206 -6.4688,6.5 0.56489,7.8655 12.106,7.592 12.969,-0.0312 0,-3.5794 -2.9206,-6.4688 -6.5,-6.4688 z"
                inkscape:connector-curvature="0"
@@ -2282,7 +2294,7 @@
           </g>
         </g>
         <path
-           style="fill:none;stroke:#eb136c;stroke-width:1.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.20000013, 1.60000007;stroke-dashoffset:0;stroke-opacity:1"
+           style="fill:none;stroke:#eb136c;stroke-width:1.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.20000013, 1.60000007000000011;stroke-dashoffset:0;stroke-opacity:1"
            d="m 772.6106,104.28942 -252.22831,-0.62289 0.32012,68.98757 82.55959,-0.16468"
            id="path12789"
            inkscape:connector-curvature="0"
@@ -2293,7 +2305,8 @@
            transform="matrix(-0.99999996,0,0,-0.99999996,958.355,324.82915)">
           <g
              id="g8145-4"
-             transform="translate(349.3152,158.5004)">
+             transform="translate(349.3152,158.5004)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,0 6.043,24.412 7.195,27.865 1.151,3.453 2.446,8.058 3.453,12.374 1.007,4.317 1.544,8.058 2.858,7.482 1.314,-0.575 -1.132,-7.482 -1.132,-7.482 0,0 -1.963,-9.191 -2.446,-13.237 C 9.445,22.956 4.009,-0.501 4.009,-0.501 L 0,0 Z"
@@ -2302,7 +2315,8 @@
           </g>
           <g
              id="g8149-3"
-             transform="translate(312.2732,158.5004)">
+             transform="translate(312.2732,158.5004)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,0 -6.043,24.412 -7.194,27.865 -1.151,3.453 -2.446,8.058 -3.453,12.374 -1.007,4.317 -1.544,8.058 -2.859,7.482 -1.314,-0.575 1.132,-7.482 1.132,-7.482 0,0 1.962,-9.191 2.446,-13.237 0.483,-4.046 5.92,-27.503 5.92,-27.503 L 0,0 Z"
@@ -2311,7 +2325,8 @@
           </g>
           <g
              id="g8153-6"
-             transform="translate(363.4164,144.1122)">
+             transform="translate(363.4164,144.1122)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-2.252 -1.725,-4.078 -4.208,-4.078 l -57.773,0 c -2.482,0 -4.207,1.826 -4.207,4.078 l 5.468,9.973 c 1.295,2.208 2.012,4.078 4.495,4.078 l 46.262,0 c 2.483,0 2.913,-1.582 4.495,-4.078 L 0,0 Z"
@@ -2320,7 +2335,8 @@
           </g>
           <g
              id="g8157-4"
-             transform="translate(359.2087,138.6054)">
+             transform="translate(359.2087,138.6054)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 -57.773,0 c -3.213,0 -5.636,2.367 -5.636,5.507 l 0,0.366 5.644,10.293 c 0.172,0.295 0.316,0.549 0.455,0.796 1.066,1.886 2.275,4.024 5.293,4.024 l 46.262,0 c 2.875,0 3.909,-1.744 5.002,-3.59 0.211,-0.357 0.439,-0.742 0.7,-1.152 l 0.046,-0.078 5.643,-10.293 0,-0.366 C 5.636,2.367 3.213,0 0,0 m -60.533,5.175 c 0.156,-1.362 1.268,-2.318 2.76,-2.318 L 0,2.857 c 1.492,0 2.605,0.956 2.761,2.318 l -5.252,9.578 c -0.267,0.422 -0.502,0.819 -0.72,1.187 -1.07,1.807 -1.339,2.189 -2.544,2.189 l -46.262,0 c -1.246,0 -1.706,-0.628 -2.806,-2.573 -0.147,-0.26 -0.298,-0.527 -0.458,-0.799 l -5.252,-9.582 z"
@@ -2329,7 +2345,8 @@
           </g>
           <g
              id="g8161-5"
-             transform="translate(307.8759,131.2093)">
+             transform="translate(307.8759,131.2093)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-0.451 -0.365,-0.816 -0.816,-0.816 l -5.419,0 c -0.45,0 -0.816,0.365 -0.816,0.816 l 0,2.541 c 0,0.45 0.366,0.816 0.816,0.816 l 5.419,0 C -0.365,3.357 0,2.991 0,2.541 L 0,0 Z"
@@ -2338,7 +2355,8 @@
           </g>
           <g
              id="g8165-1"
-             transform="translate(360.2316,131.2093)">
+             transform="translate(360.2316,131.2093)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-0.451 -0.366,-0.816 -0.816,-0.816 l -5.419,0 c -0.451,0 -0.816,0.365 -0.816,0.816 l 0,2.541 c 0,0.45 0.365,0.816 0.816,0.816 l 5.419,0 C -0.366,3.357 0,2.991 0,2.541 L 0,0 Z"
@@ -2347,7 +2365,8 @@
           </g>
           <g
              id="g8169-9"
-             transform="translate(363.7037,138.0692)">
+             transform="translate(363.7037,138.0692)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-2.253 -2.012,-4.079 -4.495,-4.079 l -57.773,0 c -2.483,0 -4.495,1.826 -4.495,4.079 l 0,4.793 c 0,2.252 2.012,4.078 4.495,4.078 l 57.773,0 C -2.012,8.871 0,7.045 0,4.793 L 0,0 Z"
@@ -2356,7 +2375,8 @@
           </g>
           <g
              id="g8173-5"
-             transform="translate(359.2087,132.5619)">
+             transform="translate(359.2087,132.5619)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 -57.773,0 c -3.266,0 -5.924,2.47 -5.924,5.507 l 0,4.793 c 0,3.036 2.658,5.507 5.924,5.507 l 57.773,0 c 3.266,0 5.923,-2.471 5.923,-5.507 l 0,-4.793 C 5.923,2.47 3.266,0 0,0 m -57.773,12.95 c -1.691,0 -3.067,-1.189 -3.067,-2.65 l 0,-4.793 c 0,-1.461 1.376,-2.65 3.067,-2.65 L 0,2.857 c 1.691,0 3.067,1.189 3.067,2.65 l 0,4.793 c 0,1.461 -1.376,2.65 -3.067,2.65 l -57.773,0 z"
@@ -2365,7 +2385,8 @@
           </g>
           <g
              id="g8177-0"
-             transform="translate(360.6827,138.451)">
+             transform="translate(360.6827,138.451)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-1.113 -0.902,-2.015 -2.015,-2.015 l -57.123,0 c -1.112,0 -2.014,0.902 -2.014,2.015 0,1.113 0.902,2.014 2.014,2.014 l 57.123,0 C -0.902,2.014 0,1.113 0,0"
@@ -2375,9 +2396,11 @@
         </g>
         <g
            id="g3832"
-           transform="translate(420,3.9999907)">
+           transform="translate(420,3.9999907)"
+           style="">
           <g
-             id="g3818">
+             id="g3818"
+             style="">
             <path
                id="path256"
                d="m 328.91868,59.960512 5.98209,-5.98209 19.9403,0 5.98208,5.98209 0,47.856718 -31.90447,0 z"
@@ -2471,10 +2494,12 @@
              style="font-weight:bold;font-size:10.40000057px;-inkscape-font-specification:'Nimbus Sans L Bold';fill:#eb136c">verschlësselten VPN-Tunnel</tspan></text>
         <g
            id="g12981"
-           transform="translate(418.4,-204.00002)">
+           transform="translate(418.4,-204.00002)"
+           style="">
           <g
              id="g4468-1"
-             transform="matrix(0,0.12994419,0.12930465,0,270.1021,356.90806)">
+             transform="matrix(0,0.12994419,0.12930465,0,270.1021,356.90806)"
+             style="">
             <path
                d="m 0,0 c 71.23,5.129 144.114,-21.52 194.947,-71.712 6.66,-6.858 5.792,-18.854 -1.231,-25.137 -6.461,-7.609 -19.379,-7.743 -26.039,-0.332 -43.496,41.868 -104.893,64.509 -165.19,60.004 -50.082,-3.224 -98.605,-24.795 -134.947,-59.352 -3.23,-3.303 -7.365,-6.013 -12.115,-6.248 -11.906,-1.396 -22.918,11.05 -20.348,22.691 0.723,4.184 3.406,7.664 6.482,10.449 C -115.89,-28.895 -58.766,-3.874 0,0"
                style="fill:#e61668;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2483,7 +2508,8 @@
           </g>
           <g
              id="g4472-2"
-             transform="matrix(0,0.12994419,0.12930465,0,262.10428,356.67558)">
+             transform="matrix(0,0.12994419,0.12930465,0,262.10428,356.67558)"
+             style="">
             <path
                d="m 0,0 c 54.57,5.938 111.235,-14.18 149.85,-53.172 6.036,-6.893 5.283,-18.164 -1.42,-24.359 -6.115,-7.485 -18.432,-8.32 -25.366,-1.536 -24.728,24.376 -58.154,39.848 -92.82,42.386 -42.088,3.49 -85.094,-12.479 -115.062,-42.138 -6.912,-7.304 -19.788,-6.473 -26.011,1.296 -6.701,6.329 -7.26,17.905 -0.819,24.61 C -81.945,-23.192 -41.779,-4.285 0,0"
                style="fill:#e61668;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2492,7 +2518,8 @@
           </g>
           <g
              id="g4476-7"
-             transform="matrix(0,0.12994419,0.12930465,0,254.22743,357.72959)">
+             transform="matrix(0,0.12994419,0.12930465,0,254.22743,357.72959)"
+             style="">
             <path
                d="m 0,0 c 34.437,3.42 70.043,-9.77 93.999,-34.708 6.567,-6.827 5.807,-18.583 -1.107,-24.904 -6.271,-7.573 -18.854,-8.087 -25.677,-0.983 -13.51,13.867 -32.219,22.629 -51.585,23.683 -21.985,1.568 -44.234,-7.116 -59.848,-22.567 -3.839,-4.315 -9.541,-6.96 -15.374,-6.281 -13.56,0.955 -22.968,19.048 -13.629,29.902 C -54.37,-15.41 -27.585,-2.743 0,0"
                style="fill:#e61668;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2502,11 +2529,13 @@
         </g>
         <g
            id="g13211"
-           transform="translate(420,0.79999054)">
+           transform="translate(420,0.79999054)"
+           style="">
           <g
              inkscape:label="Layer 1"
              id="use12993"
-             transform="matrix(1.2527301,0,0,1.2527301,30.758226,49.189833)">
+             transform="matrix(1.2527301,0,0,1.2527301,30.758226,49.189833)"
+             style="">
             <ellipse
                transform="matrix(1,0,0,1.3689,-1.9786,-13.617)"
                style="color:#000000;fill:url(#radialGradient13133);fill-rule:evenodd"
@@ -2720,10 +2749,12 @@
              y="81.823669">Internet</tspan></text>
         <g
            id="g13588"
-           transform="translate(428,-0.80000952)">
+           transform="translate(428,-0.80000952)"
+           style="">
           <g
              transform="matrix(0.08583257,-0.02916723,0.02916723,0.08583257,246.88507,148.31299)"
-             id="g3856">
+             id="g3856"
+             style="">
             <g
                id="g236"
                style="fill:#1a1a1a"
@@ -2766,7 +2797,8 @@
                d="m 357.49,629.39 c 0,16.226 12.984,29.378 29,29.378 l 112,0 c 16.017,0 29,-13.152 29,-29.378 l 0,-26.847 -170,0 0,26.847 z m 141,-333.29 -112,0 c -16.016,0 -29,13.153 -29,29.378 l 0,17.728 170,0 0,-17.728 c 0,-16.224 -12.984,-29.378 -29,-29.378 z" />
             <g
                id="g3569"
-               transform="translate(62.149,-0.88838)">
+               transform="translate(62.149,-0.88838)"
+               style="">
               <rect
                  id="rect3571"
                  style="fill:#000000"
@@ -2794,7 +2826,8 @@
             </g>
             <g
                id="g3577"
-               transform="translate(164.11,-0.88838)">
+               transform="translate(164.11,-0.88838)"
+               style="">
               <rect
                  id="rect3579"
                  style="fill:#000000"
@@ -2839,7 +2872,8 @@
              id="rect3585" />
           <g
              transform="matrix(0.08583257,-0.02916723,0.02916723,0.08583257,230.9368,147.39956)"
-             id="g3623">
+             id="g3623"
+             style="">
             <rect
                x="570.26001"
                y="509.04001"
@@ -2958,17 +2992,17 @@
          transform="matrix(1.0080865,0,0,1.0080865,-14.991615,-20.982369)"
          xml:space="preserve"
          id="flowRoot9853"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.48000145px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.48000145px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"><flowRegion
            id="flowRegion9855"><rect
              id="rect9857"
              width="395.60605"
              height="93.372856"
              x="436.55902"
              y="-136.71284"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.48000145px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'" /></flowRegion><flowPara
-           style="font-size:10.3959341px;text-align:justify;text-anchor:start"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.48000145px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;" /></flowRegion><flowPara
+           style="font-size:10.3959341px;text-align:justify;text-anchor:start;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
            id="flowPara9861">Ee weideren Virdeel vu Freifunk ass, datt wa genuch Leit an der Géigend matmaachen an d'Freifunk Router Siichtkontakt mateneen hunn, d'Freifunk Router een sougenannten Mesh-Netzwierk erstellen.</flowPara><flowPara
-           style="font-size:10.3959341px;text-align:justify;text-anchor:start"
+           style="font-size:10.3959341px;text-align:justify;text-anchor:start;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
            id="flowPara9865">D'Router verbannen sech ënnerteneen an deelen hier Internetleitung. Dat mécht d'Verbindung méi staark an onofhängeg. Sou ass et och méiglech, WLAN unzebidden obwuel een selwer keng eegen Internet Leitung huet oder des grad net geet.</flowPara></flowRoot>      <g
          transform="matrix(1.1167936,0,0,0.49845215,-68.53778,7.7826199)"
          id="g7705"
@@ -2979,7 +3013,8 @@
            id="image5238"
            xlink:href="data:image/png;base64,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 +7bj/l+kTwAAAABJRU5ErkJggg== "
            height="48.000019"
-           width="49.600025" />
+           width="49.600025"
+           style="" />
         <image
            style="display:inline"
            y="-431.73502"
@@ -3005,31 +3040,31 @@
            height="48.000019"
            width="49.600025" />
         <path
-           style="fill:none;stroke:#e20078;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.60000001, 2.60000001;stroke-dashoffset:0;stroke-opacity:1"
+           style="fill:none;stroke:#e20078;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.60000001, 2.60000001000000003;stroke-dashoffset:0;stroke-opacity:1"
            d="m 621.99998,-216.90549 255,1 53,111 -263,39.999994 z"
            id="path7259"
            inkscape:connector-curvature="0"
            transform="matrix(0.80000003,0,0,0.80000003,-5.0624998e-6,-311.81061)" />
         <path
-           style="fill:none;stroke:#e20078;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.60000001, 2.60000001;stroke-dashoffset:0;stroke-opacity:1"
+           style="fill:none;stroke:#e20078;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.60000001, 2.60000001000000003;stroke-dashoffset:0;stroke-opacity:1"
            d="m 800.99998,-135.90549 -174,-79"
            id="path7261"
            inkscape:connector-curvature="0"
            transform="matrix(0.80000003,0,0,0.80000003,-5.0624998e-6,-311.81061)" />
         <path
-           style="fill:none;stroke:#e20078;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.60000001, 2.60000001;stroke-dashoffset:0;stroke-opacity:1"
+           style="fill:none;stroke:#e20078;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.60000001, 2.60000001000000003;stroke-dashoffset:0;stroke-opacity:1"
            d="m 928.99998,-107.90549 -131,-30 78,-77"
            id="path7263"
            inkscape:connector-curvature="0"
            transform="matrix(0.80000003,0,0,0.80000003,-5.0624998e-6,-311.81061)" />
         <path
-           style="fill:none;stroke:#e20078;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.60000001, 2.60000001;stroke-dashoffset:0;stroke-opacity:1"
+           style="fill:none;stroke:#e20078;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.60000001, 2.60000001000000003;stroke-dashoffset:0;stroke-opacity:1"
            d="m 668.99998,-65.905496 130,-73.999994 -49,-198 126,124"
            id="path7266"
            inkscape:connector-curvature="0"
            transform="matrix(0.80000003,0,0,0.80000003,-5.0624998e-6,-311.81061)" />
         <path
-           style="fill:#e20078;fill-opacity:1;stroke:#e20078;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.60000001, 2.60000001;stroke-dashoffset:0;stroke-opacity:1;marker-start:none"
+           style="fill:#e20078;fill-opacity:1;stroke:#e20078;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.60000001, 2.60000001000000003;stroke-dashoffset:0;stroke-opacity:1;marker-start:none"
            d="m 623.99998,-215.90549 127,-117"
            id="path7268"
            inkscape:connector-curvature="0"
@@ -3048,7 +3083,8 @@
            transform="matrix(-0.40247501,0,0,-0.40247501,791.35489,-564.57896)">
           <g
              id="g11871-5-0-7"
-             transform="translate(489.9082,44.0804)">
+             transform="translate(489.9082,44.0804)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,0 4.602,18.59 5.479,21.219 0.876,2.63 1.862,6.136 2.629,9.423 0.767,3.287 1.176,6.136 2.177,5.698 1.001,-0.439 -0.862,-5.698 -0.862,-5.698 0,0 -1.495,-6.999 -1.863,-10.08 C 7.192,17.481 3.053,-0.381 3.053,-0.381 L 0,0 Z"
@@ -3057,7 +3093,8 @@
           </g>
           <g
              id="g11875-2-3-3"
-             transform="translate(461.7008,44.0804)">
+             transform="translate(461.7008,44.0804)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,0 -4.602,18.59 -5.478,21.219 -0.877,2.63 -1.863,6.136 -2.63,9.423 -0.767,3.287 -1.175,6.136 -2.177,5.698 -1.001,-0.439 0.862,-5.698 0.862,-5.698 0,0 1.495,-6.999 1.863,-10.08 0.368,-3.081 4.508,-20.943 4.508,-20.943 L 0,0 Z"
@@ -3066,7 +3103,8 @@
           </g>
           <g
              id="g11879-1-5-2"
-             transform="translate(500.6463,33.1238)">
+             transform="translate(500.6463,33.1238)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-1.715 -1.314,-3.106 -3.204,-3.106 l -43.994,0 c -1.891,0 -3.204,1.391 -3.204,3.106 l 4.163,7.594 c 0.987,1.682 1.533,3.106 3.424,3.106 l 35.228,0 c 1.891,0 2.218,-1.205 3.423,-3.106 L 0,0 Z"
@@ -3075,7 +3113,8 @@
           </g>
           <g
              id="g11883-7-2-3"
-             transform="translate(497.4421,28.9303)">
+             transform="translate(497.4421,28.9303)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 -43.994,0 c -2.447,0 -4.292,1.803 -4.292,4.193 l 0,0.279 4.298,7.839 c 0.131,0.224 0.24,0.418 0.347,0.606 0.812,1.436 1.732,3.064 4.03,3.064 l 35.228,0 c 2.19,0 2.977,-1.328 3.81,-2.734 0.16,-0.271 0.334,-0.565 0.532,-0.877 l 0.035,-0.059 4.298,-7.839 0,-0.279 C 4.292,1.803 2.447,0 0,0 m -46.096,3.941 c 0.119,-1.037 0.966,-1.765 2.102,-1.765 L 0,2.176 c 1.136,0 1.984,0.728 2.102,1.765 l -3.999,7.294 c -0.203,0.321 -0.382,0.623 -0.548,0.903 -0.815,1.376 -1.02,1.668 -1.938,1.668 l -35.228,0 c -0.949,0 -1.299,-0.479 -2.137,-1.96 -0.111,-0.198 -0.227,-0.401 -0.348,-0.609 l -4,-7.296 z"
@@ -3084,7 +3123,8 @@
           </g>
           <g
              id="g11887-9-8-6"
-             transform="translate(458.3522,23.2982)">
+             transform="translate(458.3522,23.2982)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-0.343 -0.278,-0.621 -0.621,-0.621 l -4.127,0 c -0.342,0 -0.621,0.278 -0.621,0.621 l 0,1.935 c 0,0.343 0.279,0.621 0.621,0.621 l 4.127,0 C -0.278,2.556 0,2.278 0,1.935 L 0,0 Z"
@@ -3093,7 +3133,8 @@
           </g>
           <g
              id="g11891-6-7-1"
-             transform="translate(498.2211,23.2982)">
+             transform="translate(498.2211,23.2982)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-0.343 -0.279,-0.621 -0.621,-0.621 l -4.127,0 c -0.343,0 -0.621,0.278 -0.621,0.621 l 0,1.935 c 0,0.343 0.278,0.621 0.621,0.621 l 4.127,0 C -0.279,2.556 0,2.278 0,1.935 L 0,0 Z"
@@ -3102,7 +3143,8 @@
           </g>
           <g
              id="g11895-6-6-6"
-             transform="translate(500.8651,28.5221)">
+             transform="translate(500.8651,28.5221)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-1.716 -1.532,-3.106 -3.423,-3.106 l -43.994,0 c -1.89,0 -3.423,1.39 -3.423,3.106 l 0,3.65 c 0,1.715 1.533,3.105 3.423,3.105 l 43.994,0 C -1.532,6.755 0,5.365 0,3.65 L 0,0 Z"
@@ -3111,7 +3153,8 @@
           </g>
           <g
              id="g11899-6-2-0"
-             transform="translate(497.4421,24.3282)">
+             transform="translate(497.4421,24.3282)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 -43.994,0 c -2.487,0 -4.511,1.881 -4.511,4.194 l 0,3.649 c 0,2.313 2.024,4.194 4.511,4.194 l 43.994,0 c 2.487,0 4.511,-1.881 4.511,-4.194 l 0,-3.649 C 4.511,1.881 2.487,0 0,0 m -43.994,9.861 c -1.288,0 -2.336,-0.905 -2.336,-2.018 l 0,-3.649 c 0,-1.113 1.048,-2.018 2.336,-2.018 L 0,2.176 c 1.288,0 2.335,0.905 2.335,2.018 l 0,3.649 C 2.335,8.956 1.288,9.861 0,9.861 l -43.994,0 z"
@@ -3120,7 +3163,8 @@
           </g>
           <g
              id="g11903-8-3-5"
-             transform="translate(498.5646,28.8128)">
+             transform="translate(498.5646,28.8128)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-0.847 -0.687,-1.534 -1.534,-1.534 l -43.499,0 c -0.848,0 -1.534,0.687 -1.534,1.534 0,0.847 0.686,1.534 1.534,1.534 l 43.499,0 C -0.687,1.534 0,0.847 0,0"
@@ -3142,7 +3186,8 @@
            transform="matrix(-0.40247501,0,0,-0.40247501,888.9548,-470.17894)">
           <g
              id="g11871-5-0"
-             transform="translate(489.9082,44.0804)">
+             transform="translate(489.9082,44.0804)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,0 4.602,18.59 5.479,21.219 0.876,2.63 1.862,6.136 2.629,9.423 0.767,3.287 1.176,6.136 2.177,5.698 1.001,-0.439 -0.862,-5.698 -0.862,-5.698 0,0 -1.495,-6.999 -1.863,-10.08 C 7.192,17.481 3.053,-0.381 3.053,-0.381 L 0,0 Z"
@@ -3151,7 +3196,8 @@
           </g>
           <g
              id="g11875-2-3"
-             transform="translate(461.7008,44.0804)">
+             transform="translate(461.7008,44.0804)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,0 -4.602,18.59 -5.478,21.219 -0.877,2.63 -1.863,6.136 -2.63,9.423 -0.767,3.287 -1.175,6.136 -2.177,5.698 -1.001,-0.439 0.862,-5.698 0.862,-5.698 0,0 1.495,-6.999 1.863,-10.08 0.368,-3.081 4.508,-20.943 4.508,-20.943 L 0,0 Z"
@@ -3160,7 +3206,8 @@
           </g>
           <g
              id="g11879-1-5"
-             transform="translate(500.6463,33.1238)">
+             transform="translate(500.6463,33.1238)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-1.715 -1.314,-3.106 -3.204,-3.106 l -43.994,0 c -1.891,0 -3.204,1.391 -3.204,3.106 l 4.163,7.594 c 0.987,1.682 1.533,3.106 3.424,3.106 l 35.228,0 c 1.891,0 2.218,-1.205 3.423,-3.106 L 0,0 Z"
@@ -3169,7 +3216,8 @@
           </g>
           <g
              id="g11883-7-2"
-             transform="translate(497.4421,28.9303)">
+             transform="translate(497.4421,28.9303)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 -43.994,0 c -2.447,0 -4.292,1.803 -4.292,4.193 l 0,0.279 4.298,7.839 c 0.131,0.224 0.24,0.418 0.347,0.606 0.812,1.436 1.732,3.064 4.03,3.064 l 35.228,0 c 2.19,0 2.977,-1.328 3.81,-2.734 0.16,-0.271 0.334,-0.565 0.532,-0.877 l 0.035,-0.059 4.298,-7.839 0,-0.279 C 4.292,1.803 2.447,0 0,0 m -46.096,3.941 c 0.119,-1.037 0.966,-1.765 2.102,-1.765 L 0,2.176 c 1.136,0 1.984,0.728 2.102,1.765 l -3.999,7.294 c -0.203,0.321 -0.382,0.623 -0.548,0.903 -0.815,1.376 -1.02,1.668 -1.938,1.668 l -35.228,0 c -0.949,0 -1.299,-0.479 -2.137,-1.96 -0.111,-0.198 -0.227,-0.401 -0.348,-0.609 l -4,-7.296 z"
@@ -3178,7 +3226,8 @@
           </g>
           <g
              id="g11887-9-8"
-             transform="translate(458.3522,23.2982)">
+             transform="translate(458.3522,23.2982)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-0.343 -0.278,-0.621 -0.621,-0.621 l -4.127,0 c -0.342,0 -0.621,0.278 -0.621,0.621 l 0,1.935 c 0,0.343 0.279,0.621 0.621,0.621 l 4.127,0 C -0.278,2.556 0,2.278 0,1.935 L 0,0 Z"
@@ -3187,7 +3236,8 @@
           </g>
           <g
              id="g11891-6-7"
-             transform="translate(498.2211,23.2982)">
+             transform="translate(498.2211,23.2982)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-0.343 -0.279,-0.621 -0.621,-0.621 l -4.127,0 c -0.343,0 -0.621,0.278 -0.621,0.621 l 0,1.935 c 0,0.343 0.278,0.621 0.621,0.621 l 4.127,0 C -0.279,2.556 0,2.278 0,1.935 L 0,0 Z"
@@ -3196,7 +3246,8 @@
           </g>
           <g
              id="g11895-6-6"
-             transform="translate(500.8651,28.5221)">
+             transform="translate(500.8651,28.5221)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-1.716 -1.532,-3.106 -3.423,-3.106 l -43.994,0 c -1.89,0 -3.423,1.39 -3.423,3.106 l 0,3.65 c 0,1.715 1.533,3.105 3.423,3.105 l 43.994,0 C -1.532,6.755 0,5.365 0,3.65 L 0,0 Z"
@@ -3205,7 +3256,8 @@
           </g>
           <g
              id="g11899-6-2"
-             transform="translate(497.4421,24.3282)">
+             transform="translate(497.4421,24.3282)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 -43.994,0 c -2.487,0 -4.511,1.881 -4.511,4.194 l 0,3.649 c 0,2.313 2.024,4.194 4.511,4.194 l 43.994,0 c 2.487,0 4.511,-1.881 4.511,-4.194 l 0,-3.649 C 4.511,1.881 2.487,0 0,0 m -43.994,9.861 c -1.288,0 -2.336,-0.905 -2.336,-2.018 l 0,-3.649 c 0,-1.113 1.048,-2.018 2.336,-2.018 L 0,2.176 c 1.288,0 2.335,0.905 2.335,2.018 l 0,3.649 C 2.335,8.956 1.288,9.861 0,9.861 l -43.994,0 z"
@@ -3214,7 +3266,8 @@
           </g>
           <g
              id="g11903-8-3"
-             transform="translate(498.5646,28.8128)">
+             transform="translate(498.5646,28.8128)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-0.847 -0.687,-1.534 -1.534,-1.534 l -43.499,0 c -0.848,0 -1.534,0.687 -1.534,1.534 0,0.847 0.686,1.534 1.534,1.534 l 43.499,0 C -0.687,1.534 0,0.847 0,0"
@@ -3228,7 +3281,8 @@
            transform="matrix(-0.40247501,0,0,-0.40247501,935.3548,-382.97894)">
           <g
              id="g11871-5-8"
-             transform="translate(489.9082,44.0804)">
+             transform="translate(489.9082,44.0804)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,0 4.602,18.59 5.479,21.219 0.876,2.63 1.862,6.136 2.629,9.423 0.767,3.287 1.176,6.136 2.177,5.698 1.001,-0.439 -0.862,-5.698 -0.862,-5.698 0,0 -1.495,-6.999 -1.863,-10.08 C 7.192,17.481 3.053,-0.381 3.053,-0.381 L 0,0 Z"
@@ -3237,7 +3291,8 @@
           </g>
           <g
              id="g11875-2-5"
-             transform="translate(461.7008,44.0804)">
+             transform="translate(461.7008,44.0804)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,0 -4.602,18.59 -5.478,21.219 -0.877,2.63 -1.863,6.136 -2.63,9.423 -0.767,3.287 -1.175,6.136 -2.177,5.698 -1.001,-0.439 0.862,-5.698 0.862,-5.698 0,0 1.495,-6.999 1.863,-10.08 0.368,-3.081 4.508,-20.943 4.508,-20.943 L 0,0 Z"
@@ -3246,7 +3301,8 @@
           </g>
           <g
              id="g11879-1-3"
-             transform="translate(500.6463,33.1238)">
+             transform="translate(500.6463,33.1238)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-1.715 -1.314,-3.106 -3.204,-3.106 l -43.994,0 c -1.891,0 -3.204,1.391 -3.204,3.106 l 4.163,7.594 c 0.987,1.682 1.533,3.106 3.424,3.106 l 35.228,0 c 1.891,0 2.218,-1.205 3.423,-3.106 L 0,0 Z"
@@ -3255,7 +3311,8 @@
           </g>
           <g
              id="g11883-7-1"
-             transform="translate(497.4421,28.9303)">
+             transform="translate(497.4421,28.9303)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 -43.994,0 c -2.447,0 -4.292,1.803 -4.292,4.193 l 0,0.279 4.298,7.839 c 0.131,0.224 0.24,0.418 0.347,0.606 0.812,1.436 1.732,3.064 4.03,3.064 l 35.228,0 c 2.19,0 2.977,-1.328 3.81,-2.734 0.16,-0.271 0.334,-0.565 0.532,-0.877 l 0.035,-0.059 4.298,-7.839 0,-0.279 C 4.292,1.803 2.447,0 0,0 m -46.096,3.941 c 0.119,-1.037 0.966,-1.765 2.102,-1.765 L 0,2.176 c 1.136,0 1.984,0.728 2.102,1.765 l -3.999,7.294 c -0.203,0.321 -0.382,0.623 -0.548,0.903 -0.815,1.376 -1.02,1.668 -1.938,1.668 l -35.228,0 c -0.949,0 -1.299,-0.479 -2.137,-1.96 -0.111,-0.198 -0.227,-0.401 -0.348,-0.609 l -4,-7.296 z"
@@ -3264,7 +3321,8 @@
           </g>
           <g
              id="g11887-9-6"
-             transform="translate(458.3522,23.2982)">
+             transform="translate(458.3522,23.2982)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-0.343 -0.278,-0.621 -0.621,-0.621 l -4.127,0 c -0.342,0 -0.621,0.278 -0.621,0.621 l 0,1.935 c 0,0.343 0.279,0.621 0.621,0.621 l 4.127,0 C -0.278,2.556 0,2.278 0,1.935 L 0,0 Z"
@@ -3273,7 +3331,8 @@
           </g>
           <g
              id="g11891-6-2"
-             transform="translate(498.2211,23.2982)">
+             transform="translate(498.2211,23.2982)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-0.343 -0.279,-0.621 -0.621,-0.621 l -4.127,0 c -0.343,0 -0.621,0.278 -0.621,0.621 l 0,1.935 c 0,0.343 0.278,0.621 0.621,0.621 l 4.127,0 C -0.279,2.556 0,2.278 0,1.935 L 0,0 Z"
@@ -3282,7 +3341,8 @@
           </g>
           <g
              id="g11895-6-61"
-             transform="translate(500.8651,28.5221)">
+             transform="translate(500.8651,28.5221)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-1.716 -1.532,-3.106 -3.423,-3.106 l -43.994,0 c -1.89,0 -3.423,1.39 -3.423,3.106 l 0,3.65 c 0,1.715 1.533,3.105 3.423,3.105 l 43.994,0 C -1.532,6.755 0,5.365 0,3.65 L 0,0 Z"
@@ -3291,7 +3351,8 @@
           </g>
           <g
              id="g11899-6-5"
-             transform="translate(497.4421,24.3282)">
+             transform="translate(497.4421,24.3282)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 -43.994,0 c -2.487,0 -4.511,1.881 -4.511,4.194 l 0,3.649 c 0,2.313 2.024,4.194 4.511,4.194 l 43.994,0 c 2.487,0 4.511,-1.881 4.511,-4.194 l 0,-3.649 C 4.511,1.881 2.487,0 0,0 m -43.994,9.861 c -1.288,0 -2.336,-0.905 -2.336,-2.018 l 0,-3.649 c 0,-1.113 1.048,-2.018 2.336,-2.018 L 0,2.176 c 1.288,0 2.335,0.905 2.335,2.018 l 0,3.649 C 2.335,8.956 1.288,9.861 0,9.861 l -43.994,0 z"
@@ -3300,7 +3361,8 @@
           </g>
           <g
              id="g11903-8-7"
-             transform="translate(498.5646,28.8128)">
+             transform="translate(498.5646,28.8128)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-0.847 -0.687,-1.534 -1.534,-1.534 l -43.499,0 c -0.848,0 -1.534,0.687 -1.534,1.534 0,0.847 0.686,1.534 1.534,1.534 l 43.499,0 C -0.687,1.534 0,0.847 0,0"
@@ -3314,7 +3376,8 @@
            transform="matrix(-0.40247501,0,0,-0.40247501,687.35479,-470.17894)">
           <g
              id="g11871-5-92"
-             transform="translate(489.9082,44.0804)">
+             transform="translate(489.9082,44.0804)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,0 4.602,18.59 5.479,21.219 0.876,2.63 1.862,6.136 2.629,9.423 0.767,3.287 1.176,6.136 2.177,5.698 1.001,-0.439 -0.862,-5.698 -0.862,-5.698 0,0 -1.495,-6.999 -1.863,-10.08 C 7.192,17.481 3.053,-0.381 3.053,-0.381 L 0,0 Z"
@@ -3323,7 +3386,8 @@
           </g>
           <g
              id="g11875-2-6"
-             transform="translate(461.7008,44.0804)">
+             transform="translate(461.7008,44.0804)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,0 -4.602,18.59 -5.478,21.219 -0.877,2.63 -1.863,6.136 -2.63,9.423 -0.767,3.287 -1.175,6.136 -2.177,5.698 -1.001,-0.439 0.862,-5.698 0.862,-5.698 0,0 1.495,-6.999 1.863,-10.08 0.368,-3.081 4.508,-20.943 4.508,-20.943 L 0,0 Z"
@@ -3332,7 +3396,8 @@
           </g>
           <g
              id="g11879-1-9"
-             transform="translate(500.6463,33.1238)">
+             transform="translate(500.6463,33.1238)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-1.715 -1.314,-3.106 -3.204,-3.106 l -43.994,0 c -1.891,0 -3.204,1.391 -3.204,3.106 l 4.163,7.594 c 0.987,1.682 1.533,3.106 3.424,3.106 l 35.228,0 c 1.891,0 2.218,-1.205 3.423,-3.106 L 0,0 Z"
@@ -3341,7 +3406,8 @@
           </g>
           <g
              id="g11883-7-6"
-             transform="translate(497.4421,28.9303)">
+             transform="translate(497.4421,28.9303)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 -43.994,0 c -2.447,0 -4.292,1.803 -4.292,4.193 l 0,0.279 4.298,7.839 c 0.131,0.224 0.24,0.418 0.347,0.606 0.812,1.436 1.732,3.064 4.03,3.064 l 35.228,0 c 2.19,0 2.977,-1.328 3.81,-2.734 0.16,-0.271 0.334,-0.565 0.532,-0.877 l 0.035,-0.059 4.298,-7.839 0,-0.279 C 4.292,1.803 2.447,0 0,0 m -46.096,3.941 c 0.119,-1.037 0.966,-1.765 2.102,-1.765 L 0,2.176 c 1.136,0 1.984,0.728 2.102,1.765 l -3.999,7.294 c -0.203,0.321 -0.382,0.623 -0.548,0.903 -0.815,1.376 -1.02,1.668 -1.938,1.668 l -35.228,0 c -0.949,0 -1.299,-0.479 -2.137,-1.96 -0.111,-0.198 -0.227,-0.401 -0.348,-0.609 l -4,-7.296 z"
@@ -3350,7 +3416,8 @@
           </g>
           <g
              id="g11887-9-49"
-             transform="translate(458.3522,23.2982)">
+             transform="translate(458.3522,23.2982)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-0.343 -0.278,-0.621 -0.621,-0.621 l -4.127,0 c -0.342,0 -0.621,0.278 -0.621,0.621 l 0,1.935 c 0,0.343 0.279,0.621 0.621,0.621 l 4.127,0 C -0.278,2.556 0,2.278 0,1.935 L 0,0 Z"
@@ -3359,7 +3426,8 @@
           </g>
           <g
              id="g11891-6-0"
-             transform="translate(498.2211,23.2982)">
+             transform="translate(498.2211,23.2982)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-0.343 -0.279,-0.621 -0.621,-0.621 l -4.127,0 c -0.343,0 -0.621,0.278 -0.621,0.621 l 0,1.935 c 0,0.343 0.278,0.621 0.621,0.621 l 4.127,0 C -0.279,2.556 0,2.278 0,1.935 L 0,0 Z"
@@ -3368,7 +3436,8 @@
           </g>
           <g
              id="g11895-6-87"
-             transform="translate(500.8651,28.5221)">
+             transform="translate(500.8651,28.5221)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-1.716 -1.532,-3.106 -3.423,-3.106 l -43.994,0 c -1.89,0 -3.423,1.39 -3.423,3.106 l 0,3.65 c 0,1.715 1.533,3.105 3.423,3.105 l 43.994,0 C -1.532,6.755 0,5.365 0,3.65 L 0,0 Z"
@@ -3377,7 +3446,8 @@
           </g>
           <g
              id="g11899-6-27"
-             transform="translate(497.4421,24.3282)">
+             transform="translate(497.4421,24.3282)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 -43.994,0 c -2.487,0 -4.511,1.881 -4.511,4.194 l 0,3.649 c 0,2.313 2.024,4.194 4.511,4.194 l 43.994,0 c 2.487,0 4.511,-1.881 4.511,-4.194 l 0,-3.649 C 4.511,1.881 2.487,0 0,0 m -43.994,9.861 c -1.288,0 -2.336,-0.905 -2.336,-2.018 l 0,-3.649 c 0,-1.113 1.048,-2.018 2.336,-2.018 L 0,2.176 c 1.288,0 2.335,0.905 2.335,2.018 l 0,3.649 C 2.335,8.956 1.288,9.861 0,9.861 l -43.994,0 z"
@@ -3386,7 +3456,8 @@
           </g>
           <g
              id="g11903-8-2"
-             transform="translate(498.5646,28.8128)">
+             transform="translate(498.5646,28.8128)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-0.847 -0.687,-1.534 -1.534,-1.534 l -43.499,0 c -0.848,0 -1.534,0.687 -1.534,1.534 0,0.847 0.686,1.534 1.534,1.534 l 43.499,0 C -0.687,1.534 0,0.847 0,0"
@@ -3400,7 +3471,8 @@
            transform="matrix(-0.40247501,0,0,-0.40247501,829.75478,-406.97892)">
           <g
              id="g11871-5"
-             transform="translate(489.9082,44.0804)">
+             transform="translate(489.9082,44.0804)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,0 4.602,18.59 5.479,21.219 0.876,2.63 1.862,6.136 2.629,9.423 0.767,3.287 1.176,6.136 2.177,5.698 1.001,-0.439 -0.862,-5.698 -0.862,-5.698 0,0 -1.495,-6.999 -1.863,-10.08 C 7.192,17.481 3.053,-0.381 3.053,-0.381 L 0,0 Z"
@@ -3409,7 +3481,8 @@
           </g>
           <g
              id="g11875-2"
-             transform="translate(461.7008,44.0804)">
+             transform="translate(461.7008,44.0804)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,0 -4.602,18.59 -5.478,21.219 -0.877,2.63 -1.863,6.136 -2.63,9.423 -0.767,3.287 -1.175,6.136 -2.177,5.698 -1.001,-0.439 0.862,-5.698 0.862,-5.698 0,0 1.495,-6.999 1.863,-10.08 0.368,-3.081 4.508,-20.943 4.508,-20.943 L 0,0 Z"
@@ -3418,7 +3491,8 @@
           </g>
           <g
              id="g11879-1"
-             transform="translate(500.6463,33.1238)">
+             transform="translate(500.6463,33.1238)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-1.715 -1.314,-3.106 -3.204,-3.106 l -43.994,0 c -1.891,0 -3.204,1.391 -3.204,3.106 l 4.163,7.594 c 0.987,1.682 1.533,3.106 3.424,3.106 l 35.228,0 c 1.891,0 2.218,-1.205 3.423,-3.106 L 0,0 Z"
@@ -3427,7 +3501,8 @@
           </g>
           <g
              id="g11883-7"
-             transform="translate(497.4421,28.9303)">
+             transform="translate(497.4421,28.9303)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 -43.994,0 c -2.447,0 -4.292,1.803 -4.292,4.193 l 0,0.279 4.298,7.839 c 0.131,0.224 0.24,0.418 0.347,0.606 0.812,1.436 1.732,3.064 4.03,3.064 l 35.228,0 c 2.19,0 2.977,-1.328 3.81,-2.734 0.16,-0.271 0.334,-0.565 0.532,-0.877 l 0.035,-0.059 4.298,-7.839 0,-0.279 C 4.292,1.803 2.447,0 0,0 m -46.096,3.941 c 0.119,-1.037 0.966,-1.765 2.102,-1.765 L 0,2.176 c 1.136,0 1.984,0.728 2.102,1.765 l -3.999,7.294 c -0.203,0.321 -0.382,0.623 -0.548,0.903 -0.815,1.376 -1.02,1.668 -1.938,1.668 l -35.228,0 c -0.949,0 -1.299,-0.479 -2.137,-1.96 -0.111,-0.198 -0.227,-0.401 -0.348,-0.609 l -4,-7.296 z"
@@ -3436,7 +3511,8 @@
           </g>
           <g
              id="g11887-9"
-             transform="translate(458.3522,23.2982)">
+             transform="translate(458.3522,23.2982)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-0.343 -0.278,-0.621 -0.621,-0.621 l -4.127,0 c -0.342,0 -0.621,0.278 -0.621,0.621 l 0,1.935 c 0,0.343 0.279,0.621 0.621,0.621 l 4.127,0 C -0.278,2.556 0,2.278 0,1.935 L 0,0 Z"
@@ -3445,7 +3521,8 @@
           </g>
           <g
              id="g11891-6"
-             transform="translate(498.2211,23.2982)">
+             transform="translate(498.2211,23.2982)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-0.343 -0.279,-0.621 -0.621,-0.621 l -4.127,0 c -0.343,0 -0.621,0.278 -0.621,0.621 l 0,1.935 c 0,0.343 0.278,0.621 0.621,0.621 l 4.127,0 C -0.279,2.556 0,2.278 0,1.935 L 0,0 Z"
@@ -3454,7 +3531,8 @@
           </g>
           <g
              id="g11895-6"
-             transform="translate(500.8651,28.5221)">
+             transform="translate(500.8651,28.5221)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-1.716 -1.532,-3.106 -3.423,-3.106 l -43.994,0 c -1.89,0 -3.423,1.39 -3.423,3.106 l 0,3.65 c 0,1.715 1.533,3.105 3.423,3.105 l 43.994,0 C -1.532,6.755 0,5.365 0,3.65 L 0,0 Z"
@@ -3463,7 +3541,8 @@
           </g>
           <g
              id="g11899-6"
-             transform="translate(497.4421,24.3282)">
+             transform="translate(497.4421,24.3282)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 -43.994,0 c -2.487,0 -4.511,1.881 -4.511,4.194 l 0,3.649 c 0,2.313 2.024,4.194 4.511,4.194 l 43.994,0 c 2.487,0 4.511,-1.881 4.511,-4.194 l 0,-3.649 C 4.511,1.881 2.487,0 0,0 m -43.994,9.861 c -1.288,0 -2.336,-0.905 -2.336,-2.018 l 0,-3.649 c 0,-1.113 1.048,-2.018 2.336,-2.018 L 0,2.176 c 1.288,0 2.335,0.905 2.335,2.018 l 0,3.649 C 2.335,8.956 1.288,9.861 0,9.861 l -43.994,0 z"
@@ -3472,7 +3551,8 @@
           </g>
           <g
              id="g11903-8"
-             transform="translate(498.5646,28.8128)">
+             transform="translate(498.5646,28.8128)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-0.847 -0.687,-1.534 -1.534,-1.534 l -43.499,0 c -0.848,0 -1.534,0.687 -1.534,1.534 0,0.847 0.686,1.534 1.534,1.534 l 43.499,0 C -0.687,1.534 0,0.847 0,0"
@@ -3486,7 +3566,8 @@
            transform="matrix(-0.40247501,0,0,-0.40247501,723.35479,-351.77894)">
           <g
              id="g11871-5-9"
-             transform="translate(489.9082,44.0804)">
+             transform="translate(489.9082,44.0804)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,0 4.602,18.59 5.479,21.219 0.876,2.63 1.862,6.136 2.629,9.423 0.767,3.287 1.176,6.136 2.177,5.698 1.001,-0.439 -0.862,-5.698 -0.862,-5.698 0,0 -1.495,-6.999 -1.863,-10.08 C 7.192,17.481 3.053,-0.381 3.053,-0.381 L 0,0 Z"
@@ -3495,7 +3576,8 @@
           </g>
           <g
              id="g11875-2-7"
-             transform="translate(461.7008,44.0804)">
+             transform="translate(461.7008,44.0804)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,0 -4.602,18.59 -5.478,21.219 -0.877,2.63 -1.863,6.136 -2.63,9.423 -0.767,3.287 -1.175,6.136 -2.177,5.698 -1.001,-0.439 0.862,-5.698 0.862,-5.698 0,0 1.495,-6.999 1.863,-10.08 0.368,-3.081 4.508,-20.943 4.508,-20.943 L 0,0 Z"
@@ -3504,7 +3586,8 @@
           </g>
           <g
              id="g11879-1-52"
-             transform="translate(500.6463,33.1238)">
+             transform="translate(500.6463,33.1238)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-1.715 -1.314,-3.106 -3.204,-3.106 l -43.994,0 c -1.891,0 -3.204,1.391 -3.204,3.106 l 4.163,7.594 c 0.987,1.682 1.533,3.106 3.424,3.106 l 35.228,0 c 1.891,0 2.218,-1.205 3.423,-3.106 L 0,0 Z"
@@ -3513,7 +3596,8 @@
           </g>
           <g
              id="g11883-7-4"
-             transform="translate(497.4421,28.9303)">
+             transform="translate(497.4421,28.9303)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 -43.994,0 c -2.447,0 -4.292,1.803 -4.292,4.193 l 0,0.279 4.298,7.839 c 0.131,0.224 0.24,0.418 0.347,0.606 0.812,1.436 1.732,3.064 4.03,3.064 l 35.228,0 c 2.19,0 2.977,-1.328 3.81,-2.734 0.16,-0.271 0.334,-0.565 0.532,-0.877 l 0.035,-0.059 4.298,-7.839 0,-0.279 C 4.292,1.803 2.447,0 0,0 m -46.096,3.941 c 0.119,-1.037 0.966,-1.765 2.102,-1.765 L 0,2.176 c 1.136,0 1.984,0.728 2.102,1.765 l -3.999,7.294 c -0.203,0.321 -0.382,0.623 -0.548,0.903 -0.815,1.376 -1.02,1.668 -1.938,1.668 l -35.228,0 c -0.949,0 -1.299,-0.479 -2.137,-1.96 -0.111,-0.198 -0.227,-0.401 -0.348,-0.609 l -4,-7.296 z"
@@ -3522,7 +3606,8 @@
           </g>
           <g
              id="g11887-9-4"
-             transform="translate(458.3522,23.2982)">
+             transform="translate(458.3522,23.2982)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-0.343 -0.278,-0.621 -0.621,-0.621 l -4.127,0 c -0.342,0 -0.621,0.278 -0.621,0.621 l 0,1.935 c 0,0.343 0.279,0.621 0.621,0.621 l 4.127,0 C -0.278,2.556 0,2.278 0,1.935 L 0,0 Z"
@@ -3531,7 +3616,8 @@
           </g>
           <g
              id="g11891-6-3"
-             transform="translate(498.2211,23.2982)">
+             transform="translate(498.2211,23.2982)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-0.343 -0.279,-0.621 -0.621,-0.621 l -4.127,0 c -0.343,0 -0.621,0.278 -0.621,0.621 l 0,1.935 c 0,0.343 0.278,0.621 0.621,0.621 l 4.127,0 C -0.279,2.556 0,2.278 0,1.935 L 0,0 Z"
@@ -3540,7 +3626,8 @@
           </g>
           <g
              id="g11895-6-8"
-             transform="translate(500.8651,28.5221)">
+             transform="translate(500.8651,28.5221)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 c 0,-1.716 -1.532,-3.106 -3.423,-3.106 l -43.994,0 c -1.89,0 -3.423,1.39 -3.423,3.106 l 0,3.65 c 0,1.715 1.533,3.105 3.423,3.105 l 43.994,0 C -1.532,6.755 0,5.365 0,3.65 L 0,0 Z"
@@ -3549,7 +3636,8 @@
           </g>
           <g
              id="g11899-6-8"
-             transform="translate(497.4421,24.3282)">
+             transform="translate(497.4421,24.3282)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="m 0,0 -43.994,0 c -2.487,0 -4.511,1.881 -4.511,4.194 l 0,3.649 c 0,2.313 2.024,4.194 4.511,4.194 l 43.994,0 c 2.487,0 4.511,-1.881 4.511,-4.194 l 0,-3.649 C 4.511,1.881 2.487,0 0,0 m -43.994,9.861 c -1.288,0 -2.336,-0.905 -2.336,-2.018 l 0,-3.649 c 0,-1.113 1.048,-2.018 2.336,-2.018 L 0,2.176 c 1.288,0 2.335,0.905 2.335,2.018 l 0,3.649 C 2.335,8.956 1.288,9.861 0,9.861 l -43.994,0 z"
@@ -3558,7 +3646,8 @@
           </g>
           <g
              id="g11903-8-4"
-             transform="translate(498.5646,28.8128)">
+             transform="translate(498.5646,28.8128)"
+             style="">
             <path
                inkscape:connector-curvature="0"
                d="M 0,-8.212623e-5 C 0,-0.84708213 -0.687,-1.5340821 -1.534,-1.5340821 l -43.499,0 c -0.848,0 -1.534,0.68699997 -1.534,1.53399997377 0,0.84699999623 0.686,1.53400002623 1.534,1.53400002623 l 43.499,0 C -0.687,1.5339179 0,0.84691787 0,-8.212623e-5"
@@ -3569,156 +3658,156 @@
       </g>
       <flowRoot
          transform="matrix(0.9930196,0,0,1.0080869,0.90215167,-7.8433378)"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.00000095px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.00000095px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          id="flowRoot10254"
          xml:space="preserve"><flowRegion
            id="flowRegion10256"><rect
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.00000095px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.00000095px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;"
              y="-24.070524"
              x="427.42227"
              height="86.29528"
              width="401.36002"
              id="rect10258" /></flowRegion><flowPara
            id="flowPara10260" /><flowPara
-           style="font-size:10.47450352px;text-align:justify;text-anchor:start"
+           style="font-size:10.47450352px;text-align:justify;text-anchor:start;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
            id="flowPara10262">Wa Gäscht iwwert ären Freifunk-Router an den Internet ginn, gëtt den ganzen Trafic ganz legal duerch ee verschlësselte Tunnel (VPN) an d'Freifunk-Netz zum Freifunk-Server geleet. Eréischt vun do aus geet et dann an den Internet:</flowPara></flowRoot>      <flowRoot
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.55220795px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.55220795px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          id="flowRoot10254-3"
          xml:space="preserve"
          transform="matrix(1.0080552,0,0,1.0080552,-6.6963423,-2.0386833)"><flowRegion
            id="flowRegion10256-6"><rect
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.55220795px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.55220795px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;"
              y="214.51466"
              x="428.70718"
              height="65.158035"
              width="395.25104"
              id="rect10258-7" /></flowRegion><flowPara
-           style="font-size:10.3962574px;text-align:justify;text-anchor:start"
+           style="font-size:10.3962574px;text-align:justify;text-anchor:start;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
            id="flowPara10262-3">Fazit: Är Gäscht surfen net mat ärer Identitéit, mä si fir hiert Handele selwer verantwortlech. Dir stellt mat ärem Freifunk-Router nëmmen déi erfuerderlech Infrastruktur fir d'Verbindung mat dem Freifunk-Provider bereet.</flowPara></flowRoot>    </g>
     <g
        id="g10444"
        transform="translate(-0.89008316,-16.55592)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.40000057px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e20078;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.40000057px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e20078;fill-opacity:1;stroke:none;"
          x="139.05379"
          y="261.35742"
          id="text12371"
          sodipodi:linespacing="125%"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#e20078;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#e20078;fill-opacity:1;"
            sodipodi:role="line"
            id="tspan12373"
            x="139.05379"
            y="261.35742">&quot;Public WiFi, done right!&quot;</tspan></text>
       <flowRoot
          transform="matrix(1.0131622,0,0,1.0954315,-31.573801,-852.06947)"
-         style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:Ubuntu;font-stretch:normal;font-variant:normal;"
          id="flowRoot35377"
          xml:space="preserve"><flowRegion
            id="flowRegion35379"><rect
-             style="line-height:125%"
+             style="line-height:125%;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
              y="872.57355"
              x="51.902138"
              height="235.68675"
              width="393.09488"
              id="rect35381" /></flowRegion><flowPara
            id="flowPara35389"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.94785023px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Medium';text-align:justify;text-anchor:start">Fir matzemaachen braucht dir just een Router mat eiser Freifunk Software drop. Am beschten ass et, wann een vun eiem Freifunk Lëtzebuerg Team bei iech laanscht kënnt fir sech een Bild ze maachen wat genee gebraucht gëtt.Well wat ass méi nerveg wéi keen Internet? Ze luesen Internet! Eist kompetent Freifunk Team kann esou eng individuell Solutioun installéieren, déi all Undrang kann duerhalen an eng flächendecken WLAN Verfügbarkeetgarantéiert</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.94785023px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;text-anchor:start;">Fir matzemaachen braucht dir just een Router mat eiser Freifunk Software drop. Am beschten ass et, wann een vun eiem Freifunk Lëtzebuerg Team bei iech laanscht kënnt fir sech een Bild ze maachen wat genee gebraucht gëtt.Well wat ass méi nerveg wéi keen Internet? Ze luesen Internet! Eist kompetent Freifunk Team kann esou eng individuell Solutioun installéieren, déi all Undrang kann duerhalen an eng flächendecken WLAN Verfügbarkeetgarantéiert</flowPara><flowPara
            id="flowPara35393"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.94785023px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Medium';text-align:justify;text-anchor:start" /><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.94785023px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;text-anchor:start;" /><flowPara
            id="flowPara35395"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.94785023px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Medium';text-align:justify;text-anchor:start">Weiderhin ass et noutwenneng, dat schonn eng Internetleitung besteet. Freifunk ka just al Zousatz zu ärem momentanen Netzwierk funktionéieren.</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.94785023px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Medium';text-align:justify;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.94785023px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;text-anchor:start;">Weiderhin ass et noutwenneng, dat schonn eng Internetleitung besteet. Freifunk ka just al Zousatz zu ärem momentanen Netzwierk funktionéieren.</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.94785023px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;text-anchor:start;"
            id="flowPara35385" /></flowRoot>      <flowRoot
          transform="matrix(1.0234699,0,0,1.1471997,460.46942,-249.38942)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.70491886px;line-height:100%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.70491886px;line-height:100%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          id="flowRoot35397"
          xml:space="preserve"><flowRegion
            id="flowRegion35399"><rect
              ry="0"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.70491886px;line-height:100%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;text-anchor:start"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.70491886px;line-height:100%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;text-anchor:start;"
              y="0.44748151"
              x="-429.68161"
              height="146.80678"
              width="389.64349"
              id="rect35401" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.6717329px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.6717329px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;"
            id="flowPara35411">Mir sinn eng Initiativ ouni Gewënnzweck mat dem Zil, een flächendeckend fräit Wlan-Netzwierk obzebauen. Mirschaffen a verschidde Communautéiten uchter d'Land an ënnerstëtzen Geschäfts- a Privatleit dobäi, Freifunk bei sech ze installéieren.</flowPara></flowRoot>      <flowRoot
          transform="matrix(1.0222279,0,0,1.0358891,460.15459,5.1626737)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.70491886px;line-height:100%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.70491886px;line-height:100%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          id="flowRoot35397-3-7"
          xml:space="preserve"><flowRegion
            id="flowRegion35399-6-9"><rect
              ry="0"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.70491886px;line-height:100%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;text-anchor:start"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.70491886px;line-height:100%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;text-anchor:start;"
              y="0.44748151"
              x="-429.68161"
              height="564.11664"
              width="389.69147"
              id="rect35401-0-2" /></flowRegion><flowPara
            id="flowPara35630"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.18429184px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'">An de WLAN-Astellunge vum Handy, Laptop, Tablet oder ähnlechem d'Netzwierk &quot;<flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.18429184px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;">An de WLAN-Astellunge vum Handy, Laptop, Tablet oder ähnlechem d'Netzwierk &quot;<flowSpan
    id="flowSpan35648"
-   style="font-size:10.18429184px;fill:#e20078;fill-opacity:1">luxembourg.freifunk.net</flowSpan>&quot; auswielen a scho surft een am fräien Netz! Et muss een sech néierens registréieren, et musse keng Notzungsbedingungen akzeptéiert ginn a mir protokolléiere keng iwwerdroen Daten.</flowPara><flowPara
+   style="font-size:10.18429184px;fill:#e20078;fill-opacity:1;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">luxembourg.freifunk.net</flowSpan>&quot; auswielen a scho surft een am fräien Netz! Et muss een sech néierens registréieren, et musse keng Notzungsbedingungen akzeptéiert ginn a mir protokolléiere keng iwwerdroen Daten.</flowPara><flowPara
            id="flowPara35632"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.18429184px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'" /><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.18429184px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;" /><flowPara
            id="flowPara35634"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.18429184px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'" /><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.18429184px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;" /><flowPara
            id="flowPara35636"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.18429184px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'" /><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.18429184px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;" /><flowPara
            id="flowPara35638"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.18429184px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'" /></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.18429184px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;" /></flowRoot>      <flowRoot
          transform="matrix(1.1983243,0,0,1.3431928,535.90966,-163.08864)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.70491886px;line-height:100%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.70491886px;line-height:100%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          id="flowRoot35397-5"
          xml:space="preserve"><flowRegion
            id="flowRegion35399-62"><rect
              ry="0"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.70491886px;line-height:100%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;text-anchor:start"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.70491886px;line-height:100%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;text-anchor:start;"
              y="0.44748151"
              x="-429.68161"
              height="146.80678"
              width="389.64349"
              id="rect35401-9" /></flowRegion><flowPara
            id="flowPara10328"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.26047421px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'"><flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.26047421px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;"><flowSpan
    id="flowSpan10348"
-   style="font-size:8.26047421px;fill:#e20078;fill-opacity:1"> •</flowSpan> Gratis WLAN fir Gäscht - Service um Client! </flowPara><flowPara
+   style="font-size:8.26047421px;fill:#e20078;fill-opacity:1;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"> •</flowSpan> Gratis WLAN fir Gäscht - Service um Client! </flowPara><flowPara
            id="flowPara10330"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.26047421px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'"><flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.26047421px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;"><flowSpan
    id="flowSpan10358"
-   style="font-size:8.26047421px;fill:#e20078;fill-opacity:1"> •</flowSpan> keen lästegt Passwuert diktéieren oder opschreiwen méi</flowPara><flowPara
+   style="font-size:8.26047421px;fill:#e20078;fill-opacity:1;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"> •</flowSpan> keen lästegt Passwuert diktéieren oder opschreiwen méi</flowPara><flowPara
            id="flowPara10332"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.26047421px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'"><flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.26047421px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;"><flowSpan
    id="flowSpan10368"
-   style="font-size:8.26047421px;fill:#e20078;fill-opacity:1"> •</flowSpan> schafft ouni Problemer zousätzlech zu ärem momentan Router</flowPara><flowPara
+   style="font-size:8.26047421px;fill:#e20078;fill-opacity:1;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"> •</flowSpan> schafft ouni Problemer zousätzlech zu ärem momentan Router</flowPara><flowPara
            id="flowPara10334"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.26047421px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'"><flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.26047421px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;"><flowSpan
    id="flowSpan10378"
-   style="font-size:8.26047421px;fill:#e20078;fill-opacity:1"> •</flowSpan> Sécher a getrennt vum privaten Netzwierk</flowPara><flowPara
+   style="font-size:8.26047421px;fill:#e20078;fill-opacity:1;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"> •</flowSpan> Sécher a getrennt vum privaten Netzwierk</flowPara><flowPara
            id="flowPara10336"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.26047421px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'"><flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.26047421px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;"><flowSpan
    id="flowSpan10396"
-   style="font-size:8.26047421px;fill:#e20078;fill-opacity:1"> •</flowSpan> reegelméisseg automatesch Software-Updates</flowPara><flowPara
+   style="font-size:8.26047421px;fill:#e20078;fill-opacity:1;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"> •</flowSpan> reegelméisseg automatesch Software-Updates</flowPara><flowPara
            id="flowPara10338"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.26047421px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'"><flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.26047421px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;"><flowSpan
    id="flowSpan10418"
-   style="font-size:8.26047421px;fill:#e20078;fill-opacity:1"> •</flowSpan> minimalen Entretien</flowPara><flowPara
+   style="font-size:8.26047421px;fill:#e20078;fill-opacity:1;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"> •</flowSpan> minimalen Entretien</flowPara><flowPara
            id="flowPara10340"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.26047421px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'"><flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.26047421px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;"><flowSpan
    id="flowSpan10428"
-   style="font-size:8.26047421px;fill:#e20078;fill-opacity:1"> •</flowSpan> keng Störerhaftung<flowSpan
+   style="font-size:8.26047421px;fill:#e20078;fill-opacity:1;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"> •</flowSpan> keng Störerhaftung<flowSpan
    id="flowSpan10438"
-   style="font-size:8.26047421px;fill:#e20078;fill-opacity:1">*</flowSpan></flowPara><flowPara
+   style="font-size:8.26047421px;fill:#e20078;fill-opacity:1;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">*</flowSpan></flowPara><flowPara
            id="flowPara10342"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.26047421px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'" /><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.26047421px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;" /><flowPara
            id="flowPara10344"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.26047421px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#e20078;fill-opacity:1">*Dir haft net dofir wat een aneren iwwert ären Freifunk Router mécht</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.26047421px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#e20078;fill-opacity:1;">*Dir haft net dofir wat een aneren iwwert ären Freifunk Router mécht</flowPara><flowPara
            id="flowPara10346"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.26047421px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'" /></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.26047421px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;" /></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot11208"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.40000153px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.40000153px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          transform="translate(298.33526,-7.0866896)"><flowRegion
            id="flowRegion11210"><rect
              id="rect11212"
@@ -3726,12 +3815,12 @@
              height="20.976591"
              x="-179.64429"
              y="-272.39438"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.40000153px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.40000153px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;" /></flowRegion><flowPara
            id="flowPara11214"
-           style="fill:#e20078;fill-opacity:1">Freifunk - Fräifunk - Fräie Funk?</flowPara></flowRoot>      <flowRoot
+           style="fill:#e20078;fill-opacity:1;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Freifunk - Fräifunk - Fräie Funk?</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot11208-7"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          transform="matrix(0.8,0,0,0.80000015,163.23646,-189.66621)"><flowRegion
            id="flowRegion11210-0"><rect
              id="rect11212-9"
@@ -3739,12 +3828,12 @@
              height="26.220736"
              x="-1.547695"
              y="-4.2824616"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;" /></flowRegion><flowPara
            id="flowPara11214-3"
-           style="fill:#e20078;fill-opacity:1">Wat bitt Freifunk?</flowPara></flowRoot>      <flowRoot
+           style="fill:#e20078;fill-opacity:1;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Wat bitt Freifunk?</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot11208-6"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          transform="matrix(0.8,0,0,0.80000015,170.04732,-21.682149)"><flowRegion
            id="flowRegion11210-06"><rect
              id="rect11212-2"
@@ -3752,12 +3841,12 @@
              height="26.220736"
              x="-1.547695"
              y="-4.2824616"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;" /></flowRegion><flowPara
            id="flowPara11214-6"
-           style="fill:#e20078;fill-opacity:1">Freifunk notzen</flowPara></flowRoot>      <flowRoot
+           style="fill:#e20078;fill-opacity:1;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Freifunk notzen</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot11208-1"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.40000153px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.40000153px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          transform="translate(173.11264,377.20534)"><flowRegion
            id="flowRegion11210-8"><rect
              id="rect11212-7"
@@ -3765,8 +3854,8 @@
              height="20.976593"
              x="5.0442023"
              y="-304.30634"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.40000153px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.40000153px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;" /></flowRegion><flowPara
            id="flowPara11214-9"
-           style="fill:#e20078;fill-opacity:1">Matmaachen</flowPara></flowRoot>    </g>
+           style="fill:#e20078;fill-opacity:1;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Matmaachen</flowPara></flowRoot>    </g>
   </g>
 </svg>

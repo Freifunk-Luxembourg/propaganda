@@ -39,17 +39,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1040"
+     inkscape:window-width="1916"
+     inkscape:window-height="1036"
      id="namedview9283"
      showgrid="true"
-     inkscape:zoom="0.7928263"
-     inkscape:cx="638.38636"
-     inkscape:cy="455.91691"
+     inkscape:zoom="1.5856526"
+     inkscape:cx="293.2182"
+     inkscape:cy="381.4178"
      inkscape:window-x="0"
      inkscape:window-y="20"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer2"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Hauptebene"
      showguides="false"
      inkscape:guide-bbox="true"
      units="mm">
@@ -1368,36 +1368,31 @@
            height="80.999992"
            x="640.99994"
            y="120.09454" /></flowRegion><flowPara
-         id="flowPara3586" /></flowRoot>    <g
-       id="g43002"
-       transform="translate(38.367354,-9.1308314)">
-      <flowRoot
-         transform="translate(-32.697415,-17.362463)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.48000145px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot8772"
-         xml:space="preserve"><flowRegion
-           id="flowRegion8774"><rect
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#e20078;fill-opacity:1"
-             y="-241.25664"
-             x="110.60413"
-             height="78.187012"
-             width="233.40266"
-             id="rect8776" /></flowRegion><flowPara
-           id="flowPara8778">Ass mäin eegent, privat Netzwierk sécher?</flowPara></flowRoot>      <flowRoot
-         transform="matrix(1.3656219,0,0,1.3656221,517.33222,-363.28511)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10000038px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot8772-4"
-         xml:space="preserve"><flowRegion
-           id="flowRegion8774-3"><rect
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-             y="88.192474"
-             x="-394.55475"
-             height="97.733742"
-             width="291.75333"
-             id="rect8776-1" /></flowRegion><flowPara
-           style="font-size:7.67415953px;text-align:justify;text-anchor:start"
-           id="flowPara8778-9">Jo! Den Trafic aus dem Freifunk-Netz ass komplett vum privaten Netz a senge Computeren getrennt.</flowPara></flowRoot>    </g>
-    <g
+         id="flowPara3586" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8772"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.48000145px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-93.716797,-26.493294)"><flowRegion
+         id="flowRegion8774"><rect
+           id="rect8776"
+           width="233.40266"
+           height="78.187012"
+           x="110.60413"
+           y="-241.25664"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#e20078;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara8778">Ass mäin eegent, privat Netzwierk sécher?</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8772-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.88964844px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion8774-3"><rect
+           id="rect8776-1"
+           width="398.42474"
+           height="133.46736"
+           x="16.886965"
+           y="-251.97835"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></flowRegion><flowPara
+         id="flowPara8778-9"
+         style="font-size:10.48000145px;text-align:justify;text-anchor:start">Jo! Den Trafic aus dem Freifunk-Netz ass komplett vum privaten Netz a senge Computeren getrennt.</flowPara></flowRoot>    <g
        id="g43012"
        transform="translate(5.6692875,-10.404524)">
       <flowRoot
@@ -1514,7 +1509,7 @@
            id="flowPara8778-94-7-5-6-3-8">Freifunker-Treffen:</flowPara></flowRoot>    </g>
     <g
        id="g43032"
-       transform="translate(31.531301,-8.5803715)">
+       transform="translate(5.6692873,-8.5803715)">
       <flowRoot
          transform="translate(11.003801,273.42717)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.48000145px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1545,7 +1540,7 @@
    style="fill:#e20078;fill-opacity:1">freifunk.lu</flowSpan></flowPara></flowRoot>    </g>
     <g
        id="g43043"
-       transform="translate(160.96929,-9.8539349)">
+       transform="translate(5.6692873,-9.8539349)">
       <flowRoot
          transform="translate(10.395961,314.42716)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.48000145px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1605,7 +1600,7 @@
            id="flowPara8778-9-3-4-4-8">Freifunk Lëtzebuerg gëtt vu Fräiwëllegen bedriwwen. D'Initiativ gëtt awer vun der Chaos Computer Club Lëtzebuerg A.S.B.L. betreit a geleet.</flowPara></flowRoot>    </g>
     <g
        id="g43054"
-       transform="translate(169.25177,-11.127567)">
+       transform="translate(5.6692876,-11.127567)">
       <flowRoot
          transform="matrix(0.8,0,0,0.80000015,11.213539,56.098525)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10000038px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1639,33 +1634,25 @@
      inkscape:label="logo"
      transform="translate(0,11.338576)">
     <g
-       id="g4425"
-       transform="translate(-26.276599,-13.502184)">
+       id="g5979">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 566.6449,497.81208 a 63.152536,68.139822 0 1 1 62.88369,-68.19256 63.091437,68.073897 0 0 1 -62.88369,68.19256 z m 0,-132.93066 a 60.060897,64.804029 0 1 0 59.80428,64.7381 59.999797,64.738105 0 0 0 -59.80428,-64.7381 z"
+         style="fill:#dc0468"
+         id="path14" />
       <g
-         transform="matrix(1.222063,0,0,1.3185718,-119.53768,-97.709216)"
-         id="g4418">
-        <g
-           transform="matrix(0.99994176,0,0,0.99994179,515.55102,298.1707)"
-           id="g12">
-          <path
-             inkscape:connector-curvature="0"
-             d="M 67.45,163.72 A 51.68,51.68 0 1 1 118.91,112 51.63,51.63 0 0 1 67.45,163.72 Z m 0,-100.82 A 49.15,49.15 0 1 0 116.39,112 49.1,49.1 0 0 0 67.45,62.9 Z"
-             style="fill:#dc0468"
-             id="path14" />
-          <g
-             id="g16">
-            <path
-               inkscape:connector-curvature="0"
-               d="M 156.8,164.81 C 113.88,164.81 79,129.76 79,86.68 79,43.6 113.88,8.54 156.8,8.54 l 0,0 c 42.92,0 77.84,35.05 77.84,78.13 0,43.08 -34.91,78.14 -77.84,78.14 z m 0,-141.15 a 63,63 0 1 0 62.72,63 62.94,62.94 0 0 0 -62.71,-63 z"
-               style="fill:#dc0468"
-               id="path18" />
-            <path
-               inkscape:connector-curvature="0"
-               d="M 156.81,142 A 55.35,55.35 0 1 1 211.93,86.65 55.3,55.3 0 0 1 156.81,142 Z m 0,-108.17 A 52.82,52.82 0 1 0 209.4,86.68 52.77,52.77 0 0 0 156.81,33.85 Z"
-               style="fill:#dc0468"
-               id="path20" />
-          </g>
-        </g>
+         transform="matrix(1.2219918,0,0,1.318495,484.22155,281.94808)"
+         id="g16">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 156.8,164.81 C 113.88,164.81 79,129.76 79,86.68 79,43.6 113.88,8.54 156.8,8.54 l 0,0 c 42.92,0 77.84,35.05 77.84,78.13 0,43.08 -34.91,78.14 -77.84,78.14 z m 0,-141.15 a 63,63 0 1 0 62.72,63 62.94,62.94 0 0 0 -62.71,-63 z"
+           style="fill:#dc0468"
+           id="path18" />
+        <path
+           inkscape:connector-curvature="0"
+           d="M 156.81,142 A 55.35,55.35 0 1 1 211.93,86.65 55.3,55.3 0 0 1 156.81,142 Z m 0,-108.17 A 52.82,52.82 0 1 0 209.4,86.68 52.77,52.77 0 0 0 156.81,33.85 Z"
+           style="fill:#dc0468"
+           id="path20" />
       </g>
     </g>
     <path
@@ -1679,7 +1666,7 @@
        id="path24"
        inkscape:connector-curvature="0" />
     <g
-       transform="matrix(0.43793725,0,0,0.47699525,625.96162,337.2604)"
+       transform="matrix(0.43793725,0,0,0.47699525,600.36162,337.2604)"
        id="g2569">
       <circle
          style="fill:#ef2b2d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1"
