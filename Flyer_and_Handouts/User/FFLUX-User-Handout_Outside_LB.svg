@@ -43,13 +43,13 @@
      inkscape:window-height="1025"
      id="namedview9283"
      showgrid="true"
-     inkscape:zoom="0.97672927"
-     inkscape:cx="284.04415"
-     inkscape:cy="389.39003"
+     inkscape:zoom="3.9069171"
+     inkscape:cx="710.38768"
+     inkscape:cy="245.53726"
      inkscape:window-x="0"
      inkscape:window-y="31"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Hauptebene"
+     inkscape:current-layer="layer1"
      showguides="false"
      inkscape:guide-bbox="true"
      units="mm">
@@ -2598,17 +2598,17 @@
       </g>
     </g>
     <path
-       d="m 595.03679,385.68939 -12.54927,-12.59927 -11.81932,0 8.36952,8.40951 -16.74903,0 0,8.4095 16.74903,0 -8.36952,8.40952 11.81932,0 12.54927,-12.60927 0,0 z"
+       d="m 585.43679,385.68939 -12.54927,-12.59927 -11.81932,0 8.36952,8.40951 -16.74903,0 0,8.4095 16.74903,0 -8.36952,8.40952 11.81932,0 12.54927,-12.60927 0,0 z"
        style="fill:#fab313"
        id="path22"
        inkscape:connector-curvature="0" />
     <path
-       d="m 565.86124,423.36736 21.20877,-21.34876 19.99883,0 -14.10918,14.23917 28.35835,0 0,14.22917 -28.35835,0 14.16918,14.27917 -20.05883,0 -21.20877,-21.39875 0,0 z"
+       d="m 556.26124,423.36736 21.20877,-21.34876 19.99883,0 -14.10918,14.23917 28.35835,0 0,14.22917 -28.35835,0 14.16918,14.27917 -20.05883,0 -21.20877,-21.39875 0,0 z"
        style="fill:#fab313"
        id="path24"
        inkscape:connector-curvature="0" />
     <g
-       transform="matrix(0.35835898,0,0,0.36175145,628.05835,330.24039)"
+       transform="matrix(0.35835898,0,0,0.36175145,618.45835,328.64039)"
        id="g2569">
       <circle
          style="opacity:1;fill:#ef2b2d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1"

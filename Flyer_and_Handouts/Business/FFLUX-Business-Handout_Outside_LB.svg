@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,17 +39,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1916"
-     inkscape:window-height="1036"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
      id="namedview9283"
      showgrid="true"
-     inkscape:zoom="1.5856526"
-     inkscape:cx="293.2182"
-     inkscape:cy="381.4178"
+     inkscape:zoom="1.1212257"
+     inkscape:cx="358.86131"
+     inkscape:cy="394.98201"
      inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-y="31"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Hauptebene"
+     inkscape:current-layer="layer1"
      showguides="false"
      inkscape:guide-bbox="true"
      units="mm">
@@ -1656,12 +1656,12 @@
       </g>
     </g>
     <path
-       d="m 585.60719,411.97389 -15.33599,-16.61304 -14.44396,0 10.22808,11.08854 -20.46837,0 0,11.08853 20.46837,0 -10.22808,11.08856 14.44396,0 15.33599,-16.62623 0,0 z"
+       d="m 560.00719,411.97389 -15.33599,-16.61304 -14.44396,0 10.22808,11.08854 -20.46837,0 0,11.08853 20.46837,0 -10.22808,11.08856 14.44396,0 15.33599,-16.62623 0,0 z"
        style="fill:#fab313"
        id="path22"
        inkscape:connector-curvature="0" />
     <path
-       d="m 548.35283,460.055 25.91846,-28.14988 24.43983,0 -17.24231,18.77537 34.65569,0 0,18.76218 -34.65569,0 17.31563,18.82812 -24.51315,0 -25.91846,-28.21579 0,0 z"
+       d="m 522.75283,460.055 25.91846,-28.14988 24.43983,0 -17.24231,18.77537 34.65569,0 0,18.76218 -34.65569,0 17.31563,18.82812 -24.51315,0 -25.91846,-28.21579 0,0 z"
        style="fill:#fab313"
        id="path24"
        inkscape:connector-curvature="0" />
