@@ -13,7 +13,7 @@
    version="1.1"
    viewBox="0 0 853.22835 606.61419"
    id="svg6811"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="FFLUX-User-Handout_Inside_LB.svg">
   <metadata
      id="metadata9285">
@@ -36,12 +36,12 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-width="1360"
+     inkscape:window-height="715"
      id="namedview9283"
      showgrid="true"
      inkscape:zoom="1.3125551"
-     inkscape:cx="246.453"
+     inkscape:cx="247.97675"
      inkscape:cy="543.81493"
      inkscape:window-x="0"
      inkscape:window-y="31"
@@ -2034,14 +2034,16 @@
                cx="288.375"
                id="path3441"
                style="fill:#c4c5c2"
-               transform="matrix(1.0566,0,0,1.0566,-17.198,24.863)" />
+               transform="matrix(1.0566,0,0,1.0566,-17.198,24.863)"
+               d="m 291.6875,-437.59375 c 0,1.82944 -1.48306,3.3125 -3.3125,3.3125 -1.82944,0 -3.3125,-1.48306 -3.3125,-3.3125 0,-1.82944 1.48306,-3.3125 3.3125,-3.3125 1.82944,0 3.3125,1.48306 3.3125,3.3125 z" />
             <circle
                r="3.3125"
                cy="-437.59375"
                cx="288.375"
                id="path3443"
                style="fill:url(#linearGradient12686)"
-               transform="matrix(1.0566,0,0,1.0566,-17.198,24.863)" />
+               transform="matrix(1.0566,0,0,1.0566,-17.198,24.863)"
+               d="m 291.6875,-437.59375 c 0,1.82944 -1.48306,3.3125 -3.3125,3.3125 -1.82944,0 -3.3125,-1.48306 -3.3125,-3.3125 0,-1.82944 1.48306,-3.3125 3.3125,-3.3125 1.82944,0 3.3125,1.48306 3.3125,3.3125 z" />
           </g>
           <g
              id="g3455"
@@ -2052,14 +2054,16 @@
                cx="288.375"
                id="path3457"
                style="fill:#c4c5c2"
-               transform="matrix(1.0566,0,0,1.0566,-17.198,24.863)" />
+               transform="matrix(1.0566,0,0,1.0566,-17.198,24.863)"
+               d="m 291.6875,-437.59375 c 0,1.82944 -1.48306,3.3125 -3.3125,3.3125 -1.82944,0 -3.3125,-1.48306 -3.3125,-3.3125 0,-1.82944 1.48306,-3.3125 3.3125,-3.3125 1.82944,0 3.3125,1.48306 3.3125,3.3125 z" />
             <circle
                r="3.3125"
                cy="-437.59375"
                cx="288.375"
                id="path3459"
                style="fill:url(#linearGradient3445-8)"
-               transform="matrix(1.0566,0,0,1.0566,-17.198,24.863)" />
+               transform="matrix(1.0566,0,0,1.0566,-17.198,24.863)"
+               d="m 291.6875,-437.59375 c 0,1.82944 -1.48306,3.3125 -3.3125,3.3125 -1.82944,0 -3.3125,-1.48306 -3.3125,-3.3125 0,-1.82944 1.48306,-3.3125 3.3125,-3.3125 1.82944,0 3.3125,1.48306 3.3125,3.3125 z" />
           </g>
           <g
              id="g3463"
@@ -2070,14 +2074,16 @@
                cx="288.375"
                id="path3465"
                style="fill:#c4c5c2"
-               transform="matrix(1.0566,0,0,1.0566,-31.198,24.863)" />
+               transform="matrix(1.0566,0,0,1.0566,-31.198,24.863)"
+               d="m 291.6875,-437.59375 c 0,1.82944 -1.48306,3.3125 -3.3125,3.3125 -1.82944,0 -3.3125,-1.48306 -3.3125,-3.3125 0,-1.82944 1.48306,-3.3125 3.3125,-3.3125 1.82944,0 3.3125,1.48306 3.3125,3.3125 z" />
             <circle
                r="3.3125"
                cy="-437.59375"
                cx="288.375"
                id="path3467"
                style="fill:url(#linearGradient3469-6)"
-               transform="matrix(1.0566,0,0,1.0566,-31.198,24.863)" />
+               transform="matrix(1.0566,0,0,1.0566,-31.198,24.863)"
+               d="m 291.6875,-437.59375 c 0,1.82944 -1.48306,3.3125 -3.3125,3.3125 -1.82944,0 -3.3125,-1.48306 -3.3125,-3.3125 0,-1.82944 1.48306,-3.3125 3.3125,-3.3125 1.82944,0 3.3125,1.48306 3.3125,3.3125 z" />
           </g>
           <g
              id="g3487"
@@ -2088,14 +2094,16 @@
                cx="288.375"
                id="path3489"
                style="fill:#c4c5c2"
-               transform="matrix(1.0566,0,0,1.0566,-24.198,21.863)" />
+               transform="matrix(1.0566,0,0,1.0566,-24.198,21.863)"
+               d="m 291.6875,-437.59375 c 0,1.82944 -1.48306,3.3125 -3.3125,3.3125 -1.82944,0 -3.3125,-1.48306 -3.3125,-3.3125 0,-1.82944 1.48306,-3.3125 3.3125,-3.3125 1.82944,0 3.3125,1.48306 3.3125,3.3125 z" />
             <circle
                r="3.3125"
                cy="-437.59375"
                cx="288.375"
                id="path3491"
                style="fill:url(#linearGradient3493-5)"
-               transform="matrix(1.0566,0,0,1.0566,-24.198,21.863)" />
+               transform="matrix(1.0566,0,0,1.0566,-24.198,21.863)"
+               d="m 291.6875,-437.59375 c 0,1.82944 -1.48306,3.3125 -3.3125,3.3125 -1.82944,0 -3.3125,-1.48306 -3.3125,-3.3125 0,-1.82944 1.48306,-3.3125 3.3125,-3.3125 1.82944,0 3.3125,1.48306 3.3125,3.3125 z" />
           </g>
         </g>
         <g
@@ -2364,7 +2372,8 @@
              cx="24.218407"
              id="path12999"
              style="color:#000000;fill:url(#radialGradient13133);fill-rule:evenodd"
-             transform="matrix(1,0,0,1.3689,-1.9786,-13.617)" />
+             transform="matrix(1,0,0,1.3689,-1.9786,-13.617)"
+             d="m 41.10058,35.051105 c 0,2.514001 -7.558406,4.552001 -16.882173,4.552001 -9.323767,0 -16.8821739,-2.038 -16.8821739,-4.552001 0,-2.514 7.5584069,-4.552 16.8821739,-4.552 9.323767,0 16.882173,2.038 16.882173,4.552 z" />
           <ellipse
              ry="3.939595"
              rx="9.3944187"
@@ -2372,7 +2381,8 @@
              cx="-35.658386"
              id="path13001"
              style="color:#000000;fill:#adb0aa;fill-rule:evenodd;stroke:#4b4d4a;stroke-width:0.63860524"
-             transform="translate(57.533,3.2034)" />
+             transform="translate(57.533,3.2034)"
+             d="m -26.263968,29.716238 c 0,2.175778 -4.206024,3.939595 -9.394418,3.939595 -5.188394,0 -9.394419,-1.763817 -9.394419,-3.939595 0,-2.175778 4.206025,-3.939595 9.394419,-3.939595 5.188394,0 9.394418,1.763817 9.394418,3.939595 z" />
           <ellipse
              ry="3.939595"
              rx="9.3944187"
@@ -2380,7 +2390,8 @@
              cx="-35.658386"
              id="path13003"
              style="color:#000000;fill:none;stroke:#7b7f7a;stroke-width:0.63860524"
-             transform="matrix(0.94027,0,0,0.94027,55.404,4.2712)" />
+             transform="matrix(0.94027,0,0,0.94027,55.404,4.2712)"
+             d="m -26.263968,29.716238 c 0,2.175778 -4.206024,3.939595 -9.394418,3.939595 -5.188394,0 -9.394419,-1.763817 -9.394419,-3.939595 0,-2.175778 4.206025,-3.939595 9.394419,-3.939595 5.188394,0 9.394418,1.763817 9.394418,3.939595 z" />
           <ellipse
              ry="3.939595"
              rx="9.3944187"
@@ -2388,7 +2399,8 @@
              cx="-35.658386"
              id="path13005"
              style="color:#000000;fill:none;stroke:url(#linearGradient13135);stroke-width:0.43466666"
-             transform="matrix(0.94027,0,0,0.94027,55.404,3.5212)" />
+             transform="matrix(0.94027,0,0,0.94027,55.404,3.5212)"
+             d="m -26.263968,29.716238 c 0,2.175778 -4.206024,3.939595 -9.394418,3.939595 -5.188394,0 -9.394419,-1.763817 -9.394419,-3.939595 0,-2.175778 4.206025,-3.939595 9.394419,-3.939595 5.188394,0 9.394418,1.763817 9.394418,3.939595 z" />
           <path
              inkscape:connector-curvature="0"
              id="path13007"
@@ -2402,7 +2414,8 @@
              cx="24.218407"
              id="path13009"
              style="color:#000000;fill:url(#radialGradient13137);fill-rule:evenodd"
-             transform="matrix(1,0,0,1.3689,-1.9786,-19.021)" />
+             transform="matrix(1,0,0,1.3689,-1.9786,-19.021)"
+             d="m 41.10058,35.051105 c 0,2.514001 -7.558406,4.552001 -16.882173,4.552001 -9.323767,0 -16.8821739,-2.038 -16.8821739,-4.552001 0,-2.514 7.5584069,-4.552 16.8821739,-4.552 9.323767,0 16.882173,2.038 16.882173,4.552 z" />
           <rect
              id="rect13011"
              style="color:#000000;fill:url(#linearGradient13139);fill-rule:evenodd"
@@ -2446,7 +2459,8 @@
              cx="24.218407"
              id="path13023"
              style="color:#000000;fill:url(#radialGradient13153);fill-rule:evenodd"
-             transform="matrix(1.2644,0,0,1.2913,-6.2163,-4.0004)" />
+             transform="matrix(1.2644,0,0,1.2913,-6.2163,-4.0004)"
+             d="m 41.10058,35.051105 c 0,2.514001 -7.558406,4.552001 -16.882173,4.552001 -9.323767,0 -16.8821739,-2.038 -16.8821739,-4.552001 0,-2.514 7.5584069,-4.552 16.8821739,-4.552 9.323767,0 16.882173,2.038 16.882173,4.552 z" />
           <path
              inkscape:connector-curvature="0"
              id="path13025"
@@ -2497,35 +2511,40 @@
              cx="34.780815"
              id="path13041"
              style="color:#000000;fill:url(#linearGradient13167);fill-rule:evenodd"
-             transform="matrix(1.3312,0,0,0.65845,-10.419,2.8539)" />
+             transform="matrix(1.3312,0,0,0.65845,-10.419,2.8539)"
+             d="m 35.620504,3.9384086 c 0,0.4637476 -0.375941,0.8396893 -0.839689,0.8396893 -0.463747,0 -0.839689,-0.3759417 -0.839689,-0.8396893 0,-0.4637476 0.375942,-0.8396893 0.839689,-0.8396893 0.463748,0 0.839689,0.3759417 0.839689,0.8396893 z" />
           <circle
              r="0.83968931"
              cy="3.9384086"
              cx="34.780815"
              id="path13043"
              style="color:#000000;fill:url(#linearGradient13169);fill-rule:evenodd"
-             transform="matrix(1.3312,0,0,0.65845,-10.306,4.9597)" />
+             transform="matrix(1.3312,0,0,0.65845,-10.306,4.9597)"
+             d="m 35.620504,3.9384086 c 0,0.4637476 -0.375941,0.8396893 -0.839689,0.8396893 -0.463747,0 -0.839689,-0.3759417 -0.839689,-0.8396893 0,-0.4637476 0.375942,-0.8396893 0.839689,-0.8396893 0.463748,0 0.839689,0.3759417 0.839689,0.8396893 z" />
           <circle
              r="0.83968931"
              cy="3.9384086"
              cx="34.780815"
              id="path13045"
              style="color:#000000;fill:url(#linearGradient13171);fill-rule:evenodd"
-             transform="matrix(1.3312,0,0,0.65845,-10.192,6.9597)" />
+             transform="matrix(1.3312,0,0,0.65845,-10.192,6.9597)"
+             d="m 35.620504,3.9384086 c 0,0.4637476 -0.375941,0.8396893 -0.839689,0.8396893 -0.463747,0 -0.839689,-0.3759417 -0.839689,-0.8396893 0,-0.4637476 0.375942,-0.8396893 0.839689,-0.8396893 0.463748,0 0.839689,0.3759417 0.839689,0.8396893 z" />
           <circle
              r="0.83968931"
              cy="3.9384086"
              cx="34.780815"
              id="path13047"
              style="color:#000000;fill:url(#linearGradient13173);fill-rule:evenodd"
-             transform="matrix(1.3312,0,0,0.65845,-10.079,8.9597)" />
+             transform="matrix(1.3312,0,0,0.65845,-10.079,8.9597)"
+             d="m 35.620504,3.9384086 c 0,0.4637476 -0.375941,0.8396893 -0.839689,0.8396893 -0.463747,0 -0.839689,-0.3759417 -0.839689,-0.8396893 0,-0.4637476 0.375942,-0.8396893 0.839689,-0.8396893 0.463748,0 0.839689,0.3759417 0.839689,0.8396893 z" />
           <circle
              r="0.83968931"
              cy="3.9384086"
              cx="34.780815"
              id="path13049"
              style="color:#000000;fill:url(#linearGradient13175);fill-rule:evenodd"
-             transform="matrix(1.3312,0,0,0.65845,-9.9649,10.96)" />
+             transform="matrix(1.3312,0,0,0.65845,-9.9649,10.96)"
+             d="m 35.620504,3.9384086 c 0,0.4637476 -0.375941,0.8396893 -0.839689,0.8396893 -0.463747,0 -0.839689,-0.3759417 -0.839689,-0.8396893 0,-0.4637476 0.375942,-0.8396893 0.839689,-0.8396893 0.463748,0 0.839689,0.3759417 0.839689,0.8396893 z" />
           <path
              inkscape:connector-curvature="0"
              id="path13051"
@@ -2904,7 +2923,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot10814"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.00000095px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-size:10.00000095px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        transform="matrix(2.1070468,0,0,2.1565517,-28.413776,284.69061)"><flowRegion
          id="flowRegion10816"><rect
            id="rect10818"
@@ -2912,14 +2931,14 @@
            height="151.14702"
            x="24.35544"
            y="-250.20569"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.00000095px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;text-anchor:start" /></flowRegion><flowPara
+           style="font-size:10.00000095px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></flowRegion><flowPara
          id="flowPara10820"
          style="font-size:4.87233925px;fill:#e20078;fill-opacity:1">Freifunk - Fräifunk - Fräie Funk?</flowPara><flowPara
          id="flowPara10822"
-         style="font-size:4.87233925px">Mir sinn eng Initiativ ouni Gewënnzweck mat dem Zil, enn flächendeckend fräit WLAN-Netzwierk opzebauen. Mir schaffen mat verschiddene Communautéiten uechter d'Land an ënnerstëtzen Geschäfts- a Privatleit dobäi, Freifunk bei sech ze installéieren.</flowPara></flowRoot>    <flowRoot
+         style="font-size:4.87233925px">Mir sinn eng Initiativ ouni Gewënnzweck mat dem Zil, een flächendeckend fräit WLAN-Netzwierk opzebauen. Mir schaffen mat verschiddene Communautéiten uechter d'Land an ënnerstëtzen Geschäfts- a Privatleit dobäi, Freifunk bei sech ze installéieren.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot10814-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.00000095px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-size:10.00000095px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        transform="matrix(2.0866227,0,0,2.155893,23.649116,502.58766)"><flowRegion
          id="flowRegion10816-6"><rect
            id="rect10818-7"
@@ -2927,13 +2946,13 @@
            height="151.14702"
            x="-0.28019533"
            y="-314.19019"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.00000095px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;text-anchor:start" /></flowRegion><flowPara
+           style="font-size:10.00000095px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></flowRegion><flowPara
          id="flowPara10820-5"
          style="font-size:4.86109495px;fill:#e20078;fill-opacity:1">Freifunk notzen</flowPara><flowPara
          id="flowPara10822-3"
          style="font-size:4.86109495px">An de WLAN-Astellunge vum Handy, Laptop, Tablet oder ähnlechem d'Netzwierk <flowSpan
    style="font-size:4.86109495px;fill:#e20078;fill-opacity:1"
-   id="flowSpan10851">&quot;luxembourg.freifunk.net&quot;</flowSpan> auswielen a scho surft een am fräien Netz! ET muss een sech néieren registréieren, et musse keng Notzungsbedingungen akzeptéiert ginn a mir protokolléiere keng iwwerdroen Daten.</flowPara></flowRoot>    <g
+   id="flowSpan10851">&quot;luxembourg.freifunk.net&quot;</flowSpan> auswielen a scho surft een am fräien Netz! Et muss een sech néierens registréieren, et musse keng Notzungsbedingungen akzeptéiert ginn a mir protokolléiere keng iwwerdroen Daten.</flowPara></flowRoot>    <g
        id="g12619"
        transform="translate(-403.7395,240.82913)">
       <g
@@ -3116,7 +3135,7 @@
       </g>
     </g>
     <path
-       style="display:inline;fill:none;stroke:#e61668;stroke-width:2.4000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.80000019, 2.4000001;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;stroke:#e61668;stroke-width:2.4000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.80000019, 2.4000001;stroke-dashoffset:0;display:inline"
        d="m 73.860511,151.41037 174.230159,0 0,11.78107"
        id="path11049"
        inkscape:connector-type="orthogonal"
