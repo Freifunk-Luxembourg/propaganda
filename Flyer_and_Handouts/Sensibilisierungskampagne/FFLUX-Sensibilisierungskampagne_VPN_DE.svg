@@ -13,7 +13,7 @@
    version="1.1"
    viewBox="0 0 1122.5197 793.70078"
    id="svg6811"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="FFLUX-Sensibilisierungskampagne_VPN_DE.svg"
    inkscape:export-filename="/home/andi/Pictures/Freifunk/flyerB.png"
    inkscape:export-xdpi="90"
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-width="1916"
+     inkscape:window-height="1036"
      id="namedview9283"
      showgrid="false"
-     inkscape:zoom="0.70710685"
-     inkscape:cx="587.86668"
-     inkscape:cy="502.55511"
+     inkscape:zoom="1.4142137"
+     inkscape:cx="413.12816"
+     inkscape:cy="617.20923"
      inkscape:window-x="0"
-     inkscape:window-y="31"
+     inkscape:window-y="20"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer4"
      showguides="false"
@@ -1394,37 +1394,40 @@
          style="font-size:40px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2019"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion2021"><rect
            id="rect2023"
            width="136.99998"
            height="102.99999"
            x="966.99988"
            y="676.70081" /></flowRegion><flowPara
-         id="flowPara2025" /></flowRoot>    <flowRoot
+         id="flowPara2025"
+         style="font-size:40px;line-height:0"> </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6980"
-       style="font-style:normal;font-weight:normal;font-size:13.10000038px;line-height:1000%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion6982"><rect
            id="rect6984"
            width="48.790363"
            height="15.909901"
            x="255.26552"
            y="583.33655" /></flowRegion><flowPara
-         id="flowPara6986" /></flowRoot>    <flowRoot
+         id="flowPara6986"
+         style="font-size:13.10000038px;line-height:10"> </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6988"
-       style="font-style:normal;font-weight:normal;font-size:13.10000038px;line-height:1000%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion6990"><rect
            id="rect6992"
            width="106.41956"
            height="51.61879"
            x="30.405588"
            y="713.09064" /></flowRegion><flowPara
-         id="flowPara6994" /></flowRoot>    <flowRoot
+         id="flowPara6994"
+         style="font-size:13.10000038px;line-height:10"> </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot7000"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10000038px;line-height:1000%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(0,-361.41691)"><flowRegion
          id="flowRegion7002"
          style="text-align:justify;text-anchor:start"><rect
@@ -1434,16 +1437,18 @@
            x="21.213202"
            y="721.92944"
            style="text-align:justify;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara7006">Das</flowPara></flowRoot>    <text
+         id="flowPara7006"
+         style="font-size:13.10000038px;line-height:10">Das</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10000038px;line-height:1000%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="36.062443"
        y="384.90775"
        id="text7206"><tspan
          sodipodi:role="line"
          id="tspan7204"
          x="36.062443"
-         y="454.43588" /></text>
+         y="384.90775"
+         style="font-size:13.10000038px;line-height:10"> </tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -5309,8 +5314,7 @@
            cx="64"
            cy="64"
            r="64"
-           id="circle2-2"
-           d="M 128,64 C 128,99.346224 99.346224,128 64,128 28.653776,128 0,99.346224 0,64 0,28.653776 28.653776,0 64,0 c 35.346224,0 64,28.653776 64,64 z" />
+           id="circle2-2" />
         <path
            inkscape:connector-curvature="0"
            style="fill:#f2b800"
@@ -5362,8 +5366,7 @@
            cx="64"
            cy="64"
            r="64"
-           id="circle2"
-           d="M 128,64 C 128,99.346224 99.346224,128 64,128 28.653776,128 0,99.346224 0,64 0,28.653776 28.653776,0 64,0 c 35.346224,0 64,28.653776 64,64 z" />
+           id="circle2" />
         <path
            inkscape:connector-curvature="0"
            style="fill:#f2b800"
@@ -5538,8 +5541,7 @@
            cx="507.17233"
            transform="matrix(1.2952059,0,0,1.3117826,-219.83453,-589.5362)"
            id="path4152-7-1-1-0"
-           style="fill:#ffffff;stroke:#000000;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 519.63895,332.96942 c 0,10.70052 -5.58149,19.375 -12.46662,19.375 -6.88512,0 -12.46662,-8.67448 -12.46662,-19.375 0,-10.70052 5.5815,-19.375 12.46662,-19.375 6.88513,0 12.46662,8.67448 12.46662,19.375 z" />
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
            sodipodi:nodetypes="ccccccccccc"
            inkscape:connector-curvature="0"
@@ -5810,8 +5812,7 @@
          id="path2499"
          cx="213.81021"
          cy="229.72453"
-         r="4.1216426"
-         d="m 217.93185,229.72453 c 0,2.27632 -1.84532,4.12165 -4.12164,4.12165 -2.27632,0 -4.12164,-1.84533 -4.12164,-4.12165 0,-2.27632 1.84532,-4.12164 4.12164,-4.12164 2.27632,0 4.12164,1.84532 4.12164,4.12164 z" />
+         r="4.1216426" />
       <path
          style="fill:#ef2b2d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 122.4,104.8 c -1.8161,3.65459 -5.87009,6.14189 -9.4,8 -7.23291,3.80733 -12.66553,7.8954 -17,12 -5.584395,-9.35318 -11.494932,-2.2848 -12.4,-0.4 1.726692,-9.08233 -9.855632,-4.65893 -8.8,-1.9 -5.234952,1.87789 -3.186713,7.14356 -0.4,10.7 0.579311,0.93749 -3.263788,9.25803 6.8,8.6 2.926305,-0.19134 7.386888,-4.3926 10.859683,-7.19526 l -2.508964,7.52689 c 4.130299,-0.8748 6.915534,-2.79947 8.684875,-5.40392 1.064151,-1.56642 1.361117,-3.57256 4.095076,-3.34757 0.24069,1.60503 0.28099,3.41044 -1.39311,7.01451 2.83062,-1.76408 5.66125,-3.73536 8.49187,-7.52689 0.38733,2.01531 0.18958,4.22564 -0.96498,6.75491 4.14011,-2.56077 8.32347,-4.73227 11.96583,-11.77284 v 7.3339 c 3.1658,-2.71411 7.31743,-3.62555 8.24961,-10.2814 0.26202,-1.87082 0.85642,-3.53141 2.95507,-3.62668 v 8.59657 c 3.60888,-3.34232 6.36476,-9.01934 7.11903,-11.41732 0,0 0.80592,2.01483 1.34321,4.29829 0.53728,2.28347 0.80593,4.83557 0.80593,4.83557 3.67259,-3.9178 4.10281,-8.12509 3.49236,-12.35757 0,0 2.01482,2.78716 2.95507,5.10421 0.94025,2.31705 1.07457,5.37286 1.07457,5.37286 l 2.28346,-4.02965 8.19361,-30.943594 -14.56743,-11.553479 -23.10696,21.097653 z"
@@ -5952,40 +5953,35 @@
            style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1"
            cx="177.8"
            cy="12.8"
-           r="1.8"
-           d="m 179.6,12.8 c 0,0.994113 -0.80588,1.8 -1.8,1.8 -0.99411,0 -1.8,-0.805887 -1.8,-1.8 0,-0.994112 0.80589,-1.8 1.8,-1.8 0.99412,0 1.8,0.805888 1.8,1.8 z" />
+           r="1.8" />
         <circle
            style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1"
            id="path2321"
            transform="translate(-11.4,1.3)"
            cx="177.8"
            cy="12.8"
-           r="1.8"
-           d="m 179.6,12.8 c 0,0.994113 -0.80588,1.8 -1.8,1.8 -0.99411,0 -1.8,-0.805887 -1.8,-1.8 0,-0.994112 0.80589,-1.8 1.8,-1.8 0.99412,0 1.8,0.805888 1.8,1.8 z" />
+           r="1.8" />
         <circle
            style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1"
            id="path2323"
            transform="translate(8.53063,2.7)"
            cx="177.8"
            cy="12.8"
-           r="1.8"
-           d="m 179.6,12.8 c 0,0.994113 -0.80588,1.8 -1.8,1.8 -0.99411,0 -1.8,-0.805887 -1.8,-1.8 0,-0.994112 0.80589,-1.8 1.8,-1.8 0.99412,0 1.8,0.805888 1.8,1.8 z" />
+           r="1.8" />
         <circle
            transform="translate(18,1.9)"
            id="path2325"
            style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1"
            cx="177.8"
            cy="12.8"
-           r="1.8"
-           d="m 179.6,12.8 c 0,0.994113 -0.80588,1.8 -1.8,1.8 -0.99411,0 -1.8,-0.805887 -1.8,-1.8 0,-0.994112 0.80589,-1.8 1.8,-1.8 0.99412,0 1.8,0.805888 1.8,1.8 z" />
+           r="1.8" />
         <circle
            style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1"
            id="path2327"
            transform="translate(29.2,4.3)"
            cx="177.8"
            cy="12.8"
-           r="1.8"
-           d="m 179.6,12.8 c 0,0.994113 -0.80588,1.8 -1.8,1.8 -0.99411,0 -1.8,-0.805887 -1.8,-1.8 0,-0.994112 0.80589,-1.8 1.8,-1.8 0.99412,0 1.8,0.805888 1.8,1.8 z" />
+           r="1.8" />
         <path
            id="path2377"
            d="m 154.93394,44.280604 2.64569,4.129851 0.0645,-4.968727 -2.71022,0.838876 z"
@@ -6136,8 +6132,7 @@
            cx="165.22421"
            cy="31.823902"
            rx="0.43346974"
-           ry="1.0114294"
-           d="m 165.65768,31.823902 c 0,0.558597 -0.19407,1.01143 -0.43347,1.01143 -0.2394,0 -0.43347,-0.452833 -0.43347,-1.01143 0,-0.558597 0.19407,-1.011429 0.43347,-1.011429 0.2394,0 0.43347,0.452832 0.43347,1.011429 z" />
+           ry="1.0114294" />
         <path
            id="path2428"
            d="m 144.39549,115.49983 -0.80593,-1.20889"
@@ -6436,7 +6431,7 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.90494156px;line-height:0%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f558d;fill-opacity:1;stroke:none;stroke-width:1.3254118"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f558d;fill-opacity:1;stroke:none;stroke-width:1.3254118"
        x="751.13318"
        y="125.50731"
        id="text3868-6"
@@ -6448,7 +6443,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.20658684px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#1f558d;stroke-width:1.3254118">Nur mit VPN im öffentlichen WLAN !</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.66703224px;line-height:0%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:1.0555861"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:1.0555861"
        x="555.92352"
        y="-294.33694"
        id="text12951"
@@ -6464,7 +6459,7 @@
        id="text14304"
        y="-261.33774"
        x="318.07718"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.90494156px;line-height:0%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f558d;fill-opacity:1;stroke:none;stroke-width:1.3254118"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f558d;fill-opacity:1;stroke:none;stroke-width:1.3254118"
        xml:space="preserve"
        transform="matrix(1.0044684,0,0,0.99555147,0,361.41691)"><tspan
          y="-261.33774"
@@ -6475,7 +6470,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot7008"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.59791851px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.88315994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.88315994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(1.1322978,0,0,1.1322978,-4.5090669,-306.46109)"><flowRegion
          id="flowRegion7010"
          style="font-size:10.59791851px;text-align:justify;text-anchor:start;stroke-width:0.88315994px"><rect
@@ -6486,14 +6481,14 @@
            y="709.20154"
            style="font-size:10.59791851px;text-align:justify;text-anchor:start;stroke-width:0.88315994px" /></flowRegion><flowPara
          id="flowPara7022"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.77546501px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#e20078;fill-opacity:1;stroke-width:0.88315994px">Offenes WLAN = Ohne Passwort</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.77546501px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.88315994px"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.77546501px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#e20078;fill-opacity:1;stroke-width:0.88315994px">Offenes WLAN = Ohne Passwort</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.77546501px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.88315994px"
          id="flowPara7044">Das bedeutet, dass jedes Gerät automatisch mit dem WLAN verbunden werden kann. Das Wissen eines Passwortes ist nicht notwendig.</flowPara><flowPara
          id="flowPara7040"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.77546501px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.88315994px">Es ist bei öffentlichen Hotspots jedoch nicht heraus zufinden &quot;Wer&quot; alles in Reichweite mitlauscht.</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.77546501px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.88315994px">Es ist bei öffentlichen Hotspots jedoch nicht heraus zufinden &quot;Wer&quot; alles in Reichweite mitlauscht.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot7008-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.59791851px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.88315994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.88315994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(1.1322978,0,0,1.1322978,-4.3757336,-188.22526)"><flowRegion
          id="flowRegion7010-6"
          style="font-size:10.59791851px;text-align:justify;text-anchor:start;stroke-width:0.88315994px"><rect
@@ -6504,14 +6499,14 @@
            y="709.20154"
            style="font-size:10.59791851px;text-align:justify;text-anchor:start;stroke-width:0.88315994px" /></flowRegion><flowPara
          id="flowPara7022-5"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.77546501px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#e20078;fill-opacity:1;stroke-width:0.88315994px">Ist dieses WLAN vertrauenswürdig?</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.77546501px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#e20078;fill-opacity:1;stroke-width:0.88315994px">Ist dieses WLAN vertrauenswürdig?</flowPara><flowPara
          id="flowPara7040-5"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.77546501px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.88315994px">JEIN, zum einfachen Surfen sicher, aber es kann jeder ohne viel Aufwand die Verbindung belauschen.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.77546501px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.88315994px"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.77546501px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.88315994px">JEIN, zum einfachen Surfen sicher, aber es kann jeder ohne viel Aufwand die Verbindung belauschen.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.77546501px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.88315994px"
          id="flowPara7082">Es ist nicht ratsam sensible Anwedungen wie Online-Banking oder Fernzugriff zur Arbeitsstelle zu tätigen.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot7008-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.59791851px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.88315994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.88315994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(1.1322978,0,0,1.1322978,367.9954,-306.46109)"><flowRegion
          id="flowRegion7010-2"
          style="font-size:10.59791851px;text-align:justify;text-anchor:start;stroke-width:0.88315994px"><rect
@@ -6522,12 +6517,12 @@
            y="709.20154"
            style="font-size:10.59791851px;text-align:justify;text-anchor:start;stroke-width:0.88315994px" /></flowRegion><flowPara
          id="flowPara7022-1"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.77546501px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#e20078;fill-opacity:1;stroke-width:0.88315994px">Geschlossenes WLAN = mit Password</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.77546501px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#e20078;fill-opacity:1;stroke-width:0.88315994px">Geschlossenes WLAN = mit Passwort</flowPara><flowPara
          id="flowPara7040-7"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.77546501px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.88315994px">Das bedeutet, dass jedes Gerät nur mit Passwort  mit dem WLAN verbunden werden kann. Es ist bei öffentlichen Hotspots jedoch nicht heraus zufinden &quot;Wer&quot; alles in Reichweite mitlauscht.</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.77546501px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.88315994px">Das bedeutet, dass jedes Gerät nur mit Passwort  mit dem WLAN verbunden werden kann. Es ist bei öffentlichen Hotspots jedoch nicht heraus zufinden &quot;Wer&quot; alles in Reichweite mitlauscht.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot7008-3-0"
-       style="font-size:10.59791851px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(1.1322978,0,0,1.1322978,368.56873,-188.22526)"><flowRegion
          id="flowRegion7010-6-9"
          style="font-size:10.59791851px;text-align:justify;text-anchor:start"><rect
@@ -6538,14 +6533,14 @@
            y="709.20154"
            style="font-size:10.59791851px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
          id="flowPara7022-5-6"
-         style="font-size:11.77546501px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#e20078;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">Ist dieses WLAN vertrauenswürdig?</flowPara><flowPara
-         style="font-size:11.77546501px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.77546501px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#e20078;fill-opacity:1">Ist dieses WLAN vertrauenswürdig?</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.77546501px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'"
          id="flowPara7169">JEIN, zum einfachen Surfen sicher, aber es kann jeder ohne viel Aufwand die Verbindung belauschen. Da jeder das Password weiss, kann niemand wissen &quot;Wer&quot; in Reichweite mitlauscht.</flowPara><flowPara
-         style="font-size:11.77546501px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.77546501px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'"
          id="flowPara7171">Es ist nicht ratsam sensible Anwendungen wie Online-Banking oder Fernzufriff zur Arbeitsstelle zu tätigen.</flowPara></flowRoot>    <text
        transform="translate(0,361.41691)"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10000038000000089px;line-height:1000%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="38.115982"
        y="401.17117"
        id="text7210"><tspan
@@ -6553,11 +6548,11 @@
          id="tspan7208"
          x="38.115982"
          y="401.17117"
-         style="font-size:18.66666602999999824px;fill:#e20078;fill-opacity:1">Mit oder ohne Passwort sind öffentliche Hotspots NICHT VERTRAUENSWÜRDIG!</tspan></text>
+         style="font-size:18.66666603px;line-height:10;fill:#e20078;fill-opacity:1">Mit oder ohne Passwort sind öffentliche Hotspots NICHT VERTRAUENSWÜRDIG!</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot7008-9"
-       style="font-size:10.59791851px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(1.1322978,0,0,1.1322978,735.74698,-306.46109)"><flowRegion
          id="flowRegion7010-20"
          style="font-size:10.59791851px;text-align:justify;text-anchor:start"><rect
@@ -6568,12 +6563,12 @@
            y="709.20154"
            style="font-size:10.59791851px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
          id="flowPara7022-3"
-         style="font-size:11.77546501px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#e20078;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">Offenes WLAN = ohne Password ABER mit VPN!</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.77546501px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#e20078;fill-opacity:1">Offenes WLAN = ohne Passwort ABER mit VPN!</flowPara><flowPara
          id="flowPara7040-59"
-         style="font-size:11.77546501px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">Das bedeutet, dass jedes Gerät automatisch mit dem WLAN verbunden werden kann. Das Wissen eines Passwortes ist nicht notwendig. Durch die Verwendung eines &quot;Tunnels&quot; (VPN) ist es nicht möglich, dass die Daten vom Gerät bis zum WLAN-Router belauscht werden können.</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.77546501px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'">Das bedeutet, dass jedes Gerät automatisch mit dem WLAN verbunden werden kann. Das Wissen eines Passwortes ist nicht notwendig. Durch die Verwendung eines &quot;Tunnels&quot; (VPN) ist es nicht möglich, dass die Daten vom Gerät bis zum WLAN-Router belauscht werden können.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot7008-3-0-3"
-       style="font-size:10.59791851px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(1.1322978,0,0,1.1322978,735.76031,-188.22526)"><flowRegion
          id="flowRegion7010-6-9-6"
          style="font-size:10.59791851px;text-align:justify;text-anchor:start"><rect
@@ -6584,12 +6579,12 @@
            y="709.20154"
            style="font-size:10.59791851px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
          id="flowPara7022-5-6-2"
-         style="font-size:11.77546501px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#e20078;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">Ist dieses WLAN vertrauenswürdig?</flowPara><flowPara
-         style="font-size:11.77546501px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.77546501px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#e20078;fill-opacity:1">Ist dieses WLAN vertrauenswürdig?</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.77546501px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'"
          id="flowPara7171-3">Ja, nur durch die Verwendung von extra Programmen ist es möglich auch mit öffentlichen WLAN-Netzwerken sicher sich zu verbinden.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot7008-3-0-3-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.59791851px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.98018241px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.98018241px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(0.91923299,0,0,1.1322978,740.65057,-105.7896)"><flowRegion
          id="flowRegion7010-6-9-6-9"
          style="font-size:10.59791851px;text-align:justify;text-anchor:start;stroke-width:0.98018241px"><rect
@@ -6600,12 +6595,12 @@
            y="709.20154"
            style="font-size:10.59791851px;text-align:justify;text-anchor:start;stroke-width:0.98018241px" /></flowRegion><flowPara
          id="flowPara7022-5-6-2-7"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.06909752px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#e20078;fill-opacity:1;stroke-width:0.98018241px">Eine Liste von vertraunswürdigen VPN's finden sie hier:</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.06909752px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.98018241px"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.06909752px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#e20078;fill-opacity:1;stroke-width:0.98018241px">Eine Liste von vertraunswürdigen VPN's finden sie hier:</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.06909752px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.98018241px"
          id="flowPara7171-3-8">https://www.mul.li/1mwqhh920lv</flowPara></flowRoot>    <text
        transform="translate(0,361.41691)"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.10000038px;line-height:1000%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="98.701286"
        y="-217.46373"
        id="text3198"><tspan
@@ -6613,11 +6608,11 @@
          id="tspan3196"
          x="98.701286"
          y="-217.46373"
-         style="font-size:26.66666603px">Ohne Passwort</tspan></text>
+         style="font-size:26.66666603px;line-height:10">Ohne Passwort</tspan></text>
     <text
        transform="translate(0,361.41691)"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:26.66666603px;line-height:1000%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="483.94742"
        y="-218.5304"
        id="text3198-3"><tspan
@@ -6625,10 +6620,10 @@
          id="tspan3196-6"
          x="483.94742"
          y="-218.5304"
-         style="font-size:26.66666603px">Mit Passwort</tspan></text>
+         style="font-size:26.66666603px;line-height:10">Mit Passwort</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.27639723px;line-height:0%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:0.4396998"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:0.4396998"
        x="1294.4172"
        y="149.27687"
        id="text3461-9"
@@ -6644,7 +6639,7 @@
    id="tspan4349-7">.</tspan>lu</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.27639723px;line-height:0%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:0.4396998"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#e20078;fill-opacity:1;stroke:none;stroke-width:0.4396998"
        x="255.70898"
        y="149.76872"
        id="text3461"
