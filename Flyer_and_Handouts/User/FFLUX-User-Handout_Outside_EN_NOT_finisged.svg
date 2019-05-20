@@ -13,7 +13,7 @@
    version="1.1"
    viewBox="0 0 841.88977 595.27561"
    id="svg6811"
-   inkscape:version="0.92.4 (unknown)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="FFLUX-User-Handout_Outside_EN_NOT_finisged.svg"
    inkscape:export-filename="/home/andi/Pictures/Freifunk/flyerB.png"
    inkscape:export-xdpi="90"
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2746"
-     inkscape:window-height="1509"
+     inkscape:window-width="1919"
+     inkscape:window-height="996"
      id="namedview9283"
      showgrid="false"
-     inkscape:zoom="4.0000004"
-     inkscape:cx="323.07101"
-     inkscape:cy="158.39075"
-     inkscape:window-x="134"
-     inkscape:window-y="55"
+     inkscape:zoom="1.4142137"
+     inkscape:cx="395.92563"
+     inkscape:cy="607.72615"
+     inkscape:window-x="1"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="Hauptebene"
      showguides="true"
@@ -1304,7 +1304,7 @@
          y="-240.13786"
          x="28.360476"
          sodipodi:role="line"
-         id="tspan14314">YES! The datatraffic from the FreiFunk-network is completely </tspan><tspan
+         id="tspan14314">YES! The datatraffic from the Freifunk-network is completely </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.00000095px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#000000"
          y="-227.63786"
          x="28.360476"
@@ -1324,7 +1324,7 @@
          y="-190.13786"
          x="28.360476"
          sodipodi:role="line"
-         id="tspan14330">NO! The FreiFunk-Router uses only a part of your bandwidth. </tspan><tspan
+         id="tspan14330">NO! The Freifunk-Router uses only a part of your bandwidth. </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.00000095px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#000000"
          y="-177.63786"
          x="28.360476"
@@ -1334,7 +1334,7 @@
          y="-165.13786"
          x="28.360476"
          sodipodi:role="line"
-         id="tspan14334">to the FreiFunk-network. </tspan><tspan
+         id="tspan14334">to the Freifunk-network. </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.00000095px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#000000"
          y="-152.63786"
          x="28.360476"
@@ -1349,7 +1349,7 @@
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.00000095px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#000000"
          y="-127.63786"
          x="28.360476"
-         sodipodi:role="line">A small FreiFunk-router cost around 20€. </tspan><tspan
+         sodipodi:role="line">A small Freifunk-router cost around 20€. </tspan><tspan
          id="tspan12305"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.00000095px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#000000"
          y="-115.13786"
@@ -1381,7 +1381,7 @@
          x="28.360476"
          y="-45.425674"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-         id="tspan14571">Genral information about FreiFunk can be found on:</tspan><tspan
+         id="tspan14571">Genral information about Freifunk can be found on:</tspan><tspan
          sodipodi:role="line"
          x="28.360476"
          y="-32.925674"
@@ -1401,7 +1401,7 @@
          x="28.360476"
          y="4.574327"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-         id="tspan6022">We are using the FreiFunk infratructur in Luxemburg: </tspan><tspan
+         id="tspan6022">We are using the Freifunk infratructur in Luxemburg: </tspan><tspan
          sodipodi:role="line"
          x="28.360476"
          y="17.074327"
@@ -1446,7 +1446,7 @@
          x="28.360476"
          y="117.07433"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e20078"
-         id="tspan14496">Meet the FreiFunk-team:</tspan><tspan
+         id="tspan14496">Meet the Freifunk-team:</tspan><tspan
          sodipodi:role="line"
          x="28.360476"
          y="129.57433"

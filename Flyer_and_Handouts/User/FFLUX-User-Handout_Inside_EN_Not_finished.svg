@@ -13,7 +13,7 @@
    version="1.1"
    viewBox="0 0 841.88977 595.27561"
    id="svg6811"
-   inkscape:version="0.92.4 (unknown)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="FFLUX-User-Handout_Inside_EN_Not_finished.svg">
   <metadata
      id="metadata9285">
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2746"
-     inkscape:window-height="1509"
+     inkscape:window-width="1919"
+     inkscape:window-height="996"
      id="namedview9283"
      showgrid="false"
-     inkscape:zoom="4.7011553"
-     inkscape:cx="787.92204"
-     inkscape:cy="127.41725"
-     inkscape:window-x="134"
-     inkscape:window-y="55"
+     inkscape:zoom="1.1752888"
+     inkscape:cx="515.23757"
+     inkscape:cy="370.30436"
+     inkscape:window-x="1"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="Hauptebene"
      showguides="true"
@@ -1889,7 +1889,7 @@
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#e20078"
          y="-168.0746"
          x="36.951576"
-         sodipodi:role="line">using Freifunk</tspan><tspan
+         sodipodi:role="line">Using Freifunk</tspan><tspan
          id="tspan12301"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#000000"
          y="-155.5746"
@@ -1996,12 +1996,12 @@
          y="-24.832626"
          x="318.6503"
          id="tspan10810"
-         sodipodi:role="line">2. Flashing with FreFunk-Firmware</tspan><tspan
+         sodipodi:role="line">2. Flashing with Freifunk-Firmware</tspan><tspan
          id="tspan10814"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.80000019px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#e0216c;fill-opacity:1"
          y="-13.832626"
          x="318.6503"
-         sodipodi:role="line">Fin the How-to on: freifunk.lu</tspan><tspan
+         sodipodi:role="line">Find the How-to on: freifunk.lu</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.80000019px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#e0216c;fill-opacity:1"
          y="-2.8326259"
          x="318.6503"
@@ -2011,7 +2011,7 @@
          y="8.1673746"
          x="318.6503"
          sodipodi:role="line"
-         id="tspan3849">Deatils on the back page</tspan></text>
+         id="tspan3849">Details on the back page</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#e0216c;fill-opacity:1;stroke:none"
@@ -2019,20 +2019,20 @@
        y="62.367268"
        id="text10818"><tspan
          sodipodi:role="line"
-         x="101.27294"
+         x="101.27293"
          y="62.367268"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.80000019px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1"
-         id="tspan10824">3. Connect the FreiFunk node with </tspan><tspan
+         id="tspan10824">3. Connect the Freifunk node with </tspan><tspan
          sodipodi:role="line"
          x="100.25028"
          y="73.367271"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.80000019px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1"
          id="tspan10858">your privat router, if possible.</tspan><tspan
          sodipodi:role="line"
-         x="101.27293"
+         x="101.27294"
          y="84.367271"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.80000019px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#e0216c;fill-opacity:1"
-         id="tspan10822">Freifunk-WLAN will become available </tspan><tspan
+         id="tspan10822">FreiFunk-WLAN will become available </tspan><tspan
          sodipodi:role="line"
          x="100.25028"
          y="95.367271"
@@ -2179,22 +2179,22 @@
          x="436.78757"
          y="-80.43248"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-         id="tspan12732">If your guest uses the FreiFunk-router to access the internet, than all the traffic</tspan><tspan
+         id="tspan12732">If your guest uses the Freifunk-router to access the internet, than all the traffic</tspan><tspan
          sodipodi:role="line"
          x="436.78757"
          y="-67.93248"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-         id="tspan1281">will be legally encrypted and tunneled throught the FreiFunk-network (VPN) </tspan><tspan
+         id="tspan1281">will be legally encrypted and tunneled throught the Freifunk-network (VPN) </tspan><tspan
          sodipodi:role="line"
          x="436.78757"
          y="-55.43248"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-         id="tspan13267">to the FreiFunk-server. Only at this point will the traffic enter the internet</tspan><tspan
+         id="tspan13267">to the Freifunk-server. Only at this point will the traffic enter the internet</tspan><tspan
          sodipodi:role="line"
          x="436.78757"
          y="-49.140213"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-         id="tspan1285"></tspan><tspan
+         id="tspan1285" /><tspan
          sodipodi:role="line"
          x="436.78757"
          y="-42.93248"
@@ -2276,7 +2276,7 @@
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
          id="tspan12754"><tspan
    id="tspan12825"
-   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e20078">conclusion: </tspan>Guests in your FreiFunk-network don't surfe with your</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e20078">conclusion: </tspan>Guests in your Freifunk-network don't surfe with your</tspan><tspan
          sodipodi:role="line"
          x="436.78757"
          y="157.06752"
@@ -2286,12 +2286,12 @@
          x="436.78757"
          y="169.56752"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-         id="tspan12837">You are only providing with a FreiFunk-router  the needed infrastucture</tspan><tspan
+         id="tspan12837">You are only providing with a Freifunk-router  the needed infrastucture</tspan><tspan
          sodipodi:role="line"
          x="436.78757"
          y="182.06752"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-         id="tspan12843">to connect to the FreiFunk-provider.       </tspan></text>
+         id="tspan12843">to connect to the Freifunk-provider.       </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1f558d;fill-opacity:1;stroke:none"
@@ -6020,6 +6020,6 @@
          id="tspan1289"
          x="496.89914"
          y="183.46861"
-         style="stroke-width:0.80000001"></tspan></text>
+         style="stroke-width:0.80000001" /></text>
   </g>
 </svg>
